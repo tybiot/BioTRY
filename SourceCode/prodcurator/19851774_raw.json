@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The major changes upon a <span id=\"titer\">150 mM</span> <span id=\"chem\">NaCl</span> exposure in potato leaves occurred in the photosystem apparatus and Calvin cycle: many transcripts coding for proteins belonging to photosystems I and II and <span id=\"chem\">chlorophyll</span> synthesis were repressed.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "chlorophyll",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The major changes upon a 150 mM NaCl exposure in potato leaves occurred in the photosystem apparatus and Calvin cycle: many transcripts coding for proteins belonging to photosystems I and II and chlorophyll synthesis were repressed."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0
+    ]
+  ]
+}

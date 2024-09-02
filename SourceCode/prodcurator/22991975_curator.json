@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "Isolates displaying minimum inhibitory concentrations (MICs) of > 2 mg/l by Etest to cefpodoxime and/or MICs > 1 mg/l to any other ESCs were included (n = 54; 35 E. coli, 11 K. pneumoniae, and 8 K. oxytoca).",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "cefpodoxime",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "2 mg/l",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "cefpodoxime",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1 mg/l",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

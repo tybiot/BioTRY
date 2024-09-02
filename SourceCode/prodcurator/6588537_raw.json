@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Serosal side application of <span id=\"chem\">indomethacin</span> (10(-5) M) or <span id=\"chem\">aspirin</span> (3 X 10(-3) M) inhibited alkali secretion by fundic mucosa (mean +/- SE: 0.55 +/- 0.06 to 0.12 +/- <span id=\"titer\">0.06 mumol</span> X cm-2 X h-1, n = 6, p less than 0.01 and 0.28 +/- 0.06 to 0.11 +/- <span id=\"titer\">0.03 mumol</span> X cm-2 X h-1, n = 7, p less than 0.02 respectively) and antral mucosa (0.80 +/- 0.03 to 0.53 +/- <span id=\"titer\">0.21 mumol</span> X cm-2 X h-1, n = 5, p less than 0.01 and 0.75 +/- 0.23 to 0.47 +/- <span id=\"titer\">0.20 mumol</span> X cm-2 X h-1, n = 8, p less than 0.01 respectively).</div>",
+    "Sentence 1: <div id_class=\"result-body\"><span id=\"chem\">Serosal side 16,16 dimethyl E2</span> (10(-6) M) stimulated alkali secretion by fundic mucosa (0.90 +/- 0.20 to 1.50 +/- <span id=\"titer\">0.30 mumol</span> X cm-2 X h-1, n = 6, p less than 0.01) and abolished the inhibition of alkali production caused by <span id=\"chem\">indomethacin</span> in fundic and antral mucosae.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.06 mumol",
+        "prodpos": [
+          "39",
+          "41"
+        ]
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.03 mumol",
+        "prodpos": [
+          "63",
+          "65"
+        ]
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.21 mumol",
+        "prodpos": [
+          "92",
+          "94"
+        ]
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.20 mumol",
+        "prodpos": [
+          "116",
+          "118"
+        ]
+      },
+      {
+        "chem": "aspirin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.06 mumol",
+        "prodpos": [
+          "39",
+          "41"
+        ]
+      },
+      {
+        "chem": "aspirin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.03 mumol",
+        "prodpos": [
+          "63",
+          "65"
+        ]
+      },
+      {
+        "chem": "aspirin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.21 mumol",
+        "prodpos": [
+          "92",
+          "94"
+        ]
+      },
+      {
+        "chem": "aspirin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.20 mumol",
+        "prodpos": [
+          "116",
+          "118"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Serosal side 16,16 dimethyl E2",
+        "chempos": [
+          "0",
+          "5"
+        ],
+        "prod": "0.30 mumol",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "0.30 mumol",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Serosal side application of indomethacin (10(-5) M) or aspirin (3 X 10(-3) M) inhibited alkali secretion by fundic mucosa (mean +/- SE: 0.55 +/- 0.06 to 0.12 +/- 0.06 mumol X cm-2 X h-1, n = 6, p less than 0.01 and 0.28 +/- 0.06 to 0.11 +/- 0.03 mumol X cm-2 X h-1, n = 7, p less than 0.02 respectively) and antral mucosa (0.80 +/- 0.03 to 0.53 +/- 0.21 mumol X cm-2 X h-1, n = 5, p less than 0.01 and 0.75 +/- 0.23 to 0.47 +/- 0.20 mumol X cm-2 X h-1, n = 8, p less than 0.01 respectively).",
+    "Serosal side 16,16 dimethyl E2 (10(-6) M) stimulated alkali secretion by fundic mucosa (0.90 +/- 0.20 to 1.50 +/- 0.30 mumol X cm-2 X h-1, n = 6, p less than 0.01) and abolished the inhibition of alkali production caused by indomethacin in fundic and antral mucosae."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The paper presents experimental data on the pesticides action (<span id=\"chem\">molinate</span> (<span id=\"chem\">OrdramA</span>), <span id=\"chem\">Dinitroortocresolum</span> and <span id=\"chem\">chlorophos</span>) at concentrations of <span id=\"titer\">0.01 mg /l</span> to <span id=\"titer\">10 mg/l</span> on sanitary-indicative (TBC, total coliform bacteria, E. coli, E. faecalis), potentially pathogenic ( Ps. aeruginosa) and pathogenic (S .</div>",
+    "Sentence 2: <div id_class=\"result-body\">The selectivity of <span id=\"chem\">OrdramA</span> action at a concentration of 0.1 to <span id=\"titer\">10 mg/l</span> on Salmonella and of <span id=\"chem\">chlorophos</span> at a concentration of <span id=\"titer\">10 mg/l</span> for Salmonella and E. coli is manifested in the stimulation of the reproduction of these bacteria.</div>",
+    "Sentence 3: <div id_class=\"result-body\"><span id=\"chem\">Dinitroortocresolum</span> in concentrations of <span id=\"titer\">10 mg/l</span> and <span id=\"titer\">1 mg/l</span> gives rise in the reproduction of Pseudomonas aeruginosa and inhibits the growth of total coliform bacteria and E. coli, in a concentration of <span id=\"titer\">0.1 mg/l</span> the preparation stimulates the viability of all the studied microorganisms.</div>"
+  ],
+  "id": [
+    0,
+    2,
+    3
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "molinate",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "0.01 mg /l",
+        "prodpos": [
+          "22",
+          "25"
+        ]
+      },
+      {
+        "chem": "molinate",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      },
+      {
+        "chem": "OrdramA",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.01 mg /l",
+        "prodpos": [
+          "22",
+          "25"
+        ]
+      },
+      {
+        "chem": "OrdramA",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      },
+      {
+        "chem": "Dinitroortocresolum",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.01 mg /l",
+        "prodpos": [
+          "22",
+          "25"
+        ]
+      },
+      {
+        "chem": "Dinitroortocresolum",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      },
+      {
+        "chem": "chlorophos",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.01 mg /l",
+        "prodpos": [
+          "22",
+          "25"
+        ]
+      },
+      {
+        "chem": "chlorophos",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "OrdramA",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "11",
+          "15"
+        ]
+      },
+      {
+        "chem": "OrdramA",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "24",
+          "28"
+        ]
+      },
+      {
+        "chem": "chlorophos",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "11",
+          "15"
+        ]
+      },
+      {
+        "chem": "chlorophos",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "24",
+          "28"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Dinitroortocresolum",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "10 mg/l",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "Dinitroortocresolum",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "1 mg/l",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "Dinitroortocresolum",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.1 mg/l",
+        "prodpos": [
+          "37",
+          "41"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The paper presents experimental data on the pesticides action (molinate (OrdramA), Dinitroortocresolum and chlorophos) at concentrations of 0.01 mg /l to 10 mg/l on sanitary-indicative (TBC, total coliform bacteria, E. coli, E. faecalis), potentially pathogenic ( Ps. aeruginosa) and pathogenic (S .",
+    "Derby) microflora of the river water.",
+    "The selectivity of OrdramA action at a concentration of 0.1 to 10 mg/l on Salmonella and of chlorophos at a concentration of 10 mg/l for Salmonella and E. coli is manifested in the stimulation of the reproduction of these bacteria.",
+    "Dinitroortocresolum in concentrations of 10 mg/l and 1 mg/l gives rise in the reproduction of Pseudomonas aeruginosa and inhibits the growth of total coliform bacteria and E. coli, in a concentration of 0.1 mg/l the preparation stimulates the viability of all the studied microorganisms."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1
+    ]
+  ]
+}

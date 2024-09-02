@@ -1,0 +1,106 @@
+{
+  "sentence0": {
+    "sentece_text": "When irradiated with AzIN at concentrations approaching IN saturation for the IN----Trp activity (0.1 mM), in the absence of serine, the enzyme was increasingly inactivated (up to 70-80%) concomitant with the progressive binding of a net of 2 mol AzIN per alpha beta equivalent.",
+    "PRO": [
+      {
+        "chem": "AzIN",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2 mol",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "serine",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "serine",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "2 mol",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "AzIN",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "AzIN",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "AzIN",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "2 mol",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Little or no cooperativity in the binding of the 2 mol AzIN was observed.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "AzIN",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "2 mol",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

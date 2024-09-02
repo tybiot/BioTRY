@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Residual contaminating <span id=\"chem\">iron</span>, <span id=\"titer\">0.45 microM</span>, was sufficient to support <span id=\"chem\">iron</span>-limited growth.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Typical <span id=\"chem\">iron-replete</span> cultures metabolized <span id=\"titer\">3.3 microM</span> <span id=\"chem\">iron</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "iron",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.45 microM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "iron",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.45 microM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "iron-replete",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "3.3 microM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "chem": "iron",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "3.3 microM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Residual contaminating iron, 0.45 microM, was sufficient to support iron-limited growth.",
+    "Typical iron-replete cultures metabolized 3.3 microM iron."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "sentence0": {
+    "sentece_text": "The non-glycosylated form had a slightly higher affinity (Kd = 1.4 +/- 0.4 microM) than the glycosylated vWF-A1 protein (Kd = 4.5 +/- 0.9 microM) but had similar binding capacity of 28,000 GpIb/IX-specific binding sites per platelet.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "GpIb",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "0.4 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "GpIb",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "0.9 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Both E. coli- and CHO-derived vWF-A1 proteins inhibited ristocetin-induced platelet agglutination with IC50 values of 300 and 700 nM, respectively.",
+    "PRO": [
+      {
+        "chem": "CHO",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "300 nM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CHO",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "700 nM",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ristocetin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "300 nM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ristocetin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "700 nM",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "Reduction of the only disulfide bond between C509 and C695 abolished platelet binding activity at concentration up to 2 microM of protein.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "disulfide",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "2 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">FRP, which uses <span id=\"chem\">FMN</span> as a cofactor to mediate the reduction of the <span id=\"chem\">flavin</span> substrate by <span id=\"chem\">NADPH</span>, exhibited a ping-pong kinetic pattern with a Km, <span id=\"chem\">FMN</span> of <span id=\"titer\">8 microM</span> and a <span id=\"chem\">Km,NADPH</span> of <span id=\"titer\">20 microM</span> in a single-enzyme spectrophotometric assay monitoring the <span id=\"chem\">NADPH</span> oxidation.</div>",
+    "Sentence 1: <div id_class=\"result-body\">However, the kinetic mechanism of FRP was changed to a sequential pattern with a Km,<span id=\"chem\">FMN</span> of <span id=\"titer\">0.3 microM</span> and a <span id=\"chem\">Km,NADPH</span> of <span id=\"titer\">0.02 microM</span> in a luciferase-coupled assay measuring light emission.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Moreover, for the FRP, <span id=\"chem\">FMN</span> at concentrations over <span id=\"titer\">2 microM</span> significantly inhibited the coupled reaction in both light intensity and quantum yield, and showed apparent noncompetitive and competitive inhibition patterns against <span id=\"chem\">NADPH</span> and luciferase, respectively.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "FMN",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "FMN",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ]
+      },
+      {
+        "chem": "flavin",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "flavin",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ]
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ]
+      },
+      {
+        "chem": "FMN",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "FMN",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ]
+      },
+      {
+        "chem": "Km,NADPH",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "Km,NADPH",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ]
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "FMN",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.3 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ]
+      },
+      {
+        "chem": "FMN",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.02 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "Km,NADPH",
+        "chempos": [
+          "23",
+          "26"
+        ],
+        "prod": "0.3 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ]
+      },
+      {
+        "chem": "Km,NADPH",
+        "chempos": [
+          "23",
+          "26"
+        ],
+        "prod": "0.02 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "FMN",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "2 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "2 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "FRP, which uses FMN as a cofactor to mediate the reduction of the flavin substrate by NADPH, exhibited a ping-pong kinetic pattern with a Km, FMN of 8 microM and a Km,NADPH of 20 microM in a single-enzyme spectrophotometric assay monitoring the NADPH oxidation.",
+    "However, the kinetic mechanism of FRP was changed to a sequential pattern with a Km,FMN of 0.3 microM and a Km,NADPH of 0.02 microM in a luciferase-coupled assay measuring light emission.",
+    "Moreover, for the FRP, FMN at concentrations over 2 microM significantly inhibited the coupled reaction in both light intensity and quantum yield, and showed apparent noncompetitive and competitive inhibition patterns against NADPH and luciferase, respectively."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ]
+}

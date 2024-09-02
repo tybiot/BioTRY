@@ -1,0 +1,130 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The hydrolysates could readily be fermented without addition of nutrients and with average fermentation yields of <span id=\"yields\">0.43 +/- 0.02 g/g</span> based on consumed <span id=\"chem\">mannose</span> and <span id=\"chem\">glucose</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Employing SSF, final <span id=\"chem\">ethanol</span> concentrations of <span id=\"yields\">70 g/kg</span> was achieved in 216 h, corresponding to an <span id=\"chem\">ethanol</span> yield of <span id=\"yields\">70% mol/mol</span> of theoretical or 200 g <span id=\"chem\">ethanol</span>/kg PKC.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "mannose",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "0.43 +/- 0.02 g/g",
+        "prodpos": [
+          "16",
+          "23"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "0.43 +/- 0.02 g/g",
+        "prodpos": [
+          "16",
+          "23"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "70 g/kg",
+        "prodpos": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "70% mol/mol",
+        "prodpos": [
+          "23",
+          "28"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "70 g/kg",
+        "prodpos": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "70% mol/mol",
+        "prodpos": [
+          "23",
+          "28"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "70 g/kg",
+        "prodpos": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "70% mol/mol",
+        "prodpos": [
+          "23",
+          "28"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The hydrolysates could readily be fermented without addition of nutrients and with average fermentation yields of 0.43 +/- 0.02 g/g based on consumed mannose and glucose.",
+    "Employing SSF, final ethanol concentrations of 70 g/kg was achieved in 216 h, corresponding to an ethanol yield of 70% mol/mol of theoretical or 200 g ethanol/kg PKC."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ]
+}

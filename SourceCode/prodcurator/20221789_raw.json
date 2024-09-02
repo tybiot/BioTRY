@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The highest protein yield was obtained by: transforming HbII into the BLi5 cells, inducing and supplementing the culture during the mid-log phase with <span id=\"titer\">1 mM</span> <span id=\"chem\">IPTG</span>, <span id=\"titer\">30 microg/mL</span> <span id=\"chem\">hemin chloride</span> and 1% <span id=\"chem\">glucose</span>, and decreasing the temperature to 30 degrees C after induction.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "IPTG",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "IPTG",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "30 microg/mL",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      },
+      {
+        "chem": "hemin chloride",
+        "chempos": [
+          "35",
+          "37"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "hemin chloride",
+        "chempos": [
+          "35",
+          "37"
+        ],
+        "prod": "30 microg/mL",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "30 microg/mL",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The highest protein yield was obtained by: transforming HbII into the BLi5 cells, inducing and supplementing the culture during the mid-log phase with 1 mM IPTG, 30 microg/mL hemin chloride and 1% glucose, and decreasing the temperature to 30 degrees C after induction."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ]
+}

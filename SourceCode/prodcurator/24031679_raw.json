@@ -1,0 +1,215 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">A culture of Saccharomyces cerevisiae M30 entrapped in loofa-reinforced <span id=\"chem\">alginate</span> was used for continuous <span id=\"chem\">ethanol</span> fermentation in a packed-bed reactor with initial <span id=\"chem\">sugar</span> concentrations of <span id=\"titer\">200-248 g/L</span> .</div>",
+    "Sentence 1: <div id_class=\"result-body\">Maximum <span id=\"chem\">ethanol</span> productivity of <span id=\"titer\">11.5 g/L</span>/h was obtained at an <span id=\"chem\">ethanol</span> concentration of <span id=\"titer\">57.4 g/L</span>, an initial <span id=\"chem\">sugar</span> concentration of <span id=\"titer\">220 g/L</span> and a dilution rate (D) of 0.2/h.</div>",
+    "Sentence 2: <div id_class=\"result-body\">However, a maximum <span id=\"chem\">ethanol</span> concentration of <span id=\"titer\">82.1 g/L</span> (productivity of <span id=\"titer\">9.0 g/L</span>/h) was obtained at a D of 0.11/h.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "alginate",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "200-248 g/L",
+        "prodpos": [
+          "29",
+          "35"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "200-248 g/L",
+        "prodpos": [
+          "29",
+          "35"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "200-248 g/L",
+        "prodpos": [
+          "29",
+          "35"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "11.5 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "57.4 g/L",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "220 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "11.5 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "57.4 g/L",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "220 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "11.5 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "57.4 g/L",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "220 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "82.1 g/L",
+        "prodpos": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "9.0 g/L",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "A culture of Saccharomyces cerevisiae M30 entrapped in loofa-reinforced alginate was used for continuous ethanol fermentation in a packed-bed reactor with initial sugar concentrations of 200-248 g/L .",
+    "Maximum ethanol productivity of 11.5 g/L/h was obtained at an ethanol concentration of 57.4 g/L, an initial sugar concentration of 220 g/L and a dilution rate (D) of 0.2/h.",
+    "However, a maximum ethanol concentration of 82.1 g/L (productivity of 9.0 g/L/h) was obtained at a D of 0.11/h."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1
+    ]
+  ]
+}

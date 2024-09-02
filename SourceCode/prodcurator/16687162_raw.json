@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Based on DO production, median effective concentration (EC50) varies from <span id=\"titer\">1.73 mg/L</span> (<span id=\"chem\">1-octanol</span>) to <span id=\"titer\">8,040 mg/L</span> (<span id=\"chem\">2-propanol</span>).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "1-octanol",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "1.73 mg/L",
+        "prodpos": [
+          "13",
+          "17"
+        ]
+      },
+      {
+        "chem": "1-octanol",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "8,040 mg/L",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "2-propanol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "1.73 mg/L",
+        "prodpos": [
+          "13",
+          "17"
+        ]
+      },
+      {
+        "chem": "2-propanol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "8,040 mg/L",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Based on DO production, median effective concentration (EC50) varies from 1.73 mg/L (1-octanol) to 8,040 mg/L (2-propanol)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

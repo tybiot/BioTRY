@@ -1,0 +1,332 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The <span id=\"chem\">[3H]-prazosin</span> binding was of high affinity (Kd = <span id=\"titer\">0.15 nM</span>), saturable (Bmax = <span id=\"yields\">75-125 fmol/mg</span> protein), and competed for by agonists and antagonists in the order expected for an alpha 1 receptor.</div>",
+    "Sentence 1: <div id_class=\"result-body\"><span id=\"chem\">Norepinephrine</span>-stimulated <span id=\"chem\">45Ca</span> efflux was concentration-dependent (EC50 congruent to <span id=\"titer\">100 nM</span>), and potently blocked by <span id=\"chem\">prazosin</span> (IC50 congruent to <span id=\"titer\">0.1 nM</span>), but not <span id=\"chem\">yohimbine</span> (IC50 greater than <span id=\"titer\">100 nM</span>), indicating, together with the binding data, that <span id=\"chem\">norepinephrine</span>-stimulated <span id=\"chem\">45Ca</span> efflux in this system is alpha 1 mediated.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Following treatment of cells with <span id=\"chem\">1-norepinephrine</span> (<span id=\"titer\">0.1 nM</span>) for 24 hours, the density of AAR and maximal <span id=\"chem\">norepinephrine</span>-stimulated <span id=\"chem\">45Ca</span> efflux were decreased by 72% +/- 14% and 91% +/- 9%, respectively.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "[3H]-prazosin",
+        "chempos": [
+          "1",
+          "3"
+        ],
+        "prod": "0.15 nM",
+        "prodpos": [
+          "11",
+          "13"
+        ]
+      },
+      {
+        "chem": "[3H]-prazosin",
+        "chempos": [
+          "1",
+          "3"
+        ],
+        "prod": "75-125 fmol/mg",
+        "prodpos": [
+          "19",
+          "25"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Norepinephrine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "Norepinephrine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "Norepinephrine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      },
+      {
+        "chem": "45Ca",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "45Ca",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "45Ca",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      },
+      {
+        "chem": "prazosin",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "prazosin",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "prazosin",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      },
+      {
+        "chem": "yohimbine",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "yohimbine",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "yohimbine",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      },
+      {
+        "chem": "norepinephrine",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "norepinephrine",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "norepinephrine",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      },
+      {
+        "chem": "45Ca",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "45Ca",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "45Ca",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "100 nM",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "1-norepinephrine",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "chem": "norepinephrine",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "chem": "45Ca",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "0.1 nM",
+        "prodpos": [
+          "7",
+          "9"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The [3H]-prazosin binding was of high affinity (Kd = 0.15 nM), saturable (Bmax = 75-125 fmol/mg protein), and competed for by agonists and antagonists in the order expected for an alpha 1 receptor.",
+    "Norepinephrine-stimulated 45Ca efflux was concentration-dependent (EC50 congruent to 100 nM), and potently blocked by prazosin (IC50 congruent to 0.1 nM), but not yohimbine (IC50 greater than 100 nM), indicating, together with the binding data, that norepinephrine-stimulated 45Ca efflux in this system is alpha 1 mediated.",
+    "Following treatment of cells with 1-norepinephrine (0.1 nM) for 24 hours, the density of AAR and maximal norepinephrine-stimulated 45Ca efflux were decreased by 72% +/- 14% and 91% +/- 9%, respectively."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ]
+  ]
+}

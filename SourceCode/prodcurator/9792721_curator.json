@@ -1,0 +1,60 @@
+{
+  "sentence0": {
+    "sentece_text": "The purified nuclease has a Km of 100-145 +/- 33 nM and a Vmax of 1.8-2.9 +/- 2 nmol/min, depending on the RNA substrate, and yields a 3'-OH and a 5'-phosphate.",
+    "PRO": [
+      {
+        "chem": "3'-OH",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "33 nM",
+        "prodpos": [
+          "12",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "3'-OH",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "2 nmol",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "5'-phosphate",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "33 nM",
+        "prodpos": [
+          "12",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "5'-phosphate",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "2 nmol",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

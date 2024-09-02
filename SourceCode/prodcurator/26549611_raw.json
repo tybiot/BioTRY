@@ -1,0 +1,111 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Here, we report an efficient procedure for recombinant production and purification of <span id=\"chem\">tachyplesin I</span> (<span id=\"chem\">THI</span>) with a final yield of <span id=\"titer\">17 mg/L</span> of the culture medium.</div>",
+    "Sentence 1: <div id_class=\"result-body\">With the use of soluble expression followed by immobilized <span id=\"chem\">metal</span>-ion affinity chromatography, the recombinant protein cleavage and reversed-phase high-performance liquid chromatography, a yield of <span id=\"chem\">THI</span> did not exceed <span id=\"titer\">6.5 mg/L</span> of the culture medium.</div>",
+    "Sentence 2: <div id_class=\"result-body\">The formed inclusion bodies were highly enriched with the fusion protein, which allowed us to perform direct chemical cleavage of the inclusion bodies solubilized in <span id=\"titer\">6 M</span> <span id=\"chem\">guanidine-HCl</span> with subsequent selective precipitation of proteins with <span id=\"chem\">trifluoroacetic acid</span>.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "tachyplesin I",
+        "chempos": [
+          "13",
+          "15"
+        ],
+        "prod": "17 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      },
+      {
+        "chem": "THI",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "17 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "metal",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "6.5 mg/L",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      },
+      {
+        "chem": "THI",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "6.5 mg/L",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "guanidine-HCl",
+        "chempos": [
+          "28",
+          "31"
+        ],
+        "prod": "6 M",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "trifluoroacetic acid",
+        "chempos": [
+          "38",
+          "40"
+        ],
+        "prod": "6 M",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Here, we report an efficient procedure for recombinant production and purification of tachyplesin I (THI) with a final yield of 17 mg/L of the culture medium.",
+    "With the use of soluble expression followed by immobilized metal-ion affinity chromatography, the recombinant protein cleavage and reversed-phase high-performance liquid chromatography, a yield of THI did not exceed 6.5 mg/L of the culture medium.",
+    "The formed inclusion bodies were highly enriched with the fusion protein, which allowed us to perform direct chemical cleavage of the inclusion bodies solubilized in 6 M guanidine-HCl with subsequent selective precipitation of proteins with trifluoroacetic acid."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ]
+}

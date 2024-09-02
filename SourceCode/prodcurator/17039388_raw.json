@@ -1,0 +1,346 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In the present investigation, the previous ultraviolet irradiated mutant strain of Aspergillus oryzae UV-7 was further improved in terms of <span id=\"chem\">3,4 dihydroxy phenyl L-alanine</span> (<span id=\"chem\">L-DOPA</span>) activity after chemical mutagenesis through <span id=\"chem\">1-methyl 3-nitro 1-nitroso guanidine</span> (<span id=\"chem\">MNNG</span> = <span id=\"titer\">250-1500 microg/ml</span>) treatment (0-30 min).</div>",
+    "Sentence 1: <div id_class=\"result-body\">Relatively better production of <span id=\"chem\">L-DOPA</span> (&gt; <span id=\"titer\">0.60 mg/ml</span>) was obtained when 2.0% (w/v) <span id=\"chem\">glucose</span> was used as a <span id=\"chem\">carbon</span> source in the mycelium production medium and the tyrosinase activity increased constitutively (<span id=\"titer\">1.08 mg/ml</span>), which resulted in a greater production of <span id=\"chem\">L-DOPA</span> .</div>",
+    "Sentence 2: <div id_class=\"result-body\">The maximum conversion of <span id=\"chem\">L-tyrosine</span> to <span id=\"chem\">L-DOPA</span> (<span id=\"titer\">0.428 mg/ml</span>) was achieved 60 min after the biochemical reaction.</div>",
+    "Sentence 3: <div id_class=\"result-body\">Best results of <span id=\"chem\">L-DOPA</span> biosynthesis were observed when the concentration of <span id=\"chem\">illite</span> was 3.5 x 10(-6) M (<span id=\"titer\">1.686 mg/ml</span> <span id=\"chem\">L-DOPA</span> produced with <span id=\"titer\">1.525 mg/ml</span> consumption of <span id=\"chem\">L-tyrosine</span>).</div>",
+    "Sentence 4: <div id_class=\"result-body\">The comparison of kinetic parameters showed the ability of mutant to yield <span id=\"chem\">L-DOPA</span> (i.e., Yp/x <span id=\"yields\">7.360 +/- 0.04 mg/mg</span>).</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "3,4 dihydroxy phenyl L-alanine",
+        "chempos": [
+          "21",
+          "27"
+        ],
+        "prod": "250-1500 microg/ml",
+        "prodpos": [
+          "44",
+          "50"
+        ]
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "28",
+          "31"
+        ],
+        "prod": "250-1500 microg/ml",
+        "prodpos": [
+          "44",
+          "50"
+        ]
+      },
+      {
+        "chem": "1-methyl 3-nitro 1-nitroso guanidine",
+        "chempos": [
+          "37",
+          "41"
+        ],
+        "prod": "250-1500 microg/ml",
+        "prodpos": [
+          "44",
+          "50"
+        ]
+      },
+      {
+        "chem": "MNNG",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "250-1500 microg/ml",
+        "prodpos": [
+          "44",
+          "50"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "4",
+          "7"
+        ],
+        "prod": "0.60 mg/ml",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "4",
+          "7"
+        ],
+        "prod": "1.08 mg/ml",
+        "prodpos": [
+          "43",
+          "47"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "0.60 mg/ml",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "1.08 mg/ml",
+        "prodpos": [
+          "43",
+          "47"
+        ]
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.60 mg/ml",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1.08 mg/ml",
+        "prodpos": [
+          "43",
+          "47"
+        ]
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "56",
+          "59"
+        ],
+        "prod": "0.60 mg/ml",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "56",
+          "59"
+        ],
+        "prod": "1.08 mg/ml",
+        "prodpos": [
+          "43",
+          "47"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "L-tyrosine",
+        "chempos": [
+          "4",
+          "7"
+        ],
+        "prod": "0.428 mg/ml",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "8",
+          "11"
+        ],
+        "prod": "0.428 mg/ml",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "3",
+          "6"
+        ],
+        "prod": "1.686 mg/ml",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "3",
+          "6"
+        ],
+        "prod": "1.525 mg/ml",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      },
+      {
+        "chem": "illite",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "1.686 mg/ml",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "illite",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "1.525 mg/ml",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "25",
+          "28"
+        ],
+        "prod": "1.686 mg/ml",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "25",
+          "28"
+        ],
+        "prod": "1.525 mg/ml",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      },
+      {
+        "chem": "L-tyrosine",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "1.686 mg/ml",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "L-tyrosine",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "1.525 mg/ml",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "12",
+          "15"
+        ],
+        "prod": "7.360 +/- 0.04 mg/mg",
+        "prodpos": [
+          "21",
+          "28"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In the present investigation, the previous ultraviolet irradiated mutant strain of Aspergillus oryzae UV-7 was further improved in terms of 3,4 dihydroxy phenyl L-alanine (L-DOPA) activity after chemical mutagenesis through 1-methyl 3-nitro 1-nitroso guanidine (MNNG = 250-1500 microg/ml) treatment (0-30 min).",
+    "Relatively better production of L-DOPA (> 0.60 mg/ml) was obtained when 2.0% (w/v) glucose was used as a carbon source in the mycelium production medium and the tyrosinase activity increased constitutively (1.08 mg/ml), which resulted in a greater production of L-DOPA .",
+    "The maximum conversion of L-tyrosine to L-DOPA (0.428 mg/ml) was achieved 60 min after the biochemical reaction.",
+    "Best results of L-DOPA biosynthesis were observed when the concentration of illite was 3.5 x 10(-6) M (1.686 mg/ml L-DOPA produced with 1.525 mg/ml consumption of L-tyrosine).",
+    "The comparison of kinetic parameters showed the ability of mutant to yield L-DOPA (i.e., Yp/x 7.360 +/- 0.04 mg/mg)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

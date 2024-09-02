@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">A gradual improvement of the inoculum build-up procedure, culture medium composition, and process parameters ultimately led to a theoretically maximal <span id=\"chem\">L-sorbose</span> productivity (<span id=\"titer\">200 g /L</span> of <span id=\"chem\">L-sorbose</span> from <span id=\"titer\">200 g /L</span> of <span id=\"chem\">D-sorbitol</span> in 28 h of fermentation) using a Gluconobacter oxydans mutant strain that was selected under conditions of substrate inhibition.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "L-sorbose",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "200 g /L",
+        "prodpos": [
+          "29",
+          "32"
+        ]
+      },
+      {
+        "chem": "L-sorbose",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "200 g /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "chem": "L-sorbose",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "200 g /L",
+        "prodpos": [
+          "29",
+          "32"
+        ]
+      },
+      {
+        "chem": "L-sorbose",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "200 g /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "chem": "D-sorbitol",
+        "chempos": [
+          "41",
+          "44"
+        ],
+        "prod": "200 g /L",
+        "prodpos": [
+          "29",
+          "32"
+        ]
+      },
+      {
+        "chem": "D-sorbitol",
+        "chempos": [
+          "41",
+          "44"
+        ],
+        "prod": "200 g /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "A gradual improvement of the inoculum build-up procedure, culture medium composition, and process parameters ultimately led to a theoretically maximal L-sorbose productivity (200 g /L of L-sorbose from 200 g /L of D-sorbitol in 28 h of fermentation) using a Gluconobacter oxydans mutant strain that was selected under conditions of substrate inhibition."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  ]
+}

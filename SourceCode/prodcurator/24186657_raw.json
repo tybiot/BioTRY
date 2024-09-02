@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">During chilling, <span id=\"chem\">glucose-6-phosphate</span> and <span id=\"chem\">fructose-6-phosphate</span> accumulated up to <span id=\"titer\">16 mM</span> (assuming they are restricted to the cytoplasm).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "glucose-6-phosphate",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "fructose-6-phosphate",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "During chilling, glucose-6-phosphate and fructose-6-phosphate accumulated up to 16 mM (assuming they are restricted to the cytoplasm)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ]
+  ]
+}

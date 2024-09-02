@@ -1,0 +1,86 @@
+{
+  "sentence0": {
+    "sentece_text": "The inactivation of these genes in SBS550MG increased the succinate yield from glucose to about 1.6 mol/mol with an average anaerobic productivity rate of 10 mM/h (approximately 0.64 mM/h-OD600).",
+    "PRO": [
+      {
+        "chem": "succinate",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "1.6 mol/mol",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "succinate",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "succinate",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "0.64 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "1.6 mol/mol",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.64 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

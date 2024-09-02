@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Some protection against this inactivation is provided by high concentrations of <span id=\"chem\">dithiothreitol</span> (<span id=\"titer\">20 mM</span>), suggesting that the inactivation may be due to chemical oxidation.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Some protection against this inactivation is provided by high concentrations of dithiothreitol (20 mM), suggesting that the inactivation may be due to chemical oxidation."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

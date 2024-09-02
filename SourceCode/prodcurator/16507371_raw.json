@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">To investigate its chronic toxicity, mosquitofish (Gambusia holbrooki) adults and fry were exposed to aqueous <span id=\"chem\">sodium perchlorate</span> at 1, 10, and <span id=\"titer\">100mg/L</span>, and growth and reproductive performance (fecundity, eggs/embryos mass, and gonadosomatic index [GSI]) were determined.</div>",
+    "Sentence 1: <div id_class=\"result-body\">The LC50 of <span id=\"chem\">sodium perchlorate</span> was <span id=\"titer\">404 mg/L</span> .</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "sodium perchlorate",
+        "chempos": [
+          "18",
+          "20"
+        ],
+        "prod": "100mg/L",
+        "prodpos": [
+          "26",
+          "29"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "sodium perchlorate",
+        "chempos": [
+          "3",
+          "5"
+        ],
+        "prod": "404 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "To investigate its chronic toxicity, mosquitofish (Gambusia holbrooki) adults and fry were exposed to aqueous sodium perchlorate at 1, 10, and 100mg/L, and growth and reproductive performance (fecundity, eggs/embryos mass, and gonadosomatic index [GSI]) were determined.",
+    "The LC50 of sodium perchlorate was 404 mg/L ."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

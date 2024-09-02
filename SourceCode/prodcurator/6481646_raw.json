@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Skinned muscle fibres of rabbit psoas muscle in rigor were incubated in solutions containing approximately equal to <span id=\"titer\">30 microM</span>-<span id=\"chem\">Ca2+</span> ions and <span id=\"chem\">P3-1-(2-nitro)phenylethyladenosine-5'-triphosphate</span>, '<span id=\"chem\">caged ATP</span>', an inert photolabile precursor of <span id=\"chem\">ATP</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Ca2+",
+        "chempos": [
+          "20",
+          "22"
+        ],
+        "prod": "30 microM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "P3-1-(2-nitro)phenylethyladenosine-5'-triphosphate",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "30 microM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "caged ATP",
+        "chempos": [
+          "29",
+          "31"
+        ],
+        "prod": "30 microM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "30 microM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Skinned muscle fibres of rabbit psoas muscle in rigor were incubated in solutions containing approximately equal to 30 microM-Ca2+ ions and P3-1-(2-nitro)phenylethyladenosine-5'-triphosphate, 'caged ATP', an inert photolabile precursor of ATP."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The optimally expressed recombinant fusion protein, Hespintor-Kazal, with a molecular weight of 42 kDa was obtained by <span id=\"titer\">0.25 mmol</span>/l <span id=\"chem\">isopropyl beta-D-1-thiogalactopyranoside</span> (<span id=\"chem\">IPTG</span>) induction at 30 C for 5 h .</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "isopropyl beta-D-1-thiogalactopyranoside",
+        "chempos": [
+          "25",
+          "29"
+        ],
+        "prod": "0.25 mmol",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "IPTG",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "0.25 mmol",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The optimally expressed recombinant fusion protein, Hespintor-Kazal, with a molecular weight of 42 kDa was obtained by 0.25 mmol/l isopropyl beta-D-1-thiogalactopyranoside (IPTG) induction at 30 C for 5 h ."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0
+    ]
+  ]
+}

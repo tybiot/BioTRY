@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "Some protection against this inactivation is provided by high concentrations of dithiothreitol (20 mM), suggesting that the inactivation may be due to chemical oxidation.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

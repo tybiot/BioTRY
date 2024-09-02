@@ -1,0 +1,338 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In <span id=\"chem\">PdCl2</span> supplemented experiments, the <span id=\"chem\">hydrogen</span> yields of E. cloacae and mixed culture were 1.39 +- <span id=\"titer\">0.07 +- 0.11 mol</span> and <span id=\"titer\">2.11 +- 0.11 mol</span> <span id=\"chem\">H2</span>/mol <span id=\"chem\">glucose</span>, respectively, with <span id=\"titer\">5.0 mg/L</span> of <span id=\"chem\">PdCl2</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">However, the highest <span id=\"chem\">hydrogen</span> yields of E. cloacae and mixed culture were 1.48 +- <span id=\"titer\">0.04 +- 0.09 mol</span> and <span id=\"titer\">2.48 +- 0.09 mol</span> <span id=\"chem\">H2</span>/mol <span id=\"chem\">glucose</span>, respectively at <span id=\"titer\">5.0 mg/L</span> of PdNPs supplementation.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "PdCl2",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "0.07 +- 0.11 mol",
+        "prodpos": [
+          "18",
+          "23"
+        ]
+      },
+      {
+        "chem": "PdCl2",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "2.11 +- 0.11 mol",
+        "prodpos": [
+          "24",
+          "29"
+        ]
+      },
+      {
+        "chem": "PdCl2",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "5.0 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ]
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.07 +- 0.11 mol",
+        "prodpos": [
+          "18",
+          "23"
+        ]
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "2.11 +- 0.11 mol",
+        "prodpos": [
+          "24",
+          "29"
+        ]
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "5.0 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ]
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.07 +- 0.11 mol",
+        "prodpos": [
+          "18",
+          "23"
+        ]
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "2.11 +- 0.11 mol",
+        "prodpos": [
+          "24",
+          "29"
+        ]
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "5.0 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.07 +- 0.11 mol",
+        "prodpos": [
+          "18",
+          "23"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "2.11 +- 0.11 mol",
+        "prodpos": [
+          "24",
+          "29"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "5.0 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ]
+      },
+      {
+        "chem": "PdCl2",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "0.07 +- 0.11 mol",
+        "prodpos": [
+          "18",
+          "23"
+        ]
+      },
+      {
+        "chem": "PdCl2",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "2.11 +- 0.11 mol",
+        "prodpos": [
+          "24",
+          "29"
+        ]
+      },
+      {
+        "chem": "PdCl2",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "5.0 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.04 +- 0.09 mol",
+        "prodpos": [
+          "16",
+          "21"
+        ]
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "2.48 +- 0.09 mol",
+        "prodpos": [
+          "22",
+          "27"
+        ]
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "5.0 mg/L",
+        "prodpos": [
+          "34",
+          "38"
+        ]
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.04 +- 0.09 mol",
+        "prodpos": [
+          "16",
+          "21"
+        ]
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2.48 +- 0.09 mol",
+        "prodpos": [
+          "22",
+          "27"
+        ]
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "5.0 mg/L",
+        "prodpos": [
+          "34",
+          "38"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "0.04 +- 0.09 mol",
+        "prodpos": [
+          "16",
+          "21"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "2.48 +- 0.09 mol",
+        "prodpos": [
+          "22",
+          "27"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "5.0 mg/L",
+        "prodpos": [
+          "34",
+          "38"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In PdCl2 supplemented experiments, the hydrogen yields of E. cloacae and mixed culture were 1.39 +- 0.07 and 2.11 +- 0.11 mol H2/mol glucose, respectively, with 5.0 mg/L of PdCl2.",
+    "However, the highest hydrogen yields of E. cloacae and mixed culture were 1.48 +- 0.04 and 2.48 +- 0.09 mol H2/mol glucose, respectively at 5.0 mg/L of PdNPs supplementation."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In contrast, <span id=\"chem\">Nao+</span> caused a concentration-dependent increase in the rate of cytoplasmic alkalinization with saturation occurring above <span id=\"titer\">50 mmol</span>/L <span id=\"chem\">Nao+</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">The transporter behaved according to first-order Michaelis-Menten type kinetics with respect to external <span id=\"chem\">Na+</span> and had an apparent Km for <span id=\"chem\">Nao+</span> of <span id=\"titer\">38.4 mmol</span>/L .</div>",
+    "Sentence 2: <div id_class=\"result-body\">In contrast, the transporter behaved with greater than first-order kinetics with respect to external <span id=\"chem\">Na+</span> and had an apparent Km for <span id=\"chem\">Nao+</span> of <span id=\"titer\">38.4 mmol</span>/L .</div>",
+    "Sentence 3: <div id_class=\"result-body\">The basal pHi of cells suspended in a <span id=\"chem\">bicarbonate</span>-free <span id=\"titer\">130 mmol</span>/L <span id=\"chem\">NaCl solution</span> (pHo 7.4) averaged 7.42 +/- 0.03 (n = 10); <span id=\"chem\">amiloride</span> (10(-4) mmol/L caused the basal pHi to decrease to 7.26 +/- 0.05 (n = 10; P less than 0.0025).</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Nao+",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "50 mmol",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "Nao+",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "50 mmol",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Na+",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "38.4 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "Nao+",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "38.4 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Na+",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "38.4 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "Nao+",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "38.4 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "130 mmol",
+        "prodpos": [
+          "11",
+          "13"
+        ]
+      },
+      {
+        "chem": "NaCl solution",
+        "chempos": [
+          "15",
+          "17"
+        ],
+        "prod": "130 mmol",
+        "prodpos": [
+          "11",
+          "13"
+        ]
+      },
+      {
+        "chem": "amiloride",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "130 mmol",
+        "prodpos": [
+          "11",
+          "13"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In contrast, Nao+ caused a concentration-dependent increase in the rate of cytoplasmic alkalinization with saturation occurring above 50 mmol/L Nao+.",
+    "The transporter behaved according to first-order Michaelis-Menten type kinetics with respect to external Na+ and had an apparent Km for Nao+ of 38.4 mmol/L .",
+    "In contrast, the transporter behaved with greater than first-order kinetics with respect to external Na+ and had an apparent Km for Nao+ of 38.4 mmol/L .",
+    "The basal pHi of cells suspended in a bicarbonate-free 130 mmol/L NaCl solution (pHo 7.4) averaged 7.42 +/- 0.03 (n = 10); amiloride (10(-4) mmol/L caused the basal pHi to decrease to 7.26 +/- 0.05 (n = 10; P less than 0.0025)."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ]
+}

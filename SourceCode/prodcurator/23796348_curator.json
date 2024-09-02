@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "Employing Lactobacillus brevis ADH, it was possible to achieve the synthesis of enantiopure (S)-fluorohydrins at a 0.5 M substrate concentration.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "(S)-fluorohydrins",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

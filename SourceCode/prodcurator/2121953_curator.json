@@ -1,0 +1,464 @@
+{
+  "sentence0": {
+    "sentece_text": "The polylysine-synthesizing ability by staphylococcal ribosomes increased up to about two times as much as that by E. coli Q13 ribosomes, when S-100 from E. coli Q13 was mixed with staphylococcal ribosomes which had been washed with a high salt HEPES buffer containing 10 mM HEPES, 1 mM EGTA, 16 mM magnesium acetate, 1.0 M ammonium chloride and 0.1 mM dithiothreitol (pH7.6).",
+    "PRO": [
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

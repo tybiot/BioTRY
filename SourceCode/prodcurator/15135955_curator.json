@@ -1,0 +1,92 @@
+{
+  "sentence0": {
+    "sentece_text": "Buffers and water containing 10 mM NaCl became bactericidal against all three bacteria upon PEF treatment, and the bactericidal effect could be neutralized by thiosulfate, suggesting that chlorine and/or hypochlorite had been formed.",
+    "PRO": [
+      {
+        "chem": "water",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "thiosulfate",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "chlorine",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hypochlorite",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "In the Ames mutagenicity test using His- S .",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Tris",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

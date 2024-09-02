@@ -1,0 +1,172 @@
+{
+  "sentence0": {
+    "sentece_text": "The Ba2+-resistant component of ICN tended to increase with shifts of membrane potential from -40 to 40 mV and was markedly suppressed by exposure to a K+-free solution or 200 microM ouabain, indicating that the majority of the Ba2+-resistant component of ICN is due to suppression of the Na+ pump current (Ipump).",
+    "PRO": [
+      {
+        "chem": "Ba2+",
+        "chempos": [
+          "1",
+          "3"
+        ],
+        "prod": "200 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ICN",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "200 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ba2+",
+        "chempos": [
+          "41",
+          "43"
+        ],
+        "prod": "200 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ICN",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "200 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Na+",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "200 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "ouabain",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "200 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The I-V relationship for the non-Ipump component of ICN had a reversal potential of -3 and -47 mV at 147 and 5.5 mM Na+, respectively, and showed an outward rectification, indicating that the non-Ipump component of ICN is due to activation of non-selective cation channels.",
+    "PRO": [
+      {
+        "chem": "ICN",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ICN",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "5.5 mM",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Na+",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ICN",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ICN",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "5.5 mM",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Na+",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "5.5 mM",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

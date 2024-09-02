@@ -1,0 +1,139 @@
+{
+  "sentence0": {
+    "sentece_text": "Healthy callus cultures were obtained in the slightly modified Murashige and Skoog's medium +NAA and BAP (0.03 and 0.2 mg/L respectively) + Sucrose 20 gm/L +Agar 8 gm/L within 28 days of inoculation.",
+    "PRO": [
+      {
+        "chem": "Skoog's medium",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Skoog's medium",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NAA",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NAA",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "BAP",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Sucrose",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Sucrose",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Agar",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Agar",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "BAP",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

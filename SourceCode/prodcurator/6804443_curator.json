@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "When cells were allowed to become inactive by suspending them in the dark in Mg2+-free buffer, full activity could be restored with a few minutes by adding 20 mM Mg2+ and illuminating the cells.",
+    "PRO": [
+      {
+        "chem": "Mg2+",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "30",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Mg2+",
+        "chempos": [
+          "32",
+          "34"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "30",
+          "32"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

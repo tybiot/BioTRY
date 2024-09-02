@@ -1,0 +1,290 @@
+{
+  "sentence0": {
+    "sentece_text": "L-Arginine (10 mM), but not D-arginine (10 mM), prevented the inhibition by L-NMMA .",
+    "PRO": [
+      {
+        "chem": "L-Arginine",
+        "chempos": [
+          "0",
+          "3"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "D-arginine",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "22",
+          "25"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "22",
+          "25"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "L-Arginine",
+        "chempos": [
+          "0",
+          "3"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "D-arginine",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Neither tetrodotoxin (TTX, 1 microM), nor the cyclo-oxygenase inhibitor, indomethacin (10 microM), altered the muscarinic vasodilatation or the inhibitory effect of L-NMMA .",
+    "PRO": [
+      {
+        "chem": "tetrodotoxin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "tetrodotoxin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "TTX",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "TTX",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "This vasodilatation was unaffected by L-NMMA but was abolished by the guanylate cyclase inhibitor, methylene blue (10 microM).",
+    "PRO": [
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "guanylate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "methylene blue",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence3": {
+    "sentece_text": "The vasodilatation produced by ganglionic stimulation (10 Hz, 10 s) was blocked by TTX and the muscarinic receptor antagonist, 4-diphenylacetoxy-N-methyl-piperidine methiodide (4-DAMP, 1 microM).",
+    "PRO": [
+      {
+        "chem": "TTX",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "4-diphenylacetoxy-N-methyl-piperidine methiodide",
+        "chempos": [
+          "23",
+          "31"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "4-DAMP",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

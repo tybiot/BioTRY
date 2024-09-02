@@ -1,0 +1,169 @@
+{
+  "sentence0": {
+    "sentece_text": "At glucose concentrations of 95 g/L, the switch to xylose utilization was severely stalled such that efficient xylose fermentation could not occur.",
+    "PRO": [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "95 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "95 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "95 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Ethanol concentrations around 50 g/L fully repressed enzyme induction although xylose transport into the cells was observed to be occurring.",
+    "PRO": [
+      {
+        "chem": "Ethanol",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "50 g/L",
+        "prodpos": [
+          "3",
+          "7"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "50 g/L",
+        "prodpos": [
+          "3",
+          "7"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "Increasing degrees of repression were documented between 15 and 45 g/L ethanol.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "45 g/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence3": {
+    "sentece_text": "Repitched cell populations grown on xylose resulted in faster fermentation rates, particularly on xylose but also on glucose, and eliminated diauxic lag and stalling during mixed sugar conversion by P. tannophilus or S. stipitis, despite ethanol accumulations in the 60 or 70 g/L range, respectively.",
+    "PRO": [
+      {
+        "chem": "xylose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

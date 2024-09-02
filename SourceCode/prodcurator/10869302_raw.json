@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Strong reduction of WHV-DNA synthesis (90%) and secretion (up to 98%) was observed with all 3 doses of <span id=\"chem\">adefovir</span> used (1, 10, and <span id=\"titer\">100 micromol</span>/L), whereas in the absence of the drug, high amounts of viral particles were continuously secreted in the culture medium until the end of the study (27 days).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "adefovir",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "100 micromol",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Strong reduction of WHV-DNA synthesis (90%) and secretion (up to 98%) was observed with all 3 doses of adefovir used (1, 10, and 100 micromol/L), whereas in the absence of the drug, high amounts of viral particles were continuously secreted in the culture medium until the end of the study (27 days)."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

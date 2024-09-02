@@ -1,0 +1,281 @@
+{
+  "sentence0": {
+    "sentece_text": "Nitrogen waste was primarily in the form of dissolved inorganic nitrogen (TDIN) and was removed by 98.2 +- 2.2% under ambient loadings of 109-383 mumol/L .",
+    "PRO": [
+      {
+        "chem": "Nitrogen",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "109-383 mumol",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "109-383 mumol",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "At peak loadings of up to 8185 +- 590 mumol/L (equivalent to 600 mmol N m(-2) d(-1)), the filter beds removed between 30 and 58% (250 mmol N m(-2) d(-1)) of influent TDIN .",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "N",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "8185 +- 590 mumol",
+        "prodpos": [
+          "6",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "600 mmol",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "250 mmol",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "8185 +- 590 mumol",
+        "prodpos": [
+          "6",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "600 mmol",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "250 mmol",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Influent dissolved inorganic phosphorus levels ranged from 34 to 90 mumol/L, with 36-89% reduction under routine operations.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "inorganic phosphorus",
+        "chempos": [
+          "2",
+          "4"
+        ],
+        "prod": "90 mumol",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence3": {
+    "sentece_text": "Dissolved organic nitrogen (DON) loadings were lower (11-144 mumol/L), and between 23 and 69% of influent DON was removed during routine operation, with no significant removal of DON under high TDIN loading.",
+    "PRO": [
+      {
+        "chem": "organic nitrogen",
+        "chempos": [
+          "1",
+          "3"
+        ],
+        "prod": "11-144 mumol",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DON",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "11-144 mumol",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DON",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "11-144 mumol",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "DON",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "11-144 mumol",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence4": {
+    "sentece_text": "Over the 88-day study, cumulative nitrogen removal was 1.28 mol m(-2), of which 1.09 mol m(-2) was retained in plant tissue, with plant uptake ranging from 2.4 to 27.0 mmol N g(-1) dry weight d(-1).",
+    "PRO": [
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "1.28 mol",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "1.09 mol",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "27.0 mmol",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "1.28 mol",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "1.09 mol",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "N",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "27.0 mmol",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

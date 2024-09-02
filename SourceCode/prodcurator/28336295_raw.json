@@ -1,0 +1,143 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Biomass</span> productivity was highest for <span id=\"chem\">AC768</span> strain with <span id=\"titer\">1.8 g/L</span> day-1, while <span id=\"chem\">hydrocarbon</span> production ranged from none to up to 42% per gram <span id=\"chem\">biomass</span> dry weight, with Showa showing the highest <span id=\"chem\">hydrocarbon</span> content followed by AC761.</div>",
+    "Sentence 1: <div id_class=\"result-body\"><span id=\"chem\">Glucose</span> and <span id=\"chem\">galactose</span> are the main <span id=\"chem\">monosaccharides</span> in most strains and <span id=\"chem\">fucose</span> content reached <span id=\"titer\">463mgL-1</span> in CCALA778.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Biomass",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "1.8 g/L",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "AC768",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "1.8 g/L",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "hydrocarbon",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "1.8 g/L",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "1.8 g/L",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "hydrocarbon",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "1.8 g/L",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Glucose",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "463mgL-1",
+        "prodpos": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "463mgL-1",
+        "prodpos": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "chem": "monosaccharides",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "463mgL-1",
+        "prodpos": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "chem": "fucose",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "463mgL-1",
+        "prodpos": [
+          "14",
+          "15"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Biomass productivity was highest for AC768 strain with 1.8 g/L day-1, while hydrocarbon production ranged from none to up to 42% per gram biomass dry weight, with Showa showing the highest hydrocarbon content followed by AC761.",
+    "Glucose and galactose are the main monosaccharides in most strains and fucose content reached 463mgL-1 in CCALA778."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

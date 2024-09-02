@@ -1,0 +1,165 @@
+{
+  "sentence0": {
+    "sentece_text": "Herbicide 14C-terbutryn binding measurements, also with thylakoids, show that the QB niche of the mutant is significantly modified, at least 7-8 fold increased terbutryn dissociation constant is shown (220 nM in the mutant versus 29 nM in the wild type); the PS II sensitivity to bicarbonate-reversible formate inhibition is reduced by 5 fold in the mutant, although the formate/bicarbonate binding site still exists in the mutant.",
+    "PRO": [
+      {
+        "chem": "14C-terbutryn",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "14C-terbutryn",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "55",
+          "56"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "55",
+          "56"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "formate",
+        "chempos": [
+          "58",
+          "59"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "formate",
+        "chempos": [
+          "58",
+          "59"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "formate",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "formate",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "terbutryn",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "terbutryn",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "sentence0": {
+    "sentece_text": "Using 14C-isotopes, the cycling of NAH between lens and ocular fluids in a simple support medium consisting of NaCl (0.9%), Ca2+ (4 mEq/L) and D-glucose (5 mM) at pH 7.4 has previously been observed.",
+    "PRO": [
+      {
+        "chem": "14C",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NAH",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ca2+",
+        "chempos": [
+          "27",
+          "29"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "D-glucose",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "With each NAH molecule recycled up to 10 times/d, and a power factor of 33, there could be 330 mmol of water transported/mmol of NAH each day.",
+    "PRO": [
+      {
+        "chem": "NAH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "330 mmol",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NAH",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "330 mmol",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "water",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "330 mmol",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "With typical NAH concentrations in brains of poikilothermic vertebrates of 5-10 mmol/kg, there is the potential for up to 3.3 mol (60 mL) of water to be removed each day/kg of brain, a value that represents about 8% of total brain water content.",
+    "PRO": [
+      {
+        "chem": "NAH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "5-10 mmol/kg",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NAH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "3.3 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "water",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "5-10 mmol/kg",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "water",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "3.3 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "water",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "5-10 mmol/kg",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "water",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "3.3 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

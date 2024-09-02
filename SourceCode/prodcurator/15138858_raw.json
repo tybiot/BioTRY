@@ -1,0 +1,149 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">At its optimal temperature of 80 degrees <span id=\"chem\">C</span>, the apparent Km and Vmax values of Frk were <span id=\"titer\">2.3 mM</span> and 730 U/mg protein for <span id=\"chem\">fructose</span> at saturating <span id=\"chem\">ATP</span> concentration, and <span id=\"titer\">0.81 mM</span> and 920 U/mg protein for <span id=\"chem\">ATP</span> at saturating <span id=\"chem\">fructose</span> concentration.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "C",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "C",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "At its optimal temperature of 80 degrees C, the apparent Km and Vmax values of Frk were 2.3 mM and 730 U/mg protein for fructose at saturating ATP concentration, and 0.81 mM and 920 U/mg protein for ATP at saturating fructose concentration."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

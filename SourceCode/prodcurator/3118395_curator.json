@@ -1,0 +1,79 @@
+{
+  "sentence0": {
+    "sentece_text": "Trifluoperazine, 35 microM, reduced lipopolysaccharide-stimulated [3H]prostaglandin E2 synthesis by 50%.",
+    "PRO": [
+      {
+        "chem": "Trifluoperazine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "35 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "lipopolysaccharide",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "35 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "[3H]prostaglandin E2",
+        "chempos": [
+          "9",
+          "12"
+        ],
+        "prod": "35 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "In sonicated suspensions of cells, calcium-dependent phospholipase A2 activity was inhibited by trifluoperazine 3-100 microM and by compound 48/80 (3 micrograms/ml).",
+    "PRO": [
+      {
+        "chem": "calcium",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "3-100 microM",
+        "prodpos": [
+          "16",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "trifluoperazine",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "3-100 microM",
+        "prodpos": [
+          "16",
+          "20"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

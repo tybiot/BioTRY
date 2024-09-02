@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Using synthetic growth medium we were able to express in L. tarentolae and purify to homogeneity <span id=\"chem\">(15)N</span>-<span id=\"chem\">valine</span> labeled <span id=\"chem\">Enchanced Green Fluorescent Protein</span> (EGFP) with the final yield of <span id=\"titer\">5.7 mg/L</span> of suspension culture.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "(15)N",
+        "chempos": [
+          "16",
+          "18"
+        ],
+        "prod": "5.7 mg/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      },
+      {
+        "chem": "valine",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "5.7 mg/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      },
+      {
+        "chem": "Enchanced Green Fluorescent Protein",
+        "chempos": [
+          "21",
+          "25"
+        ],
+        "prod": "5.7 mg/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Using synthetic growth medium we were able to express in L. tarentolae and purify to homogeneity (15)N-valine labeled Enchanced Green Fluorescent Protein (EGFP) with the final yield of 5.7 mg/L of suspension culture."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1
+    ]
+  ]
+}

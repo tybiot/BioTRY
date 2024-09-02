@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "During chilling, glucose-6-phosphate and fructose-6-phosphate accumulated up to 16 mM (assuming they are restricted to the cytoplasm).",
+    "PRO": [
+      {
+        "chem": "glucose-6-phosphate",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose-6-phosphate",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

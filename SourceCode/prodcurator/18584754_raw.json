@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">By limiting <span id=\"chem\">phosphorous</span> concentration, <span id=\"chem\">HBsAg</span> expression level for the YNN27/p2micro-S11 strain with inducible PHO5 promoter reached <span id=\"titer\">0.2-0.3 mg/L</span> .</div>",
+    "Sentence 1: <div id_class=\"result-body\">By controlling nutrient addition rate and dissolved <span id=\"chem\">oxygen</span> concentration, <span id=\"chem\">HBsAg</span> concentrations of <span id=\"titer\">3-10 mg/L</span> were achieved in 60-70 h fermentation using the YNN27/pDCB-S2 strain with the constitutive GPD promoter.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "phosphorous",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.2-0.3 mg/L",
+        "prodpos": [
+          "21",
+          "27"
+        ]
+      },
+      {
+        "chem": "HBsAg",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.2-0.3 mg/L",
+        "prodpos": [
+          "21",
+          "27"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "oxygen",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "3-10 mg/L",
+        "prodpos": [
+          "13",
+          "19"
+        ]
+      },
+      {
+        "chem": "HBsAg",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "3-10 mg/L",
+        "prodpos": [
+          "13",
+          "19"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "By limiting phosphorous concentration, HBsAg expression level for the YNN27/p2micro-S11 strain with inducible PHO5 promoter reached 0.2-0.3 mg/L .",
+    "By controlling nutrient addition rate and dissolved oxygen concentration, HBsAg concentrations of 3-10 mg/L were achieved in 60-70 h fermentation using the YNN27/pDCB-S2 strain with the constitutive GPD promoter."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}

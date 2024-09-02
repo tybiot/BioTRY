@@ -1,0 +1,214 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In a plot with 100% of CW <span id=\"chem\">percolate</span> irrigation, the maximum <span id=\"chem\">Zn</span>, <span id=\"chem\">Mn</span> and <span id=\"chem\">Cu</span> concentrations of <span id=\"yields\">5.0 mg/kg</span> , <span id=\"yields\">12.3 mg/kg</span> and <span id=\"yields\">2.5 mg/kg</span>, respectively, were detected in the <span id=\"chem\">percolate</span>-fed soil, whereas no accumulation of heavy metals in the plant tissues (i.e. leaves, stems and flowers) of the sunflower were detected.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "percolate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ]
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      },
+      {
+        "chem": "Zn",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "Zn",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ]
+      },
+      {
+        "chem": "Zn",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      },
+      {
+        "chem": "Mn",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "Mn",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ]
+      },
+      {
+        "chem": "Mn",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      },
+      {
+        "chem": "Cu",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "Cu",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ]
+      },
+      {
+        "chem": "Cu",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ]
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In a plot with 100% of CW percolate irrigation, the maximum Zn, Mn and Cu concentrations of 5.0, 12.3 and 2.5 mg/kg, respectively, were detected in the percolate-fed soil, whereas no accumulation of heavy metals in the plant tissues (i.e. leaves, stems and flowers) of the sunflower were detected."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

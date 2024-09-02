@@ -1,0 +1,35 @@
+{
+  "sentence0": {
+    "sentece_text": "The major changes upon a 150 mM NaCl exposure in potato leaves occurred in the photosystem apparatus and Calvin cycle: many transcripts coding for proteins belonging to photosystems I and II and chlorophyll synthesis were repressed.",
+    "PRO": [
+      {
+        "chem": "chlorophyll",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "The strain synthesized the compound in culture media containing less than 2 microM added FeCl3.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "FeCl3",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "2 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

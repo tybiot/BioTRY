@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The enzyme had a pH optimum of 6.3, Km 50 micron with <span id=\"chem\">p-nitrophenyl-alpha-D-mannopyranoside</span>, and was competitively inhibited by <span id=\"chem\">D-mannose</span> (Ki <span id=\"titer\">20 mM</span>).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "p-nitrophenyl-alpha-D-mannopyranoside",
+        "chempos": [
+          "13",
+          "22"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "33",
+          "35"
+        ]
+      },
+      {
+        "chem": "D-mannose",
+        "chempos": [
+          "28",
+          "31"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "33",
+          "35"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The enzyme had a pH optimum of 6.3, Km 50 micron with p-nitrophenyl-alpha-D-mannopyranoside, and was competitively inhibited by D-mannose (Ki 20 mM)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1
+    ]
+  ]
+}

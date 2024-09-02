@@ -1,0 +1,85 @@
+{
+  "sentence0": {
+    "sentece_text": "According to the mathematic models, the optimal semi-continuous condition for total yield of polysaccharide was NaNO3 3.5 g/L, renewal rate 27%, renewal period 2.91 days.",
+    "PRO": [
+      {
+        "chem": "polysaccharide",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "3.5 g/L",
+        "prodpos": [
+          "19",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaNO3",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "3.5 g/L",
+        "prodpos": [
+          "19",
+          "23"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "The optimal condition for polysaccharide output rate was NaNO3 0.5 g/L, renewal rate 5%, renewal period 7 days.",
+    "PRO": [
+      {
+        "chem": "polysaccharide",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.5 g/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaNO3",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "0.5 g/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "The maximum output rate of polysaccharide was 68.64 mg/L per day, which was 2.02 times higher than previous reported data.",
+    "PRO": [
+      {
+        "chem": "polysaccharide",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "68.64 mg/L",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

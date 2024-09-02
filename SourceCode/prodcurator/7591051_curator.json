@@ -1,0 +1,67 @@
+{
+  "sentence0": {
+    "sentece_text": "Residual contaminating iron, 0.45 microM, was sufficient to support iron-limited growth.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "iron",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.45 microM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "iron",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.45 microM",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Typical iron-replete cultures metabolized 3.3 microM iron.",
+    "PRO": [
+      {
+        "chem": "iron-replete",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "3.3 microM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "iron",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "3.3 microM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

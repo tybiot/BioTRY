@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    "Sentence 1: <div id_class=\"result-body\">Short-term <span id=\"chem\">Al(3+)</span> toxicity was induced by a 60-min exposure to a pH-buffered solution (pH 4.5) containing <span id=\"titer\">2mM</span> <span id=\"chem\">CaSO(4)</span> and <span id=\"titer\">50muM</span> <span id=\"chem\">AlCl(3)</span>.</div>"
+  ],
+  "id": [
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Al(3+)",
+        "chempos": [
+          "3",
+          "6"
+        ],
+        "prod": "2mM",
+        "prodpos": [
+          "24",
+          "25"
+        ]
+      },
+      {
+        "chem": "Al(3+)",
+        "chempos": [
+          "3",
+          "6"
+        ],
+        "prod": "50muM",
+        "prodpos": [
+          "28",
+          "29"
+        ]
+      },
+      {
+        "chem": "CaSO(4)",
+        "chempos": [
+          "25",
+          "27"
+        ],
+        "prod": "2mM",
+        "prodpos": [
+          "24",
+          "25"
+        ]
+      },
+      {
+        "chem": "CaSO(4)",
+        "chempos": [
+          "25",
+          "27"
+        ],
+        "prod": "50muM",
+        "prodpos": [
+          "28",
+          "29"
+        ]
+      },
+      {
+        "chem": "AlCl(3)",
+        "chempos": [
+          "29",
+          "31"
+        ],
+        "prod": "2mM",
+        "prodpos": [
+          "24",
+          "25"
+        ]
+      },
+      {
+        "chem": "AlCl(3)",
+        "chempos": [
+          "29",
+          "31"
+        ],
+        "prod": "50muM",
+        "prodpos": [
+          "28",
+          "29"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The hydroponic culture consisted of a standard Long Ashton nutrient solution containing either 0.1muM or 1mM P .",
+    "Short-term Al(3+) toxicity was induced by a 60-min exposure to a pH-buffered solution (pH 4.5) containing 2mM CaSO(4) and 50muM AlCl(3)."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

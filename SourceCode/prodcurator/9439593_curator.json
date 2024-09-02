@@ -1,0 +1,165 @@
+{
+  "sentence0": {
+    "sentece_text": "Plant-purified IEMT has K(m) values of 7 and 58 microM for eugenol and isoeugenol, respectively, and 27 microM for SAM (30, 74, and 19 microM, respectively, for the plant IEMT expressed in Escherichia coli).",
+    "PRO": [
+      {
+        "chem": "eugenol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "7 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "eugenol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "27 microM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "eugenol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "30 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "eugenol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "74 microM",
+        "prodpos": [
+          "30",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "eugenol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "19 microM",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "isoeugenol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "7 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "isoeugenol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "58 microM",
+        "prodpos": [
+          "12",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "isoeugenol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "27 microM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "isoeugenol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "30 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "isoeugenol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "74 microM",
+        "prodpos": [
+          "30",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "isoeugenol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "19 microM",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "eugenol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "58 microM",
+        "prodpos": [
+          "12",
+          "14"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

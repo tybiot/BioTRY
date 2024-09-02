@@ -1,0 +1,139 @@
+{
+  "sentence0": {
+    "sentece_text": "At its optimal temperature of 80 degrees C, the apparent Km and Vmax values of Frk were 2.3 mM and 730 U/mg protein for fructose at saturating ATP concentration, and 0.81 mM and 920 U/mg protein for ATP at saturating fructose concentration.",
+    "PRO": [
+      {
+        "chem": "C",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "C",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "2.3 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "ATP",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "0.81 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "sentence0": {
+    "sentece_text": "The highest protein yield was obtained by: transforming HbII into the BLi5 cells, inducing and supplementing the culture during the mid-log phase with 1 mM IPTG, 30 microg/mL hemin chloride and 1% glucose, and decreasing the temperature to 30 degrees C after induction.",
+    "PRO": [
+      {
+        "chem": "IPTG",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "30 microg/mL",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hemin chloride",
+        "chempos": [
+          "35",
+          "37"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "30 microg/mL",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "IPTG",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "hemin chloride",
+        "chempos": [
+          "35",
+          "37"
+        ],
+        "prod": "30 microg/mL",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

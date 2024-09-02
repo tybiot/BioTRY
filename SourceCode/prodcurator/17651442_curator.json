@@ -1,0 +1,87 @@
+{
+  "sentence0": {
+    "sentece_text": "The reaction was stimulated by fumarate (> 500 microM), implicating the urea cycle enzyme argininosuccinate lyase (EC 4.3.2.1), which reversibly converts arginine and fumarate to argininosuccinate.",
+    "PRO": [
+      {
+        "chem": "urea",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "argininosuccinate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "arginine",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fumarate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "argininosuccinate",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "fumarate",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

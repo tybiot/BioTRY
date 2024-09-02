@@ -1,0 +1,217 @@
+{
+  "sentence0": {
+    "sentece_text": "The activities of mc(2)-155(pSmo) cells were 0.94, 0.57, 0.12, and 0.04 nmol/min/mg of protein with ethene, ethane, propane, and butane as substrates, respectively.",
+    "PRO": [
+      {
+        "chem": "ethene",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.94 nmol",
+        "prodpos": [
+          "7",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethene",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.57 nmol",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethene",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.12 nmol",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethane",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.94 nmol",
+        "prodpos": [
+          "7",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethane",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.57 nmol",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethane",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.12 nmol",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethane",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.04 nmol",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propane",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.94 nmol",
+        "prodpos": [
+          "7",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propane",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.57 nmol",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propane",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.12 nmol",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propane",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.04 nmol",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.94 nmol",
+        "prodpos": [
+          "7",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.57 nmol",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.12 nmol",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.04 nmol",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "ethene",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.04 nmol",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

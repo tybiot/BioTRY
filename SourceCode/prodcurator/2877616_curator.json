@@ -1,0 +1,106 @@
+{
+  "sentence0": {
+    "sentece_text": "Ornithine and arginine (5 to 20 mM), but not glutamic acid or proline, exerted a concentration-dependent stimulatory effect on the biosynthesis of clavulanic acid in both resting-cell cultures and long-term fermentations of Streptomyces clavuligerus.",
+    "PRO": [
+      {
+        "chem": "Ornithine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glutamic acid",
+        "chempos": [
+          "12",
+          "14"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "proline",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "clavulanic acid",
+        "chempos": [
+          "28",
+          "30"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "arginine",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Both arginase activity and clavulanic acid formation were enhanced simultaneously by supplementing the production medium with 10 mM arginine.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "clavulanic acid",
+        "chempos": [
+          "4",
+          "6"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "arginine",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

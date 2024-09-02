@@ -1,0 +1,149 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Glucose</span>, <span id=\"chem\">acetate</span> and <span id=\"chem\">fructose</span> were tested as growth substrates, and the highest <span id=\"chem\">demeton-S-methyl</span> biotransformation average rate (<span id=\"titer\">0.78 mg/L</span>/h) and maximum instantaneous rate (<span id=\"titer\">1.4 mg/L</span>/h) were achieved on <span id=\"chem\">fructose</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Glucose",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      },
+      {
+        "chem": "Glucose",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "demeton-S-methyl",
+        "chempos": [
+          "14",
+          "19"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      },
+      {
+        "chem": "demeton-S-methyl",
+        "chempos": [
+          "14",
+          "19"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "45",
+          "46"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "45",
+          "46"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Glucose, acetate and fructose were tested as growth substrates, and the highest demeton-S-methyl biotransformation average rate (0.78 mg/L/h) and maximum instantaneous rate (1.4 mg/L/h) were achieved on fructose."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ]
+}

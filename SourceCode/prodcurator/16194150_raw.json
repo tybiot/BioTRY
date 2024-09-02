@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Transport was saturable, with an apparent K(m) of <span id=\"titer\">207 microM</span> for TTP, <span id=\"titer\">404 microM</span> for <span id=\"chem\">UTP</span> and <span id=\"titer\">435 microM</span> for <span id=\"chem\">CTP</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "UTP",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "207 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "UTP",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "404 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "UTP",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "435 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "CTP",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "207 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "CTP",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "404 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "CTP",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "435 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Transport was saturable, with an apparent K(m) of 207 microM for TTP, 404 microM for UTP and 435 microM for CTP."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

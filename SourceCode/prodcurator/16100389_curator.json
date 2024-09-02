@@ -1,0 +1,491 @@
+{
+  "sentence0": {
+    "sentece_text": "The nonselective Ca(2+) entry blockers Gd(3+) (10 microM), La(3+) (10 microM), and Ni(2+) (100 microM) reduced CCE by 67% (n = 14), 65% (n = 11), and 55% (n = 9), respectively.",
+    "PRO": [
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "2",
+          "5"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "2",
+          "5"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "2",
+          "5"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "28",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Gd(3+)",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Gd(3+)",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "28",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "La(3+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "La(3+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "28",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CCE",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CCE",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CCE",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "28",
+          "30"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Gd(3+)",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "La(3+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "28",
+          "30"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Conversely, CCE in IC was resistant to SKF-96365 (10 microM), wortmannin (10 microM), and nifedipine (1 microM).",
+    "PRO": [
+      {
+        "chem": "CCE",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CCE",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CCE",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SKF-96365",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SKF-96365",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "wortmannin",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "wortmannin",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nifedipine",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nifedipine",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "SKF-96365",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "wortmannin",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "nifedipine",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Spontaneous transient inward currents were recorded from IC voltage-clamped at -60 mV .",
+    "PRO": [
+      {
+        "chem": "Gd(3+)",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Gd(3+)",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "30",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "La(3+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "La(3+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "30",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "32",
+          "35"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "32",
+          "35"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Gd(3+)",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "La(3+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "32",
+          "35"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "30",
+          "32"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

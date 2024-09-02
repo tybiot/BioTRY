@@ -1,0 +1,118 @@
+{
+  "sentence0": {
+    "sentece_text": "The best engineered strain using high-throughput fermentation produced squalene from glucose at 5.4 +- 0.3 mg/g   and 105.3 +- 3.0 mg/L, which was a 5.2-fold increase over the parental strain.",
+    "PRO": [
+      {
+        "chem": "squalene",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "5.4 +- 0.3 mg/g",
+        "prodpos": [
+          "14",
+          "21"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "squalene",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "105.3 +- 3.0 mg/L",
+        "prodpos": [
+          "23",
+          "30"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "5.4 +- 0.3 mg/g",
+        "prodpos": [
+          "14",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "105.3 +- 3.0 mg/L",
+        "prodpos": [
+          "23",
+          "30"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "In addition, flask cultivation of C. glutamicum overexpressing the dxs and idi genes with squalene synthase gene and repressing the idsA gene resulted in production of squalene at 5.8 +- 0.4 mg/g  and 82.8 +- 6.2 mg/L, which was a 3.4-fold increase over the parental strain.",
+    "PRO": [
+      {
+        "chem": "squalene",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "5.8 +- 0.4 mg/g",
+        "prodpos": [
+          "29",
+          "36"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "squalene",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "82.8 +- 6.2 mg/L",
+        "prodpos": [
+          "38",
+          "45"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "squalene",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "5.8 +- 0.4 mg/g",
+        "prodpos": [
+          "29",
+          "36"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "squalene",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "82.8 +- 6.2 mg/L",
+        "prodpos": [
+          "38",
+          "45"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

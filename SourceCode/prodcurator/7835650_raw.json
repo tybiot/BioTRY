@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Sodium nitroprusside</span>, <span id=\"chem\">isosorbide dinitrate</span> and <span id=\"chem\">amyl nitrite</span> induced dose-dependent relaxations of Oddi's sphincter precontracted by <span id=\"chem\">potassium chloride</span> (<span id=\"titer\">150 mM</span>).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Sodium nitroprusside",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "isosorbide dinitrate",
+        "chempos": [
+          "3",
+          "5"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "amyl nitrite",
+        "chempos": [
+          "6",
+          "8"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "potassium chloride",
+        "chempos": [
+          "19",
+          "21"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Sodium nitroprusside, isosorbide dinitrate and amyl nitrite induced dose-dependent relaxations of Oddi's sphincter precontracted by potassium chloride (150 mM)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

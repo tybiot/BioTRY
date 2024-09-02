@@ -1,0 +1,87 @@
+{
+  "sentence0": {
+    "sentece_text": "The highest toxin concentration was detected in inoculated PM berries both for OTA (9 ng/g) at 20 C and for FB2 (687 ng/g) at 30 C .",
+    "PRO": [
+      {
+        "chem": "PM",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "9 ng/g",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PM",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "687 ng/g",
+        "prodpos": [
+          "26",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "OTA",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "687 ng/g",
+        "prodpos": [
+          "26",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "FB2",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "9 ng/g",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "OTA",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "9 ng/g",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "FB2",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "687 ng/g",
+        "prodpos": [
+          "26",
+          "30"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

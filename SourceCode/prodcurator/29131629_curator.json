@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "The maximum theanderose concentration ranged from 122.4 to 130.4 g/L , was obtained after only 1 h and at a moderate temperature (37  C), leading to high productivity (109.7-130.4 g/L h-1) and yield (up to 37.3%) values.",
+    "PRO": [
+      {
+        "chem": "theanderose",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "130.4 g/L",
+        "prodpos": [
+          "8",
+          "12"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "theanderose",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "109.7-130.4 g/L",
+        "prodpos": [
+          "35",
+          "41"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

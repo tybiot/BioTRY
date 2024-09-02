@@ -1,0 +1,47 @@
+{
+  "sentence0": {
+    "sentece_text": "Spectro-photometric titrations of the tyrosine residues of hemopexin, heme-hemopexin and hemopexin in 8 M urea showed apparent pK values at 11.4, 11.7, and 10.9 respectively.",
+    "PRO": [
+      {
+        "chem": "tyrosine",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "8 M",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "heme",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "8 M",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "urea",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "8 M",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

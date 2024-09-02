@@ -1,0 +1,73 @@
+{
+  "sentence0": {
+    "sentece_text": "Contractions were abolished by tetrodotoxin (1.6 microM).",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "tetrodotoxin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "1.6 microM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Apamin (300 nM) disrupted evoked peristaltic waves and significantly increased the rate-of-rise of the LM and CM contractions anal to a stimulus, and the LM oral to a stimulus.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Apamin",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "300 nM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Nomega-nitro-L-arginine (100 microM), a nitric oxide synthesis inhibitor, had no overall significant effect on the characteristics of the LM and CM contractions, although on occasion an enhancement in their peak amplitude was noted.",
+    "PRO": [
+      {
+        "chem": "nitric oxide",
+        "chempos": [
+          "13",
+          "15"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Nomega-nitro-L-arginine",
+        "chempos": [
+          "0",
+          "7"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

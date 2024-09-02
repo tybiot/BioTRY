@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "The optimal temperature in the absence of Ca2+ ions is 60 degrees C for WT and M77 and 40 degrees C for M111 and 21B .",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "CaCl2",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

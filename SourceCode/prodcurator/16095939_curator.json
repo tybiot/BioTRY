@@ -1,0 +1,66 @@
+{
+  "sentence0": {
+    "sentece_text": "In a fed-batch culture, the DG1(pSPD5) strain was able to produce 1,3-propanediol at a higher concentration (1104 mM) and productivity than the natural producer C. butyricum VPI 3266.",
+    "PRO": [
+      {
+        "chem": "DG1(pSPD5)",
+        "chempos": [
+          "8",
+          "10"
+        ],
+        "prod": "1104 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "1,3-propanediol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "1104 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Furthermore, this strain was also successfully used for very long term continuous production of 1,3-propanediol at high volumetric productivity (3 g/L  h-1) and titer (788 mM).",
+    "PRO": [
+      {
+        "chem": "1,3-propanediol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "3 g/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "1,3-propanediol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "788 mM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

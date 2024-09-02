@@ -1,0 +1,61 @@
+{
+  "sentence0": {
+    "sentece_text": "F(420) concentration in M. bryantii ranged from 1.84 to 3.65 mumol/g of protein; and in M. barkeri grown with methanol it ranged from 0.84 to 1.54 mumol .",
+    "PRO": [
+      {
+        "chem": "F(420)",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "1.54 mumol",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "methanol",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "3.65 mumol/g",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "methanol",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "1.54 mumol",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "F(420)",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "3.65 mumol/g",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "sentence0": {
+    "sentece_text": "The studied system, composed of approximately 300,000 atoms, included one copy of the protein, a patch of a DPPC lipid bilayer, and a 1 M water solution of KCl.",
+    "PRO": [
+      {
+        "chem": "DPPC lipid bilayer",
+        "chempos": [
+          "21",
+          "24"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "KCl",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "water",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

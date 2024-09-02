@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Groups of 6 conscious rabbits were exposed to air (control) or to a high <span id=\"chem\">CO2</span> and/or low <span id=\"chem\">O2</span> atmosphere for 570 minutes, or received <span id=\"yields\">47 ml/kg</span> of <span id=\"chem\">0.3N HCl</span> by gavage.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Once blood gases or pH were stabilized, they received <span id=\"yields\">2.5 mg/kg</span> <span id=\"chem\">theophylline</span> intravenously.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "CO2",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "47 ml/kg",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "O2",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "47 ml/kg",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "0.3N HCl",
+        "chempos": [
+          "32",
+          "34"
+        ],
+        "prod": "47 ml/kg",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "theophylline",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Groups of 6 conscious rabbits were exposed to air (control) or to a high CO2 and/or low O2 atmosphere for 570 minutes, or received 47 ml/kg of 0.3N HCl by gavage.",
+    "Once blood gases or pH were stabilized, they received 2.5 mg/kg theophylline intravenously."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

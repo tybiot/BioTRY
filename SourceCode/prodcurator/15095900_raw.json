@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">For these reasons, the effects of <span id=\"chem\">atrazine</span> (5 and <span id=\"titer\">50 microg/L</span>) on several endpoints related to reproductive fitness were examined in fathead minnows (Pimephales promelas) in a 21-d static exposure.</div>",
+    "Sentence 1: <div id_class=\"result-body\"><span id=\"chem\">Estradiol</span> (<span id=\"titer\">0.5 microg/L</span>) was included as a positive-control treatment.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "atrazine",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "50 microg/L",
+        "prodpos": [
+          "11",
+          "15"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Estradiol",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.5 microg/L",
+        "prodpos": [
+          "2",
+          "6"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "For these reasons, the effects of atrazine (5 and 50 microg/L) on several endpoints related to reproductive fitness were examined in fathead minnows (Pimephales promelas) in a 21-d static exposure.",
+    "Estradiol (0.5 microg/L) was included as a positive-control treatment."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

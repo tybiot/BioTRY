@@ -1,0 +1,406 @@
+{
+  "sentence0": {
+    "sentece_text": "Improvement of the molar yield (moles acid produced per moles glucose consumed) of L-malic acid was obtained mainly by increasing the agitation rate (to 350 rpm) and the Fe(z+) ion concentration (to 12 mg/L) and by lowering the nitrogen (to 271 mg/L) and phosphate concentrations (to 1.5 mM) in the medium.",
+    "PRO": [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "12 mg/L",
+        "prodpos": [
+          "40",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "271 mg/L",
+        "prodpos": [
+          "52",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "62",
+          "64"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "15",
+          "19"
+        ],
+        "prod": "12 mg/L",
+        "prodpos": [
+          "40",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "15",
+          "19"
+        ],
+        "prod": "271 mg/L",
+        "prodpos": [
+          "52",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "15",
+          "19"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "62",
+          "64"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "49",
+          "50"
+        ],
+        "prod": "12 mg/L",
+        "prodpos": [
+          "40",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "49",
+          "50"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "62",
+          "64"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "phosphate",
+        "chempos": [
+          "58",
+          "59"
+        ],
+        "prod": "12 mg/L",
+        "prodpos": [
+          "40",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "phosphate",
+        "chempos": [
+          "58",
+          "59"
+        ],
+        "prod": "271 mg/L",
+        "prodpos": [
+          "52",
+          "56"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "moles acid",
+        "chempos": [
+          "6",
+          "8"
+        ],
+        "prod": "12 mg/L",
+        "prodpos": [
+          "40",
+          "44"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "moles acid",
+        "chempos": [
+          "6",
+          "8"
+        ],
+        "prod": "271 mg/L",
+        "prodpos": [
+          "52",
+          "56"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "moles acid",
+        "chempos": [
+          "6",
+          "8"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "62",
+          "64"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Fe(z+)",
+        "chempos": [
+          "34",
+          "36"
+        ],
+        "prod": "12 mg/L",
+        "prodpos": [
+          "40",
+          "44"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Fe(z+)",
+        "chempos": [
+          "34",
+          "36"
+        ],
+        "prod": "271 mg/L",
+        "prodpos": [
+          "52",
+          "56"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Fe(z+)",
+        "chempos": [
+          "34",
+          "36"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "62",
+          "64"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "49",
+          "50"
+        ],
+        "prod": "271 mg/L",
+        "prodpos": [
+          "52",
+          "56"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "phosphate",
+        "chempos": [
+          "58",
+          "59"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "62",
+          "64"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The fermentation conditions developed using the above mentioned factors and 9% CaCO(3) in the medium resulted in a high concentration (113 g/L L-malic acid from 120 g/L glucose utilized) and a high overall productivity (0.59 g/L h) of L-malic acid.",
+    "PRO": [
+      {
+        "chem": "CaCO(3)",
+        "chempos": [
+          "12",
+          "14"
+        ],
+        "prod": "120 g/L",
+        "prodpos": [
+          "32",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CaCO(3)",
+        "chempos": [
+          "12",
+          "14"
+        ],
+        "prod": "0.59 g/L",
+        "prodpos": [
+          "45",
+          "49"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "27",
+          "31"
+        ],
+        "prod": "113 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "27",
+          "31"
+        ],
+        "prod": "120 g/L",
+        "prodpos": [
+          "32",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "27",
+          "31"
+        ],
+        "prod": "0.59 g/L",
+        "prodpos": [
+          "45",
+          "49"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "113 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "120 g/L",
+        "prodpos": [
+          "32",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "0.59 g/L",
+        "prodpos": [
+          "45",
+          "49"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "52",
+          "56"
+        ],
+        "prod": "113 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "52",
+          "56"
+        ],
+        "prod": "120 g/L",
+        "prodpos": [
+          "32",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malic acid",
+        "chempos": [
+          "52",
+          "56"
+        ],
+        "prod": "0.59 g/L",
+        "prodpos": [
+          "45",
+          "49"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "CaCO(3)",
+        "chempos": [
+          "12",
+          "14"
+        ],
+        "prod": "113 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

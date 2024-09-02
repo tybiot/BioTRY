@@ -1,0 +1,204 @@
+{
+  "sentence0": {
+    "sentece_text": "The sensor detected hexanoic, heptanoic and octanoic acid over a linear range up to 2, 1.5, and 0.75 mM, respectively, but did not show a linear response to decanoic and dodecanoic acid.",
+    "PRO": [
+      {
+        "chem": "hexanoic",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hexanoic",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "heptanoic",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "heptanoic",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "octanoic acid",
+        "chempos": [
+          "7",
+          "9"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "octanoic acid",
+        "chempos": [
+          "7",
+          "9"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "decanoic",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "decanoic",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dodecanoic acid",
+        "chempos": [
+          "36",
+          "38"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dodecanoic acid",
+        "chempos": [
+          "36",
+          "38"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dodecanoic acid",
+        "chempos": [
+          "36",
+          "38"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "hexanoic",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "heptanoic",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "octanoic acid",
+        "chempos": [
+          "7",
+          "9"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "decanoic",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Isolated working hearts from 7-day-old rabbits were perfused with <span id=\"chem\">Krebs</span> solution containing low (<span id=\"titer\">0.4 mM</span>) or high (<span id=\"titer\">2.4 mM</span>) <span id=\"chem\">palmitate</span> and <span id=\"titer\">5.5 mM</span> <span id=\"chem\">glucose</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">LV work was similar before ischemia but was greater during reperfusion in hearts perfused with <span id=\"titer\">2.4 mM</span> <span id=\"chem\">palmitate</span> compared with hearts perfused with <span id=\"titer\">0.4 mM</span> <span id=\"chem\">palmitate</span> [6.98 +/- 0.14 (n = 15) vs. 3.01 +/- 0.23 (n = 16) mJ.beat(-1).g dry wt(-1); P &lt; 0.05].</div>",
+    "Sentence 2: <div id_class=\"result-body\">During reperfusion the rates of <span id=\"chem\">palmitate</span> oxidation [237.5 +/- 28.10 (n = 7) vs. 86.0 +/- 9.7 (n = 6) nmol.g dry wt(-1).min(-1); P &lt; 0.05], total <span id=\"chem\">TCA</span> cycle activity [2.65 +/- 0.39 (n = 7) vs. 1.36 +/- 0.14 (n = 6) micromol <span id=\"chem\">acetyl-CoA.g</span> dry wt(-1).min(-1); P &lt; 0.05], and <span id=\"chem\">ATP</span> generation attributable to <span id=\"chem\">palmitate</span> oxidation [26.6 +/- 3.1 (n = 7) vs. 12.6 +/- 1.7 (n = 6) micromol.g dry wt(-1).min(-1); P &lt; 0.05] were greater in hearts perfused with <span id=\"titer\">2.4 mM</span> <span id=\"chem\">palmitate</span>.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Krebs",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.4 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "Krebs",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "Krebs",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "5.5 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.4 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "5.5 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.4 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "5.5 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.4 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.4 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "116",
+          "118"
+        ]
+      },
+      {
+        "chem": "TCA",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "116",
+          "118"
+        ]
+      },
+      {
+        "chem": "acetyl-CoA.g",
+        "chempos": [
+          "62",
+          "65"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "116",
+          "118"
+        ]
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "75",
+          "76"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "116",
+          "118"
+        ]
+      },
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "79",
+          "80"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "116",
+          "118"
+        ]
+      },
+      {
+        "chem": "palmitate",
+        "chempos": [
+          "118",
+          "119"
+        ],
+        "prod": "2.4 mM",
+        "prodpos": [
+          "116",
+          "118"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Isolated working hearts from 7-day-old rabbits were perfused with Krebs solution containing low (0.4 mM) or high (2.4 mM) palmitate and 5.5 mM glucose.",
+    "LV work was similar before ischemia but was greater during reperfusion in hearts perfused with 2.4 mM palmitate compared with hearts perfused with 0.4 mM palmitate [6.98 +/- 0.14 (n = 15) vs. 3.01 +/- 0.23 (n = 16) mJ.beat(-1).g dry wt(-1); P < 0.05].",
+    "During reperfusion the rates of palmitate oxidation [237.5 +/- 28.10 (n = 7) vs. 86.0 +/- 9.7 (n = 6) nmol.g dry wt(-1).min(-1); P < 0.05], total TCA cycle activity [2.65 +/- 0.39 (n = 7) vs. 1.36 +/- 0.14 (n = 6) micromol acetyl-CoA.g dry wt(-1).min(-1); P < 0.05], and ATP generation attributable to palmitate oxidation [26.6 +/- 3.1 (n = 7) vs. 12.6 +/- 1.7 (n = 6) micromol.g dry wt(-1).min(-1); P < 0.05] were greater in hearts perfused with 2.4 mM palmitate."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sentence0": {
+    "sentece_text": "A significant reduction in nitrogen, between 34.7 and 73.7 mg /L, and particularly in phosphorus concentration, between 15.4 and 15.9 mg /L, was observed in drainage solution collected from commercial greenhouse production.",
+    "PRO": [
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "73.7 mg /L",
+        "prodpos": [
+          "9",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "15.9 mg /L",
+        "prodpos": [
+          "22",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "phosphorus",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "73.7 mg /L",
+        "prodpos": [
+          "9",
+          "12"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "phosphorus",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "15.9 mg /L",
+        "prodpos": [
+          "22",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

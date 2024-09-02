@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "Insulin-like growth factor (IGF)-I (10(-9)M-10(-7)M) was found to be mitogenic for cultured cells from all three zones as shown by increased incorporation of [3H]thymidine into DNA.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "[3H]thymidine",
+        "chempos": [
+          "28",
+          "30"
+        ],
+        "prod": "10(-9)M-10(-7)M",
+        "prodpos": [
+          "8",
+          "9"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

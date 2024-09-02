@@ -1,0 +1,48 @@
+{
+  "sentence0": {
+    "sentece_text": "In this study, NH4HCO3 (10 micromol per g fish) was injected into the peritoneal cavity of M. albus, raising the level of ammonia in the body, in order to elucidate the strategies involved in defense against the toxicity of exogenous ammonia.",
+    "PRO": [
+      {
+        "chem": "ammonia",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "10 micromol",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ammonia",
+        "chempos": [
+          "45",
+          "46"
+        ],
+        "prod": "10 micromol",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "NH4HCO3",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "10 micromol",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

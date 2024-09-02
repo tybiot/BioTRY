@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Inocula from diverse locations were tested for their ability to reduce <span id=\"chem\">nitrate</span> and <span id=\"chem\">perchlorate</span> in synthetic ion exchange spent <span id=\"chem\">brine</span> (<span id=\"titer\">45 g/l</span> <span id=\"chem\">NaCl</span>) using H(2)-based MBfRs.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "nitrate",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "45 g/l",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "perchlorate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "45 g/l",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "brine",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "45 g/l",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "45 g/l",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Inocula from diverse locations were tested for their ability to reduce nitrate and perchlorate in synthetic ion exchange spent brine (45 g/l NaCl) using H(2)-based MBfRs."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "sentence0": {
+    "sentece_text": "The PER-1 producers and their transconjugants were highly resistant to ceftazidime and aztreonam (MIC &gt; or = 128 mg/L) but not to carbapenems or latamoxet.",
+    "PRO": [
+      {
+        "chem": "ceftazidime",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "128 mg/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbapenems",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "128 mg/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "latamoxet",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "128 mg/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "aztreonam",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "128 mg/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Piperacillin insusceptibility was marginal (MIC 8 mg/L).",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Piperacillin",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "8 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Clavulanate 4 mg/L, but not tazobactam 4 mg/L, reversed resistance to ceftazidime and carbenicillin.",
+    "PRO": [
+      {
+        "chem": "Clavulanate",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "4 mg/L",
+        "prodpos": [
+          "1",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Clavulanate",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "4 mg/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "tazobactam",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "4 mg/L",
+        "prodpos": [
+          "1",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "tazobactam",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "4 mg/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ceftazidime",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "4 mg/L",
+        "prodpos": [
+          "1",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ceftazidime",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "4 mg/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbenicillin",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "4 mg/L",
+        "prodpos": [
+          "1",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbenicillin",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "4 mg/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence3": {
+    "sentece_text": "This reflected the present assays being in 0.1 M phosphate buffer pH 7.0, whereas the previous were pH-stat-regulated; concentrated phosphate reduced enzyme activity against ceftazidime, but not against cephaloridine.",
+    "PRO": [
+      {
+        "chem": "phosphate",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "0.1 M",
+        "prodpos": [
+          "7",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "phosphate",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.1 M",
+        "prodpos": [
+          "7",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ceftazidime",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "0.1 M",
+        "prodpos": [
+          "7",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cephaloridine",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "0.1 M",
+        "prodpos": [
+          "7",
+          "9"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

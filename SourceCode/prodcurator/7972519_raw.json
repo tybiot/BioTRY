@@ -1,0 +1,214 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The Vmax (<span id=\"titer\">45 nmol</span> min-1mg-1), the apparent K(M) for <span id=\"chem\">chorismate</span> (<span id=\"titer\">180 microM</span>), and the feedback inhibition by <span id=\"chem\">Trp</span> (complete inhibition by <span id=\"titer\">10 microM</span> <span id=\"chem\">Trp</span>) of the purified fusion product (<span id=\"chem\">GST</span>-ASA1) were comparable to <span id=\"chem\">anthranilate</span> synthase purified from plants.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "chorismate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "chorismate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "chorismate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      },
+      {
+        "chem": "GST",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "GST",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "GST",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      },
+      {
+        "chem": "anthranilate",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "anthranilate",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "anthranilate",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The Vmax (45 nmol min-1mg-1), the apparent K(M) for chorismate (180 microM), and the feedback inhibition by Trp (complete inhibition by 10 microM Trp) of the purified fusion product (GST-ASA1) were comparable to anthranilate synthase purified from plants."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

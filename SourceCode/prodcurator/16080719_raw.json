@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Culture medium containing <span id=\"titer\">25 g /L</span> of activated <span id=\"chem\">carbon</span> gave an optimal <span id=\"chem\">surfactin</span> yield of <span id=\"titer\">3600 mg /L</span>, which was approximately 36-fold higher than that obtained from carrier-free liquid culture.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Concentration of limiting <span id=\"chem\">carbon</span> substrate (<span id=\"chem\">glucose</span>) is also an important factor affecting the production of <span id=\"chem\">surfactin</span>, as an initial <span id=\"chem\">glucose</span> concentration of <span id=\"titer\">40 g /L</span> resulted in optimal <span id=\"chem\">surfactin</span> production.</div>",
+    "Sentence 2: <div id_class=\"result-body\">The purified <span id=\"chem\">surfactin</span> reduced the surface tension of <span id=\"chem\">water</span> from 72 to 27 mN m(-1) with a critical micelle concentration of ca. <span id=\"titer\">10 mg /L</span> .</div>",
+    "Sentence 3: <div id_class=\"result-body\">The <span id=\"chem\">surfactin</span> product also attained an emulsion index of 70% for <span id=\"chem\">kerosene</span> and <span id=\"chem\">diesel</span> at a low concentration of <span id=\"titer\">100 mg /L</span> and <span id=\"titer\">600 mg /L</span>, respectively.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "carbon",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "25 g /L",
+        "prodpos": [
+          "3",
+          "6"
+        ]
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "3600 mg /L",
+        "prodpos": [
+          "15",
+          "18"
+        ]
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "25 g /L",
+        "prodpos": [
+          "3",
+          "6"
+        ]
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "3600 mg /L",
+        "prodpos": [
+          "15",
+          "18"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "carbon",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ]
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ]
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "10 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ]
+      },
+      {
+        "chem": "water",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "10 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "100 mg /L",
+        "prodpos": [
+          "20",
+          "23"
+        ]
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "600 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ]
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "100 mg /L",
+        "prodpos": [
+          "20",
+          "23"
+        ]
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "600 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ]
+      },
+      {
+        "chem": "diesel",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "100 mg /L",
+        "prodpos": [
+          "20",
+          "23"
+        ]
+      },
+      {
+        "chem": "diesel",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "600 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Culture medium containing 25 g /L of activated carbon gave an optimal surfactin yield of 3600 mg /L, which was approximately 36-fold higher than that obtained from carrier-free liquid culture.",
+    "Concentration of limiting carbon substrate (glucose) is also an important factor affecting the production of surfactin, as an initial glucose concentration of 40 g /L resulted in optimal surfactin production.",
+    "The purified surfactin reduced the surface tension of water from 72 to 27 mN m(-1) with a critical micelle concentration of ca. 10 mg /L .",
+    "The surfactin product also attained an emulsion index of 70% for kerosene and diesel at a low concentration of 100 and 600 mg /L, respectively."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ]
+}

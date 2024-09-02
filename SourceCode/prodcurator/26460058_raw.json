@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"titer\">500 mg/L</span> without external <span id=\"chem\">ethanol</span> supplementation.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "500 mg/L",
+        "prodpos": [
+          "0",
+          "4"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "500 mg/L without external ethanol supplementation."
+  ],
+  "prod_predict": [
+    [
+      0
+    ]
+  ]
+}

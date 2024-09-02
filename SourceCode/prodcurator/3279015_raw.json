@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">BMY-28142</span> was much more stable against the both enzymes than <span id=\"chem\">cephalothin</span>, but more hydrolyzable than <span id=\"chem\">cefotaxime</span> and <span id=\"chem\">ceftazidime</span> at higher concentration such as <span id=\"titer\">100 microM</span> .</div>",
+    "Sentence 1: <div id_class=\"result-body\">Because of low affinity for the enzymes, i.e. large Km and Ki, the calculated hydrolysis rate of <span id=\"chem\">BMY-28142</span> at <span id=\"titer\">0.1 microM</span> was smaller than those of <span id=\"chem\">cefotaxime</span> and <span id=\"chem\">ceftazidime</span>, that explained the difference in activity against cephalosporinase-producing strains between <span id=\"chem\">BMY-28142</span> and <span id=\"chem\">cefotaxime</span> or <span id=\"chem\">ceftazidime</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "BMY-28142",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "cephalothin",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "cefotaxime",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "ceftazidime",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "BMY-28142",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "0.1 microM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "cefotaxime",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "0.1 microM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "ceftazidime",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "0.1 microM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "BMY-28142",
+        "chempos": [
+          "44",
+          "45"
+        ],
+        "prod": "0.1 microM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "cefotaxime",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.1 microM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "ceftazidime",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "0.1 microM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "BMY-28142 was much more stable against the both enzymes than cephalothin, but more hydrolyzable than cefotaxime and ceftazidime at higher concentration such as 100 microM .",
+    "Because of low affinity for the enzymes, i.e. large Km and Ki, the calculated hydrolysis rate of BMY-28142 at 0.1 microM was smaller than those of cefotaxime and ceftazidime, that explained the difference in activity against cephalosporinase-producing strains between BMY-28142 and cefotaxime or ceftazidime."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

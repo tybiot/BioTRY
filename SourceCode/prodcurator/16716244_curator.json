@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "Our study indicates that prolonged incubation of Trypanosoma cruzi infected-LLC-MK2 cells in the presence of 500 microM suramin during the intracellular development of the parasite caused morphological changes on trypomastigote forms characterized by a partial or complete detachment of the flagellum from the cell body, besides an accentuated decrease on parasite motility.",
+    "PRO": [
+      {
+        "chem": "suramin",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

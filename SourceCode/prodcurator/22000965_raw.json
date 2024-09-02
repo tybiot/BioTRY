@@ -1,0 +1,65 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Under optimum hydrolysis conditions, <span id=\"yields\">0.685 g/g</span> of reducing <span id=\"chem\">sugar</span> was produced per gram of pretreated <span id=\"chem\">biomass</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">The fermentation of the hydrolyzate using Saccharomyces cerevisae produced <span id=\"titer\">11.365 g/L</span> of <span id=\"chem\">bioethanol</span> with an efficiency of about 50%.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "sugar",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.685 g/g",
+        "prodpos": [
+          "5",
+          "9"
+        ]
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "0.685 g/g",
+        "prodpos": [
+          "5",
+          "9"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "bioethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "11.365 g/L",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Under optimum hydrolysis conditions, 0.685 g/g of reducing sugar was produced per gram of pretreated biomass.",
+    "The fermentation of the hydrolyzate using Saccharomyces cerevisae produced 11.365 g/L of bioethanol with an efficiency of about 50%."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

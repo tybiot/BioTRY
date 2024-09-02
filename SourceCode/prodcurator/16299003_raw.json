@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Exogenous application of <span id=\"titer\">10 microM</span> <span id=\"chem\">ABA</span> leads to swelling, root hair formation and initiation of lateral root primodia in the tips of young, seminal rice roots.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "ABA",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Exogenous application of 10 microM ABA leads to swelling, root hair formation and initiation of lateral root primodia in the tips of young, seminal rice roots."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Growth rates, viability, and protein concentrations of E. coli grown in the absence of <span id=\"chem\">glucose</span> were unaffected by the addition of <span id=\"titer\">100 microM</span> <span id=\"chem\">CCCP</span> .</div>",
+    "Sentence 1: <div id_class=\"result-body\">The culture of E. coli appeared to be in a syncopic state hovering between life and death when it was exposed to <span id=\"chem\">CCCP</span> in the presence of more than <span id=\"titer\">30 mM</span> <span id=\"chem\">glucose</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "CCCP",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "CCCP",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "30 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "30 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Growth rates, viability, and protein concentrations of E. coli grown in the absence of glucose were unaffected by the addition of 100 microM CCCP .",
+    "The culture of E. coli appeared to be in a syncopic state hovering between life and death when it was exposed to CCCP in the presence of more than 30 mM glucose."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}

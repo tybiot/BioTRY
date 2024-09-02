@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "Finally, further overexpression of OCrtZ and OBKTM in YastD-01 resulted in accumulation of 8.10mg/g  (47.18mg/l) of (3S, 3'S)-astaxanthin in shake-flask cultures.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "OCrtZ",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "8.10mg/g",
+        "prodpos": [
+          "14",
+          "17"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "OCrtZ",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "47.18mg/l",
+        "prodpos": [
+          "19",
+          "22"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "sentence0": {
+    "sentece_text": "Sodium nitroprusside, isosorbide dinitrate and amyl nitrite induced dose-dependent relaxations of Oddi's sphincter precontracted by potassium chloride (150 mM).",
+    "PRO": [
+      {
+        "chem": "Sodium nitroprusside",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "isosorbide dinitrate",
+        "chempos": [
+          "3",
+          "5"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "amyl nitrite",
+        "chempos": [
+          "6",
+          "8"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "potassium chloride",
+        "chempos": [
+          "19",
+          "21"
+        ],
+        "prod": "150 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

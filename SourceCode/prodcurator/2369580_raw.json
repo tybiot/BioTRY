@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The fusion yield of this cell system was considerably enhanced by electrofusion in hypo-osmolar media containing <span id=\"titer\">0.4 M</span> <span id=\"chem\">mannitol</span>, <span id=\"titer\">0.1 mM</span> <span id=\"chem\">calcium acetate</span> and 0.1% bovine serum albumin.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.4 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "calcium acetate",
+        "chempos": [
+          "24",
+          "26"
+        ],
+        "prod": "0.4 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "calcium acetate",
+        "chempos": [
+          "24",
+          "26"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The fusion yield of this cell system was considerably enhanced by electrofusion in hypo-osmolar media containing 0.4 M mannitol, 0.1 mM calcium acetate and 0.1% bovine serum albumin."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1,
+      1
+    ]
+  ]
+}

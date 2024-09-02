@@ -1,0 +1,80 @@
+{
+  "sentence0": {
+    "sentece_text": "Bonitos, especially red flesh, had the lowest total trimethylamine content (approximately 1 micromol per g tissue) among salmon, tuna, swordfish, sea bream or cod in this study.",
+    "PRO": [
+      {
+        "chem": "trimethylamine",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "1 micromol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Mean excretion ratio of total trimethylamine in 8 h-urines from six healthy volunteers was approximately 90% after loading test by ingesting bonito (200 g) resulting in less than 2 micromol of free trimethylamine/mmol creatinine excreted in volunteers harboring high FMO3 metabolic capacity, in contrast to approximately 40% after ingestion of 200 g cod.",
+    "PRO": [
+      {
+        "chem": "trimethylamine",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "2 micromol",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "creatinine",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "2 micromol",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "8 h-urines",
+        "chempos": [
+          "7",
+          "11"
+        ],
+        "prod": "2 micromol",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "trimethylamine",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "2 micromol",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  }
+}

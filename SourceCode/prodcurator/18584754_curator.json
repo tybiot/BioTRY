@@ -1,0 +1,67 @@
+{
+  "sentence0": {
+    "sentece_text": "By limiting phosphorous concentration, HBsAg expression level for the YNN27/p2micro-S11 strain with inducible PHO5 promoter reached 0.2-0.3 mg/L .",
+    "PRO": [
+      {
+        "chem": "HBsAg",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.2-0.3 mg/L",
+        "prodpos": [
+          "21",
+          "27"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "phosphorous",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.2-0.3 mg/L",
+        "prodpos": [
+          "21",
+          "27"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "By controlling nutrient addition rate and dissolved oxygen concentration, HBsAg concentrations of 3-10 mg/L were achieved in 60-70 h fermentation using the YNN27/pDCB-S2 strain with the constitutive GPD promoter.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "oxygen",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "3-10 mg/L",
+        "prodpos": [
+          "13",
+          "19"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "HBsAg",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "3-10 mg/L",
+        "prodpos": [
+          "13",
+          "19"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  }
+}

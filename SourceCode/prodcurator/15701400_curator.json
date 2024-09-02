@@ -1,0 +1,189 @@
+{
+  "sentence0": {
+    "sentece_text": "In the five CGA sites, the maximum atrazine concentrations measured during the study ranged from 1.2 to 9.3 microg/L .",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "atrazine",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "9.3 microg/L",
+        "prodpos": [
+          "18",
+          "22"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Although no atrazine was recorded as being applied in the catchment of the three NCGA sites, maximum concentrations from 0.39 to 0.84 microg/L were measured during the study, possibly as a result of atmospheric transport.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "atrazine",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.84 microg/L",
+        "prodpos": [
+          "22",
+          "26"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Maximum measured concentrations of terbuthylazine ranged from 1.22 to 2.1 microg/L in the NCGA sites and from 1.04 to 4.1 microg/L in the CGA sites.",
+    "PRO": [
+      {
+        "chem": "terbuthylazine",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "2.1 microg/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "terbuthylazine",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "4.1 microg/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence3": {
+    "sentece_text": "Concentrations of DIA were > or = 1 microg/L throughout the season, while DEA concentrations were mostly <0.5 microg/L before planting but increased after planting and application of herbicides to concentrations >2 microg/L in some locations.",
+    "PRO": [
+      {
+        "chem": "DIA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "1 microg/L",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DIA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.5 microg/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DIA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "2 microg/L",
+        "prodpos": [
+          "38",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DEA",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "1 microg/L",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DEA",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "0.5 microg/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DEA",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "2 microg/L",
+        "prodpos": [
+          "38",
+          "42"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence4": {
+    "sentece_text": "Concentrations of DACT were highly variable (LOD to 8 microg/L) both before and after planting and application, suggesting that they resulted from historical use of triazines in the area.",
+    "PRO": [
+      {
+        "chem": "triazines",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "8 microg/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "DACT",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "8 microg/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

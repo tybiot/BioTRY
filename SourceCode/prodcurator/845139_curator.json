@@ -1,0 +1,222 @@
+{
+  "sentence0": {
+    "sentece_text": "Defatted skin powder suspended in 0.5 M NaCl was homogenized, and total glycosaminoglycans were precipitated from this 0.5 M NaCl extract with cetylpyridinium chloride, then redissolved successively with increasing concentrations of NaCl and finally 0.5 N NaOH .",
+    "PRO": [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycosaminoglycans",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycosaminoglycans",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cetylpyridinium chloride",
+        "chempos": [
+          "23",
+          "25"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cetylpyridinium chloride",
+        "chempos": [
+          "23",
+          "25"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaOH",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaOH",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Hyaluronic acid, the major acid glycosaminoglycan in the 0.5 M NaCl extract, was purified and fractionated by DEAE-Sephadex chromatography.",
+    "PRO": [
+      {
+        "chem": "Hyaluronic acid",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycosaminoglycan",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DEAE-Sephadex",
+        "chempos": [
+          "19",
+          "22"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

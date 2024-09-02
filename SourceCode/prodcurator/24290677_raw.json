@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The highest toxin concentration was detected in inoculated <span id=\"chem\">PM</span> berries both for <span id=\"chem\">OTA</span> (<span id=\"yields\">9 ng/g</span>) at 20 C and for <span id=\"chem\">FB2</span> (<span id=\"yields\">687 ng/g</span>) at 30 C .</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "PM",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "9 ng/g",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "chem": "PM",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "687 ng/g",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      },
+      {
+        "chem": "OTA",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "9 ng/g",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "chem": "OTA",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "687 ng/g",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      },
+      {
+        "chem": "FB2",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "9 ng/g",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "chem": "FB2",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "687 ng/g",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The highest toxin concentration was detected in inoculated PM berries both for OTA (9 ng/g) at 20 C and for FB2 (687 ng/g) at 30 C .",
+    "In inoculated SS and PM berries, although malondialdehyde and hydrogen peroxide concentrations did not increase, the two black Aspergillus species caused a significant decrease in ascorbate content, thus inducing a pro-oxidant effect."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  ]
+}

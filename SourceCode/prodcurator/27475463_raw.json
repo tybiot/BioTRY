@@ -1,0 +1,85 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Using Saccharomyces cerevisiae as an experimental model, the potential toxicological effects of oxidized multi-walled <span id=\"chem\">carbon</span> nanotubes (<span id=\"chem\">MWCNTs</span>) were investigated following exposure to <span id=\"titer\">0-600mg/L</span> for 24h.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Results indicated that <span id=\"chem\">MWCNTs</span> (&gt;<span id=\"titer\">100mg/L</span>) had adverse effects on the cell proliferation.</div>",
+    "Sentence 2: <div id_class=\"result-body\">The uptake kinetics data demonstrated that the maximum <span id=\"chem\">MWCNTs</span> content (<span id=\"yields\">209.61mg/g</span>) was reached at 3h, and a steady state was reached after 18h.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "carbon",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0-600mg/L",
+        "prodpos": [
+          "27",
+          "32"
+        ]
+      },
+      {
+        "chem": "MWCNTs",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0-600mg/L",
+        "prodpos": [
+          "27",
+          "32"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "MWCNTs",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "100mg/L",
+        "prodpos": [
+          "6",
+          "9"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "MWCNTs",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "209.61mg/g",
+        "prodpos": [
+          "11",
+          "14"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Using Saccharomyces cerevisiae as an experimental model, the potential toxicological effects of oxidized multi-walled carbon nanotubes (MWCNTs) were investigated following exposure to 0-600mg/L for 24h.",
+    "Results indicated that MWCNTs (>100mg/L) had adverse effects on the cell proliferation.",
+    "The uptake kinetics data demonstrated that the maximum MWCNTs content (209.61mg/g) was reached at 3h, and a steady state was reached after 18h."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1
+    ],
+    [
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The <span id=\"chem\">zinc</span> level of the egg yolk from the control group of second trial was higher (<span id=\"yields\">23.5 mg/kg</span>) than those of the unsupplemented group (<span id=\"yields\">13.6 mg/kg</span>).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "zinc",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "23.5 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "zinc",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "13.6 mg/kg",
+        "prodpos": [
+          "29",
+          "33"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The zinc level of the egg yolk from the control group of second trial was higher (23.5 mg/kg) than those of the unsupplemented group (13.6 mg/kg)."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ]
+  ]
+}

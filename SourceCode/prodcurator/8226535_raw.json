@@ -1,0 +1,201 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The vasculature was flushed with physiological salt solution containing either <span id=\"titer\">15 mM</span> <span id=\"chem\">glucose</span> (<span id=\"chem\">hyperoxia-glucose</span>, <span id=\"chem\">anoxia-glucose</span>), <span id=\"titer\">15 mM</span> <span id=\"chem\">sucrose</span> (hyperoxia-<span id=\"chem\">sucrose</span>, <span id=\"chem\">anoxia-sucrose</span>), or no substrate (<span id=\"chem\">hyperoxia-no</span> substrate, anoxia-no substrate) (n = 6 for each condition).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "hyperoxia-glucose",
+        "chempos": [
+          "14",
+          "17"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "hyperoxia-glucose",
+        "chempos": [
+          "14",
+          "17"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "anoxia-glucose",
+        "chempos": [
+          "18",
+          "21"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "anoxia-glucose",
+        "chempos": [
+          "18",
+          "21"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "anoxia-sucrose",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "anoxia-sucrose",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "hyperoxia-no",
+        "chempos": [
+          "40",
+          "43"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "hyperoxia-no",
+        "chempos": [
+          "40",
+          "43"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The vasculature was flushed with physiological salt solution containing either 15 mM glucose (hyperoxia-glucose, anoxia-glucose), 15 mM sucrose (hyperoxia-sucrose, anoxia-sucrose), or no substrate (hyperoxia-no substrate, anoxia-no substrate) (n = 6 for each condition)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

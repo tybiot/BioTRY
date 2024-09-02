@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Dissolved <span id=\"chem\">oxygen</span> (<span id=\"chem\">DO</span>) of UASS and AF reactors kept around 1.39+-0.27 and <span id=\"titer\">0.99+-0.38mg/L</span>, respectively.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "oxygen",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "0.99+-0.38mg/L",
+        "prodpos": [
+          "16",
+          "21"
+        ]
+      },
+      {
+        "chem": "DO",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "0.99+-0.38mg/L",
+        "prodpos": [
+          "16",
+          "21"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Dissolved oxygen (DO) of UASS and AF reactors kept around 1.39+-0.27 and 0.99+-0.38mg/L, respectively."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ]
+  ]
+}

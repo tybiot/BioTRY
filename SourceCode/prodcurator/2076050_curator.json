@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "Already three weeks after inoculation 4.9 mg/kg of DON were measured in the infected ears.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "DON",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "4.9 mg/kg",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

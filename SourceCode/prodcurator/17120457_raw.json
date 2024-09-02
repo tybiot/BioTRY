@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">At various hydraulic retention times, ranging from 0.7 to 5 days, excellent removal of chemical <span id=\"chem\">oxygen</span> demand (COD), biochemical <span id=\"chem\">oxygen</span> demand (BOD), total suspended solids (TSS), <span id=\"chem\">ammonia-nitrogen</span> (<span id=\"chem\">NH4-N</span>), and total <span id=\"chem\">Kjeldahl nitrogen</span> was achieved with final effluent BOD/TSS/<span id=\"chem\">NH4N</span> concentrations of less than <span id=\"titer\">15/15/1 mg/L</span> .</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "oxygen",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "15/15/1 mg/L",
+        "prodpos": [
+          "62",
+          "66"
+        ]
+      },
+      {
+        "chem": "oxygen",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "15/15/1 mg/L",
+        "prodpos": [
+          "62",
+          "66"
+        ]
+      },
+      {
+        "chem": "ammonia-nitrogen",
+        "chempos": [
+          "37",
+          "40"
+        ],
+        "prod": "15/15/1 mg/L",
+        "prodpos": [
+          "62",
+          "66"
+        ]
+      },
+      {
+        "chem": "NH4-N",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "15/15/1 mg/L",
+        "prodpos": [
+          "62",
+          "66"
+        ]
+      },
+      {
+        "chem": "Kjeldahl nitrogen",
+        "chempos": [
+          "46",
+          "48"
+        ],
+        "prod": "15/15/1 mg/L",
+        "prodpos": [
+          "62",
+          "66"
+        ]
+      },
+      {
+        "chem": "NH4N",
+        "chempos": [
+          "57",
+          "58"
+        ],
+        "prod": "15/15/1 mg/L",
+        "prodpos": [
+          "62",
+          "66"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "At various hydraulic retention times, ranging from 0.7 to 5 days, excellent removal of chemical oxygen demand (COD), biochemical oxygen demand (BOD), total suspended solids (TSS), ammonia-nitrogen (NH4-N), and total Kjeldahl nitrogen was achieved with final effluent BOD/TSS/NH4N concentrations of less than 15/15/1 mg/L ."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

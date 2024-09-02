@@ -1,0 +1,203 @@
+{
+  "sentence0": {
+    "sentece_text": "In a plot with 100% of CW percolate irrigation, the maximum Zn, Mn and Cu concentrations of 5.0, 12.3 and 2.5 mg/kg, respectively, were detected in the percolate-fed soil, whereas no accumulation of heavy metals in the plant tissues (i.e. leaves, stems and flowers) of the sunflower were detected.",
+    "PRO": [
+      {
+        "chem": "percolate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Zn",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Zn",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Zn",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Mn",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Mn",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Mn",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Cu",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Cu",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Cu",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "5.0 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "12.3 mg/kg",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "percolate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

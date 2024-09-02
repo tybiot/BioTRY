@@ -1,0 +1,47 @@
+{
+  "sentence0": {
+    "sentece_text": "It has a minimal molecular weight of 20,000, according to its behavior on sodium dodecylsulfate-polyacrylamide gel electrophoresis, and contains approximately 1 mol of biotin per 22,000 g of protein.",
+    "PRO": [
+      {
+        "chem": "sodium dodecylsulfate",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "1 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polyacrylamide",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "biotin",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "1 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

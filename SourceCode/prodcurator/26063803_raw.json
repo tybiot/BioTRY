@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The TrpD2 proteins show high structural homology to <span id=\"chem\">anthranilate</span> phosphoribosyltransferase (TrpD) and <span id=\"chem\">nucleoside</span> phosphorylase class II enzymes but bind with high affinity (KD = <span id=\"titer\">10-100 nM</span>) to <span id=\"chem\">nucleic acids</span> without detectable sequence specificity.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "anthranilate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "10-100 nM",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "nucleoside",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10-100 nM",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "nucleic acids",
+        "chempos": [
+          "33",
+          "35"
+        ],
+        "prod": "10-100 nM",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The TrpD2 proteins show high structural homology to anthranilate phosphoribosyltransferase (TrpD) and nucleoside phosphorylase class II enzymes but bind with high affinity (KD = 10-100 nM) to nucleic acids without detectable sequence specificity."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1,
+      0
+    ]
+  ]
+}

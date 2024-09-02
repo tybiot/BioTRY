@@ -1,0 +1,409 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Saffan</span> (infused at <span id=\"yields\">9.75 mg/kg</span> of body weight/h, i.v.); <span id=\"chem\">ketamine</span>/<span id=\"chem\">xylazine</span> (<span id=\"yields\">14.6/3.7 mg/kg</span>/h, i.v.); <span id=\"chem\">pentobarbitone</span> (<span id=\"yields\">8.3 mg/kg</span>/h, i.v.) plus <span id=\"chem\">Innovar</span> Vet (<span id=\"yields\">0.15 mg/kg</span> every 1 to 1.5 h, s.c.); or <span id=\"chem\">pentobarbitone</span> alone (<span id=\"yields\">22 mg/kg</span>/h, i.v.).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Saffan",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "9.75 mg/kg",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "Saffan",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "14.6/3.7 mg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "Saffan",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "8.3 mg/kg",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "Saffan",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.15 mg/kg",
+        "prodpos": [
+          "49",
+          "53"
+        ]
+      },
+      {
+        "chem": "Saffan",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "22 mg/kg",
+        "prodpos": [
+          "67",
+          "71"
+        ]
+      },
+      {
+        "chem": "ketamine",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "9.75 mg/kg",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "ketamine",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "14.6/3.7 mg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "ketamine",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "8.3 mg/kg",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "ketamine",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "0.15 mg/kg",
+        "prodpos": [
+          "49",
+          "53"
+        ]
+      },
+      {
+        "chem": "ketamine",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "22 mg/kg",
+        "prodpos": [
+          "67",
+          "71"
+        ]
+      },
+      {
+        "chem": "xylazine",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "9.75 mg/kg",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "xylazine",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "14.6/3.7 mg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "xylazine",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "8.3 mg/kg",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "xylazine",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.15 mg/kg",
+        "prodpos": [
+          "49",
+          "53"
+        ]
+      },
+      {
+        "chem": "xylazine",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "22 mg/kg",
+        "prodpos": [
+          "67",
+          "71"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "9.75 mg/kg",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "14.6/3.7 mg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "8.3 mg/kg",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "0.15 mg/kg",
+        "prodpos": [
+          "49",
+          "53"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "22 mg/kg",
+        "prodpos": [
+          "67",
+          "71"
+        ]
+      },
+      {
+        "chem": "Innovar",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "9.75 mg/kg",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "Innovar",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "14.6/3.7 mg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "Innovar",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "8.3 mg/kg",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "Innovar",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.15 mg/kg",
+        "prodpos": [
+          "49",
+          "53"
+        ]
+      },
+      {
+        "chem": "Innovar",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "22 mg/kg",
+        "prodpos": [
+          "67",
+          "71"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "64",
+          "65"
+        ],
+        "prod": "9.75 mg/kg",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "64",
+          "65"
+        ],
+        "prod": "14.6/3.7 mg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "64",
+          "65"
+        ],
+        "prod": "8.3 mg/kg",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "64",
+          "65"
+        ],
+        "prod": "0.15 mg/kg",
+        "prodpos": [
+          "49",
+          "53"
+        ]
+      },
+      {
+        "chem": "pentobarbitone",
+        "chempos": [
+          "64",
+          "65"
+        ],
+        "prod": "22 mg/kg",
+        "prodpos": [
+          "67",
+          "71"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Saffan (infused at 9.75 mg/kg of body weight/h, i.v.); ketamine/xylazine (14.6/3.7 mg/kg/h, i.v.); pentobarbitone (8.3 mg/kg/h, i.v.) plus Innovar Vet (0.15 mg/kg every 1 to 1.5 h, s.c.); or pentobarbitone alone (22 mg/kg/h, i.v.)."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

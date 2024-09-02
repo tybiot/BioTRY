@@ -1,0 +1,68 @@
+{
+  "sentence0": {
+    "sentece_text": "We apply our module to identify the optimal point to redirect glycolytic flux into heterologous engineered pathways in Escherichia coli, resulting in titers of myo-inositol increased 5.5-fold and titers of glucaric acid increased from unmeasurable to >0.8 g/L, compared to the parent strains lacking dynamic flux control.",
+    "PRO": [
+      {
+        "chem": "myo-inositol",
+        "chempos": [
+          "25",
+          "28"
+        ],
+        "prod": "0.8 g/L",
+        "prodpos": [
+          "40",
+          "44"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "glucaric acid",
+        "chempos": [
+          "33",
+          "35"
+        ],
+        "prod": "0.8 g/L",
+        "prodpos": [
+          "40",
+          "44"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "We also used our module to control flux into aromatic amino acid biosynthesis to increase titers of shikimate in E. coli from unmeasurable to >100 mg/L.",
+    "PRO": [
+      {
+        "chem": "aromatic amino acid",
+        "chempos": [
+          "9",
+          "12"
+        ],
+        "prod": "100 mg/L.",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "shikimate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "100 mg/L.",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  }
+}

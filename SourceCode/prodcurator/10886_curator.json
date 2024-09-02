@@ -1,0 +1,157 @@
+{
+  "sentence0": {
+    "sentece_text": "17900 and a turnover number of 4s-1 (50mM-triethanolamine/400mM-KCl, pH 7.2, 25 degrees C) with dihydrofolate and NADPH as substrates.",
+    "PRO": [
+      {
+        "chem": "KCl",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "50mM",
+        "prodpos": [
+          "8",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dihydrofolate",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "50mM",
+        "prodpos": [
+          "8",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "50mM",
+        "prodpos": [
+          "8",
+          "9"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Michaelis constants for a variety of substrates have been measured by using a new fluorimetric assay (0.36 muM-dihydrofolate; 0.78 muM-NADPH), and binding constants determined by using the quenching of protein fluorescence (dihydrofolate, 2.25 X 10(6)M-1; NADPH, greater than 10(8)M-1).",
+    "PRO": [
+      {
+        "chem": "dihydrofolate",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.36 muM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dihydrofolate",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.78 muM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.36 muM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.78 muM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dihydrofolate",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "0.36 muM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dihydrofolate",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "0.78 muM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.36 muM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.78 muM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

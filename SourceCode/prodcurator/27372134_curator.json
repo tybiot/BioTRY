@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "Dissolved oxygen (DO) of UASS and AF reactors kept around 1.39+-0.27 and 0.99+-0.38mg/L, respectively.",
+    "PRO": [
+      {
+        "chem": "oxygen",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "0.99+-0.38mg/L",
+        "prodpos": [
+          "16",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DO",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "0.99+-0.38mg/L",
+        "prodpos": [
+          "16",
+          "21"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

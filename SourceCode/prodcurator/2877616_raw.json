@@ -1,0 +1,117 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Ornithine</span> and <span id=\"chem\">arginine</span> (5 to <span id=\"titer\">20 mM</span>), but not <span id=\"chem\">glutamic acid</span> or <span id=\"chem\">proline</span>, exerted a concentration-dependent stimulatory effect on the biosynthesis of <span id=\"chem\">clavulanic acid</span> in both resting-cell cultures and long-term fermentations of Streptomyces clavuligerus.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Both arginase activity and <span id=\"chem\">clavulanic acid</span> formation were enhanced simultaneously by supplementing the production medium with <span id=\"titer\">10 mM</span> <span id=\"chem\">arginine</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Ornithine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "chem": "arginine",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "chem": "glutamic acid",
+        "chempos": [
+          "12",
+          "14"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "chem": "proline",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "chem": "clavulanic acid",
+        "chempos": [
+          "28",
+          "30"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "clavulanic acid",
+        "chempos": [
+          "4",
+          "6"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "arginine",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Ornithine and arginine (5 to 20 mM), but not glutamic acid or proline, exerted a concentration-dependent stimulatory effect on the biosynthesis of clavulanic acid in both resting-cell cultures and long-term fermentations of Streptomyces clavuligerus.",
+    "Both arginase activity and clavulanic acid formation were enhanced simultaneously by supplementing the production medium with 10 mM arginine."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ]
+  ]
+}

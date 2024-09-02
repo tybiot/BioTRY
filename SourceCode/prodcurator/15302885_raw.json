@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Although the S. lavendulae DDL was competitively inhibited by <span id=\"chem\">DCS</span>, the K(i) value (<span id=\"titer\">920 microM</span>) was obviously higher (40 approximately 100-fold) than those for E. coli DdlA (<span id=\"titer\">9 microM</span>) or <span id=\"chem\">DdlB</span> (<span id=\"titer\">27 microM</span>).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "DCS",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "920 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "DCS",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "9 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "DCS",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "27 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ]
+      },
+      {
+        "chem": "DdlB",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "920 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "DdlB",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "9 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "DdlB",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "27 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Although the S. lavendulae DDL was competitively inhibited by DCS, the K(i) value (920 microM) was obviously higher (40 approximately 100-fold) than those for E. coli DdlA (9 microM) or DdlB (27 microM)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">L-Arginine</span> (<span id=\"titer\">10 mM</span>), but not <span id=\"chem\">D-arginine</span> (<span id=\"titer\">10 mM</span>), prevented the inhibition by <span id=\"chem\">L-NMMA</span> .</div>",
+    "Sentence 1: <div id_class=\"result-body\">Neither <span id=\"chem\">tetrodotoxin</span> (<span id=\"chem\">TTX</span>, <span id=\"titer\">1 microM</span>), nor the cyclo-oxygenase inhibitor, <span id=\"chem\">indomethacin</span> (<span id=\"titer\">10 microM</span>), altered the muscarinic vasodilatation or the inhibitory effect of <span id=\"chem\">L-NMMA</span> .</div>",
+    "Sentence 2: <div id_class=\"result-body\">This vasodilatation was unaffected by <span id=\"chem\">L-NMMA</span> but was abolished by the <span id=\"chem\">guanylate</span> cyclase inhibitor, <span id=\"chem\">methylene blue</span> (<span id=\"titer\">10 microM</span>).</div>",
+    "Sentence 3: <div id_class=\"result-body\">The vasodilatation produced by ganglionic stimulation (10 Hz, 10 s) was blocked by <span id=\"chem\">TTX</span> and the muscarinic receptor antagonist, <span id=\"chem\">4-diphenylacetoxy-N-methyl-piperidine methiodide</span> (<span id=\"chem\">4-DAMP</span>, <span id=\"titer\">1 microM</span>).</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "L-Arginine",
+        "chempos": [
+          "0",
+          "3"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "L-Arginine",
+        "chempos": [
+          "0",
+          "3"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "D-arginine",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "D-arginine",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "22",
+          "25"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "22",
+          "25"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "tetrodotoxin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "tetrodotoxin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "TTX",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "TTX",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "L-NMMA",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "guanylate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "methylene blue",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "TTX",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "4-diphenylacetoxy-N-methyl-piperidine methiodide",
+        "chempos": [
+          "23",
+          "31"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "4-DAMP",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "L-Arginine (10 mM), but not D-arginine (10 mM), prevented the inhibition by L-NMMA .",
+    "Neither tetrodotoxin (TTX, 1 microM), nor the cyclo-oxygenase inhibitor, indomethacin (10 microM), altered the muscarinic vasodilatation or the inhibitory effect of L-NMMA .",
+    "This vasodilatation was unaffected by L-NMMA but was abolished by the guanylate cyclase inhibitor, methylene blue (10 microM).",
+    "The vasodilatation produced by ganglionic stimulation (10 Hz, 10 s) was blocked by TTX and the muscarinic receptor antagonist, 4-diphenylacetoxy-N-methyl-piperidine methiodide (4-DAMP, 1 microM)."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ]
+}

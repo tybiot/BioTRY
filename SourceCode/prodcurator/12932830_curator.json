@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "The oligonucleosomes assembled from 12-repeat DNA and saturating amounts of core histone octamer plus histone H5 are compacted, in the presence of 1 mM free magnesium ions, to the level of the 30-nm fiber.",
+    "PRO": [
+      {
+        "chem": "H5",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "magnesium",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

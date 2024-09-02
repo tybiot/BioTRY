@@ -1,0 +1,60 @@
+{
+  "sentence0": {
+    "sentece_text": "Acetic acid production was 0.67 g/g cellulose substrate utilized in cellulose mineral salt (CMS) medium.",
+    "PRO": [
+      {
+        "chem": "Acetic acid",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "0.67 g/g",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "cellulose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "0.67 g/g",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cellulose mineral salt",
+        "chempos": [
+          "12",
+          "15"
+        ],
+        "prod": "0.67 g/g",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CMS",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "0.67 g/g",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "sentence0": {
+    "sentece_text": "Under aerobic growth conditions with glucose the acetyl-CoA and malonyl-CoA concentrations varied over a range of 0.05-1.5 nmol (mg dry wt)-1 (20-600 microM) and 0.01-0.23 nmol (mg dry wt)-1 (4-90 microM), respectively.",
+    "PRO": [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.05-1.5 nmol",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "20-600 microM",
+        "prodpos": [
+          "29",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.01-0.23 nmol",
+        "prodpos": [
+          "35",
+          "39"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "4-90 microM",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetyl-CoA",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "0.01-0.23 nmol",
+        "prodpos": [
+          "35",
+          "39"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetyl-CoA",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "4-90 microM",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "malonyl-CoA",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "0.05-1.5 nmol",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "acetyl-CoA",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "0.05-1.5 nmol",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetyl-CoA",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "20-600 microM",
+        "prodpos": [
+          "29",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "malonyl-CoA",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "20-600 microM",
+        "prodpos": [
+          "29",
+          "33"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "malonyl-CoA",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "0.01-0.23 nmol",
+        "prodpos": [
+          "35",
+          "39"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "malonyl-CoA",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "4-90 microM",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  }
+}

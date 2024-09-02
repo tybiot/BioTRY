@@ -1,0 +1,175 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">As little as <span id=\"titer\">0.2mM</span> added <span id=\"chem\">alpha-D-glucose</span> (<span id=\"titer\">0.4mM</span> <span id=\"chem\">alpha-D-xylose</span>) substantially increased the rate of enzymically catalyzed release of <span id=\"chem\">fluoride</span> from <span id=\"titer\">25mM</span> <span id=\"chem\">beta-D-glucosyl fluoride</span> at 0 degrees.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "alpha-D-glucose",
+        "chempos": [
+          "5",
+          "10"
+        ],
+        "prod": "0.2mM",
+        "prodpos": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "chem": "alpha-D-glucose",
+        "chempos": [
+          "5",
+          "10"
+        ],
+        "prod": "0.4mM",
+        "prodpos": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "chem": "alpha-D-glucose",
+        "chempos": [
+          "5",
+          "10"
+        ],
+        "prod": "25mM",
+        "prodpos": [
+          "29",
+          "30"
+        ]
+      },
+      {
+        "chem": "alpha-D-xylose",
+        "chempos": [
+          "12",
+          "17"
+        ],
+        "prod": "0.2mM",
+        "prodpos": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "chem": "alpha-D-xylose",
+        "chempos": [
+          "12",
+          "17"
+        ],
+        "prod": "0.4mM",
+        "prodpos": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "chem": "alpha-D-xylose",
+        "chempos": [
+          "12",
+          "17"
+        ],
+        "prod": "25mM",
+        "prodpos": [
+          "29",
+          "30"
+        ]
+      },
+      {
+        "chem": "fluoride",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.2mM",
+        "prodpos": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "chem": "fluoride",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.4mM",
+        "prodpos": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "chem": "fluoride",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "25mM",
+        "prodpos": [
+          "29",
+          "30"
+        ]
+      },
+      {
+        "chem": "beta-D-glucosyl fluoride",
+        "chempos": [
+          "30",
+          "36"
+        ],
+        "prod": "0.2mM",
+        "prodpos": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "chem": "beta-D-glucosyl fluoride",
+        "chempos": [
+          "30",
+          "36"
+        ],
+        "prod": "0.4mM",
+        "prodpos": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "chem": "beta-D-glucosyl fluoride",
+        "chempos": [
+          "30",
+          "36"
+        ],
+        "prod": "25mM",
+        "prodpos": [
+          "29",
+          "30"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "As little as 0.2mM added alpha-D-glucose (0.4mM alpha-D-xylose) substantially increased the rate of enzymically catalyzed release of fluoride from 25mM beta-D-glucosyl fluoride at 0 degrees."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

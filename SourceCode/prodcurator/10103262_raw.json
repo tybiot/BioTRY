@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Thermal inactivation kinetic analysis of <span id=\"chem\">ThMA</span> indicated that it was stabilized in the presence of <span id=\"titer\">10 mM</span> <span id=\"chem\">EDTA</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "ThMA",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "EDTA",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Thermal inactivation kinetic analysis of ThMA indicated that it was stabilized in the presence of 10 mM EDTA."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "sentences": [
+    "Sentence 1: <div id_class=\"result-body\">Those of M111 and 21B rose to 50-60 degrees C upon the addition of <span id=\"titer\">5 mM</span> <span id=\"chem\">CaCl2</span>, while those of WT and M77 did not change.</div>"
+  ],
+  "id": [
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "CaCl2",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The optimal temperature in the absence of Ca2+ ions is 60 degrees C for WT and M77 and 40 degrees C for M111 and 21B .",
+    "Those of M111 and 21B rose to 50-60 degrees C upon the addition of 5 mM CaCl2, while those of WT and M77 did not change."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

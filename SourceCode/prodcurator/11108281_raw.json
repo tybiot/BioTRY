@@ -1,0 +1,136 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The addition of hormones [<span id=\"titer\">36 nM</span> <span id=\"chem\">estradiol-17beta</span>, <span id=\"titer\">1 microM</span> <span id=\"chem\">medroxyprogesterone acetate</span>, and <span id=\"titer\">100 ng/ml</span> <span id=\"chem\">relaxin</span>] to IL-1beta-treated cells induced insulin-like growth factor binding protein-1 (IGFBP-1) messenger RNA expression after 3 days of incubation.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "estradiol-17beta",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "36 nM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "estradiol-17beta",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "estradiol-17beta",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "100 ng/ml",
+        "prodpos": [
+          "15",
+          "19"
+        ]
+      },
+      {
+        "chem": "medroxyprogesterone acetate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "36 nM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "medroxyprogesterone acetate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "medroxyprogesterone acetate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "100 ng/ml",
+        "prodpos": [
+          "15",
+          "19"
+        ]
+      },
+      {
+        "chem": "relaxin",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "36 nM",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "relaxin",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "relaxin",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "100 ng/ml",
+        "prodpos": [
+          "15",
+          "19"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The addition of hormones [36 nM estradiol-17beta, 1 microM medroxyprogesterone acetate, and 100 ng/ml relaxin] to IL-1beta-treated cells induced insulin-like growth factor binding protein-1 (IGFBP-1) messenger RNA expression after 3 days of incubation."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

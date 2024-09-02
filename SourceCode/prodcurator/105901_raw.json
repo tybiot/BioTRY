@@ -1,0 +1,104 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Daily administration of <span id=\"chem\">metopiron</span> (<span id=\"chem\">SU-4885</span>, <span id=\"chem\">Ciba</span>) (<span id=\"yields\">10 mg/kg</span> body wt.</div>",
+    "Sentence 1: <div id_class=\"result-body\">IN CONCLUSION: <span id=\"chem\">Metopiron</span> (<span id=\"chem\">SU-4885</span>, <span id=\"chem\">Ciba</span>) at <span id=\"yields\">10 mg/kg</span> body wt.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "metopiron",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "SU-4885",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "Ciba",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Metopiron",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "SU-4885",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "Ciba",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Daily administration of metopiron (SU-4885, Ciba) (10 mg/kg body wt.",
+    "IN CONCLUSION: Metopiron (SU-4885, Ciba) at 10 mg/kg body wt."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ]
+}

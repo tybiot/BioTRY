@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">It has a minimal molecular weight of 20,000, according to its behavior on <span id=\"chem\">sodium dodecylsulfate</span>-<span id=\"chem\">polyacrylamide</span> gel electrophoresis, and contains approximately <span id=\"titer\">1 mol</span> of <span id=\"chem\">biotin</span> per 22,000 g of protein.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "sodium dodecylsulfate",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "1 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "polyacrylamide",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "biotin",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "1 mol",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "It has a minimal molecular weight of 20,000, according to its behavior on sodium dodecylsulfate-polyacrylamide gel electrophoresis, and contains approximately 1 mol of biotin per 22,000 g of protein."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1
+    ]
+  ]
+}

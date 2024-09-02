@@ -1,0 +1,60 @@
+{
+  "sentence0": {
+    "sentece_text": "Based on DO production, median effective concentration (EC50) varies from 1.73 mg/L (1-octanol) to 8,040 mg/L (2-propanol).",
+    "PRO": [
+      {
+        "chem": "1-octanol",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "1.73 mg/L",
+        "prodpos": [
+          "13",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "1-octanol",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "8,040 mg/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "2-propanol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "1.73 mg/L",
+        "prodpos": [
+          "13",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "2-propanol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "8,040 mg/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

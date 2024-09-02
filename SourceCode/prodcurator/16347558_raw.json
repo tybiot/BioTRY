@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">F(420)</span> concentration in M. bryantii ranged from 1.84 to <span id=\"yields\">3.65 mumol/g</span> of protein; and in M. barkeri grown with <span id=\"chem\">methanol</span> it ranged from 0.84 to <span id=\"titer\">1.54 mumol</span> .</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "F(420)",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "3.65 mumol/g",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "F(420)",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "1.54 mumol",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      },
+      {
+        "chem": "methanol",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "3.65 mumol/g",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "methanol",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "1.54 mumol",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "F(420) concentration in M. bryantii ranged from 1.84 to 3.65 mumol/g of protein; and in M. barkeri grown with methanol it ranged from 0.84 to 1.54 mumol ."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      0
+    ]
+  ]
+}

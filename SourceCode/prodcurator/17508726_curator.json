@@ -1,0 +1,60 @@
+{
+  "sentence0": {
+    "sentece_text": "The dimeric protein binds one molecule of GSH very tightly (Kd approximately 5 nM) and a second molecule of GSH with much lower affinity (Kd approximately 2 to 11 microM).",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "GSH",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "5 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "GSH",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "GSH",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "5 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "GSH",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

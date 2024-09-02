@@ -1,0 +1,68 @@
+{
+  "sentence0": {
+    "sentece_text": "Growth rates, viability, and protein concentrations of E. coli grown in the absence of glucose were unaffected by the addition of 100 microM CCCP .",
+    "PRO": [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "CCCP",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The culture of E. coli appeared to be in a syncopic state hovering between life and death when it was exposed to CCCP in the presence of more than 30 mM glucose.",
+    "PRO": [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "30 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "CCCP",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "30 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

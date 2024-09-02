@@ -1,0 +1,175 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Under aerobic growth conditions with <span id=\"chem\">glucose</span> the <span id=\"chem\">acetyl-CoA</span> and <span id=\"chem\">malonyl-CoA</span> concentrations varied over a range of <span id=\"titer\">0.05-1.5 nmol</span> (mg dry wt)-1 (<span id=\"titer\">20-600 microM</span>) and <span id=\"titer\">0.01-0.23 nmol</span> (mg dry wt)-1 (<span id=\"titer\">4-90 microM</span>), respectively.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.05-1.5 nmol",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "20-600 microM",
+        "prodpos": [
+          "29",
+          "33"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.01-0.23 nmol",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "4-90 microM",
+        "prodpos": [
+          "44",
+          "48"
+        ]
+      },
+      {
+        "chem": "acetyl-CoA",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "0.05-1.5 nmol",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "acetyl-CoA",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "20-600 microM",
+        "prodpos": [
+          "29",
+          "33"
+        ]
+      },
+      {
+        "chem": "acetyl-CoA",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "0.01-0.23 nmol",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "acetyl-CoA",
+        "chempos": [
+          "7",
+          "10"
+        ],
+        "prod": "4-90 microM",
+        "prodpos": [
+          "44",
+          "48"
+        ]
+      },
+      {
+        "chem": "malonyl-CoA",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "0.05-1.5 nmol",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "malonyl-CoA",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "20-600 microM",
+        "prodpos": [
+          "29",
+          "33"
+        ]
+      },
+      {
+        "chem": "malonyl-CoA",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "0.01-0.23 nmol",
+        "prodpos": [
+          "35",
+          "39"
+        ]
+      },
+      {
+        "chem": "malonyl-CoA",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "4-90 microM",
+        "prodpos": [
+          "44",
+          "48"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Under aerobic growth conditions with glucose the acetyl-CoA and malonyl-CoA concentrations varied over a range of 0.05-1.5 nmol (mg dry wt)-1 (20-600 microM) and 0.01-0.23 nmol (mg dry wt)-1 (4-90 microM), respectively."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ]
+}

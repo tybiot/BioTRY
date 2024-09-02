@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Honeybees have approximately <span id=\"titer\">2.5 pmol</span>/eye of <span id=\"chem\">retinal</span> associated with visual pigments, but larger amounts (<span id=\"titer\">4-12 pmol</span>/eye) of both <span id=\"chem\">retinal</span> and <span id=\"chem\">retinol</span> bound to soluble proteins.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "retinal",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "2.5 pmol",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "retinal",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "4-12 pmol",
+        "prodpos": [
+          "18",
+          "22"
+        ]
+      },
+      {
+        "chem": "retinal",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2.5 pmol",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "retinal",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "4-12 pmol",
+        "prodpos": [
+          "18",
+          "22"
+        ]
+      },
+      {
+        "chem": "retinol",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "2.5 pmol",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "retinol",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "4-12 pmol",
+        "prodpos": [
+          "18",
+          "22"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Honeybees have approximately 2.5 pmol/eye of retinal associated with visual pigments, but larger amounts (4-12 pmol/eye) of both retinal and retinol bound to soluble proteins."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "TrwD is probably a peripheral outer membrane protein because it could be solubilized by increasing salt concentration to 0.5 M NaCl in the lysis buffer.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "salt",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

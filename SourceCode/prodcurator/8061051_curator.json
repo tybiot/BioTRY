@@ -1,0 +1,61 @@
+{
+  "sentence0": {
+    "sentece_text": "We have shown that ethanol, propanol and butanol (at 0.5-2%) and salts of butyric and propionic acids (at 8-40 mM) all cause a major reduction in heat-shock protein (hsp) synthesis when present in the growth medium of Drosophila cultured cells (Kc and SL2) subjected to either increased temperature or chemical stressors.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "8-40 mM",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propanol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "8-40 mM",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "8-40 mM",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "butyric and propionic acids",
+        "chempos": [
+          "19",
+          "23"
+        ],
+        "prod": "8-40 mM",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

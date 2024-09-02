@@ -1,0 +1,250 @@
+{
+  "sentence0": {
+    "sentece_text": "Culture medium containing 25 g /L of activated carbon gave an optimal surfactin yield of 3600 mg /L, which was approximately 36-fold higher than that obtained from carrier-free liquid culture.",
+    "PRO": [
+      {
+        "chem": "carbon",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "25 g /L",
+        "prodpos": [
+          "3",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "3600 mg /L",
+        "prodpos": [
+          "15",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "3600 mg /L",
+        "prodpos": [
+          "15",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "25 g /L",
+        "prodpos": [
+          "3",
+          "6"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Concentration of limiting carbon substrate (glucose) is also an important factor affecting the production of surfactin, as an initial glucose concentration of 40 g /L resulted in optimal surfactin production.",
+    "PRO": [
+      {
+        "chem": "carbon",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "40 g /L",
+        "prodpos": [
+          "25",
+          "28"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "The purified surfactin reduced the surface tension of water from 72 to 27 mN m(-1) with a critical micelle concentration of ca. 10 mg /L .",
+    "PRO": [
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "10 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "water",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "10 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence3": {
+    "sentece_text": "The surfactin product also attained an emulsion index of 70% for kerosene and diesel at a low concentration of 100 and 600 mg /L, respectively.",
+    "PRO": [
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "100 mg /L",
+        "prodpos": [
+          "20",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "surfactin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "600 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "600 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "100 mg /L",
+        "prodpos": [
+          "20",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "diesel",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "100 mg /L",
+        "prodpos": [
+          "20",
+          "23"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "diesel",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "600 mg /L",
+        "prodpos": [
+          "24",
+          "27"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  }
+}

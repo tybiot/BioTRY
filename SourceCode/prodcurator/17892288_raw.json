@@ -1,0 +1,202 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The <span id=\"chem\">aza</span> analogues inhibited recombinant <span id=\"chem\">ent-kaurene</span> synthase from Arabidopsis thaliana (GST-rAtKS) with inhibition constants (IC50 = 1 x 10-7 and 1 x <span id=\"titer\">10-6 M</span>) similar in magnitude to the pseudo-binding constant of the <span id=\"chem\">bicyclic ent-copalyl diphosphate</span> substrate (Km = 3 x <span id=\"titer\">10-7 M</span>).</div>",
+    "Sentence 1: <div id_class=\"result-body\">Large enhancements of binding affinities (IC50 = 4 x 10-9 and 2 x <span id=\"titer\">10-8 M</span>) were observed in the presence of <span id=\"titer\">1 mM</span> <span id=\"chem\">pyrophosphate</span>, which is consistent with a tightly bound ent-beyeranyl+/pyrophosphate- ion pair intermediate in the cyclization-rearrangement catalyzed by this <span id=\"chem\">diterpene</span> synthase.</div>",
+    "Sentence 2: <div id_class=\"result-body\">The weak inhibition (IC50 = 1 x <span id=\"titer\">10-5 M</span>) exhibited by <span id=\"chem\">ent-beyeran-16-exo-yl diphosphate</span> (11) and its failure to undergo bridge rearrangement to <span id=\"chem\">kaurene</span> appear to rule out the covalent <span id=\"chem\">diphosphate</span> as a free intermediate.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "aza",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      },
+      {
+        "chem": "aza",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "10-7 M",
+        "prodpos": [
+          "58",
+          "62"
+        ]
+      },
+      {
+        "chem": "ent-kaurene",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      },
+      {
+        "chem": "ent-kaurene",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "10-7 M",
+        "prodpos": [
+          "58",
+          "62"
+        ]
+      },
+      {
+        "chem": "bicyclic ent-copalyl diphosphate",
+        "chempos": [
+          "47",
+          "52"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      },
+      {
+        "chem": "bicyclic ent-copalyl diphosphate",
+        "chempos": [
+          "47",
+          "52"
+        ],
+        "prod": "10-7 M",
+        "prodpos": [
+          "58",
+          "62"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "pyrophosphate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "10-8 M",
+        "prodpos": [
+          "16",
+          "20"
+        ]
+      },
+      {
+        "chem": "pyrophosphate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "diterpene",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "10-8 M",
+        "prodpos": [
+          "16",
+          "20"
+        ]
+      },
+      {
+        "chem": "diterpene",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "ent-beyeran-16-exo-yl diphosphate",
+        "chempos": [
+          "15",
+          "21"
+        ],
+        "prod": "10-5 M",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "kaurene",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "10-5 M",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "diphosphate",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "10-5 M",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The aza analogues inhibited recombinant ent-kaurene synthase from Arabidopsis thaliana (GST-rAtKS) with inhibition constants (IC50 = 1 x 10-7 and 1 x 10-6 M) similar in magnitude to the pseudo-binding constant of the bicyclic ent-copalyl diphosphate substrate (Km = 3 x 10-7 M).",
+    "Large enhancements of binding affinities (IC50 = 4 x 10-9 and 2 x 10-8 M) were observed in the presence of 1 mM pyrophosphate, which is consistent with a tightly bound ent-beyeranyl+/pyrophosphate- ion pair intermediate in the cyclization-rearrangement catalyzed by this diterpene synthase.",
+    "The weak inhibition (IC50 = 1 x 10-5 M) exhibited by ent-beyeran-16-exo-yl diphosphate (11) and its failure to undergo bridge rearrangement to kaurene appear to rule out the covalent diphosphate as a free intermediate."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0
+    ]
+  ]
+}

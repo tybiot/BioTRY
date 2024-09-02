@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The specific activity of <span id=\"chem\">HMG-CoA</span> reductase in the jejunum was <span id=\"yields\">0.86 nmol/mg</span> per hr, and evenly distributed between crypt and villous cells.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "HMG-CoA",
+        "chempos": [
+          "4",
+          "7"
+        ],
+        "prod": "0.86 nmol/mg",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The specific activity of HMG-CoA reductase in the jejunum was 0.86 nmol/mg per hr, and evenly distributed between crypt and villous cells."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

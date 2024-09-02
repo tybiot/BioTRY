@@ -1,0 +1,143 @@
+{
+  "sentence0": {
+    "sentece_text": "In contrast, Nao+ caused a concentration-dependent increase in the rate of cytoplasmic alkalinization with saturation occurring above 50 mmol/L Nao+.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Nao+",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "50 mmol",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Nao+",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "50 mmol",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The transporter behaved according to first-order Michaelis-Menten type kinetics with respect to external Na+ and had an apparent Km for Nao+ of 38.4 mmol/L .",
+    "PRO": [
+      {
+        "chem": "Na+",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "38.4 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Nao+",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "38.4 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "In contrast, the transporter behaved with greater than first-order kinetics with respect to external Na+ and had an apparent Km for Nao+ of 38.4 mmol/L .",
+    "PRO": [
+      {
+        "chem": "Na+",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "38.4 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Nao+",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "38.4 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence3": {
+    "sentece_text": "The basal pHi of cells suspended in a bicarbonate-free 130 mmol/L NaCl solution (pHo 7.4) averaged 7.42 +/- 0.03 (n = 10); amiloride (10(-4) mmol/L caused the basal pHi to decrease to 7.26 +/- 0.05 (n = 10; P less than 0.0025).",
+    "PRO": [
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "130 mmol",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl solution",
+        "chempos": [
+          "15",
+          "17"
+        ],
+        "prod": "130 mmol",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "amiloride",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "130 mmol",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

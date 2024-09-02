@@ -1,0 +1,175 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">To this end, fish were fed AhR agonist (<span id=\"chem\">beta-naphthoflavone</span> (<span id=\"chem\">BNF</span>): <span id=\"yields\">10 mg/kg</span> body mass/day) and antagonist (<span id=\"chem\">alpha-naphthoflavone</span> (<span id=\"chem\">ANF</span>): <span id=\"yields\">10 mg/kg</span> body mass/day) either singly or in combination (<span id=\"chem\">ABNF</span>) for 5 days to elucidate the mechanisms involved in AhR-mediated depression of <span id=\"chem\">cortisol</span> production.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "beta-naphthoflavone",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "beta-naphthoflavone",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      },
+      {
+        "chem": "BNF",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "BNF",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      },
+      {
+        "chem": "alpha-naphthoflavone",
+        "chempos": [
+          "29",
+          "32"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "alpha-naphthoflavone",
+        "chempos": [
+          "29",
+          "32"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      },
+      {
+        "chem": "ANF",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "ANF",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      },
+      {
+        "chem": "ABNF",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "ABNF",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      },
+      {
+        "chem": "cortisol",
+        "chempos": [
+          "67",
+          "68"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ]
+      },
+      {
+        "chem": "cortisol",
+        "chempos": [
+          "67",
+          "68"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "To this end, fish were fed AhR agonist (beta-naphthoflavone (BNF): 10 mg/kg body mass/day) and antagonist (alpha-naphthoflavone (ANF): 10 mg/kg body mass/day) either singly or in combination (ABNF) for 5 days to elucidate the mechanisms involved in AhR-mediated depression of cortisol production."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

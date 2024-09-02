@@ -1,0 +1,351 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In the stirred-tank fermentor, the highest concentration of the <span id=\"chem\">carotenoid</span> pigment (<span id=\"titer\">92.0 mg/L</span>) was obtained at an aeration rate of 1.5 vvm and agitation speed of 60 rpm.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Maximum <span id=\"chem\">beta-carotene</span> concentration (<span id=\"titer\">360.2 mg/L</span>) was obtained in culture grown in <span id=\"chem\">molasses solution</span> containing 5% (w/v) <span id=\"chem\">sugar</span> supplemented with <span id=\"chem\">linoleic acid</span> (<span id=\"titer\">37.59 g/L</span>), <span id=\"chem\">kerosene</span> (<span id=\"titer\">39.11 g/L</span>), and <span id=\"chem\">antioxidant</span> (<span id=\"titer\">1.0 g/L</span>).</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "carotenoid",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "92.0 mg/L",
+        "prodpos": [
+          "15",
+          "19"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "beta-carotene",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "chem": "beta-carotene",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      },
+      {
+        "chem": "beta-carotene",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ]
+      },
+      {
+        "chem": "beta-carotene",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ]
+      },
+      {
+        "chem": "molasses solution",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "chem": "molasses solution",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      },
+      {
+        "chem": "molasses solution",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ]
+      },
+      {
+        "chem": "molasses solution",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ]
+      },
+      {
+        "chem": "linoleic acid",
+        "chempos": [
+          "30",
+          "32"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "chem": "linoleic acid",
+        "chempos": [
+          "30",
+          "32"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      },
+      {
+        "chem": "linoleic acid",
+        "chempos": [
+          "30",
+          "32"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ]
+      },
+      {
+        "chem": "linoleic acid",
+        "chempos": [
+          "30",
+          "32"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ]
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ]
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ]
+      },
+      {
+        "chem": "antioxidant",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "chem": "antioxidant",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ]
+      },
+      {
+        "chem": "antioxidant",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ]
+      },
+      {
+        "chem": "antioxidant",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In the stirred-tank fermentor, the highest concentration of the carotenoid pigment (92.0 mg/L) was obtained at an aeration rate of 1.5 vvm and agitation speed of 60 rpm.",
+    "Maximum beta-carotene concentration (360.2 mg/L) was obtained in culture grown in molasses solution containing 5% (w/v) sugar supplemented with linoleic acid (37.59 g/L), kerosene (39.11 g/L), and antioxidant (1.0 g/L)."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

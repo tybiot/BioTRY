@@ -1,0 +1,47 @@
+{
+  "sentence0": {
+    "sentece_text": "When cultivated in the presence of 50 mM aspartate, the biomass of cells increased 65.8 % compared with the control (without aspartate addition).",
+    "PRO": [
+      {
+        "chem": "aspartate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "aspartate",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

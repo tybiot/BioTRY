@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "The finally genetic strain YJM13 harboring the MVA pathway and ispS(Pa) gene could accumulate isoprene up to 2.48 mg/l and 532 mg/l under the flask and fed-batch fermentation conditions, respectively, which is about three times and five times to the control strain.",
+    "PRO": [
+      {
+        "chem": "isoprene",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "2.48 mg/l",
+        "prodpos": [
+          "18",
+          "22"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "isoprene",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "532 mg/l",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

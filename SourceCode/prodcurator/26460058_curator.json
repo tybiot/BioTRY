@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "500 mg/L without external ethanol supplementation.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "500 mg/L",
+        "prodpos": [
+          "0",
+          "4"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

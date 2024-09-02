@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Cells from R. sphaeroides strain R26.1 were grown anaerobically in a medium containing <span id=\"titer\">5.0 mmol</span>/L <span id=\"chem\">cobalt</span> ions and in a control medium.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "cobalt",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "5.0 mmol",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Cells from R. sphaeroides strain R26.1 were grown anaerobically in a medium containing 5.0 mmol/L cobalt ions and in a control medium."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

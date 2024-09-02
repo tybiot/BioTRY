@@ -1,0 +1,54 @@
+{
+  "sentence0": {
+    "sentece_text": "Each diet was supplemented with 0 or 100 mg/kg niacin.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "niacin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "100 mg/kg",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "In Exp. 2, diets were supplemented with 0 or 100 mg/kg of niacin or niacinamide.",
+    "PRO": [
+      {
+        "chem": "niacinamide",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "100 mg/kg",
+        "prodpos": [
+          "11",
+          "15"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "niacin",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "100 mg/kg",
+        "prodpos": [
+          "11",
+          "15"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

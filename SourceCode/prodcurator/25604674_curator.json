@@ -1,0 +1,146 @@
+{
+  "sentence1": {
+    "sentece_text": "Under the above conditions, the extraction yields of echinacoside and acteoside (the main components of phenylethanoid glycosides) reached 5.35 and 6.22 mg/g dry material weight, respectively.",
+    "PRO": [
+      {
+        "chem": "echinacoside",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "6.22 mg/g",
+        "prodpos": [
+          "26",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acteoside",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "5.35 mg/g",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "phenylethanoid glycosides",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "6.22 mg/g",
+        "prodpos": [
+          "26",
+          "30"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "echinacoside",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "5.35 mg/g",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acteoside",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "6.22 mg/g",
+        "prodpos": [
+          "26",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "phenylethanoid glycosides",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "5.35 mg/g",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "The contents of echinacoside and acteoside in the extracts reached 27.56 and 30.23 mg/g, respectively, which were 2.46- and 2.58-fold higher than the amounts obtained in ultrasound-assisted extraction.",
+    "PRO": [
+      {
+        "chem": "echinacoside",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "30.23 mg/g",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "echinacoside",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "27.56 mg/g",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acteoside",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "27.56 mg/g",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "acteoside",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "30.23 mg/g",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  }
+}

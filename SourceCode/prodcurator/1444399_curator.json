@@ -1,0 +1,249 @@
+{
+  "sentence0": {
+    "sentece_text": "HV content in the polymer was increased from 17 to 24 mol% by adding 10 to 40 mM valerate to glucose medium, but HV insertion into the polymer occurred at a fixed rate.",
+    "PRO": [
+      {
+        "chem": "HV",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "40 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polymer",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "40 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "40 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HV",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "40 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polymer",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "40 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "valerate",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "40 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The synthesis of HV in these cultures also occurred at a fixed rate (2.3 to 2.8 mol% h-1), while the maximum PHA production rate was 1.1 g/L h-1.",
+    "PRO": [
+      {
+        "chem": "HV",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "1.1 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PHA",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "1.1 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "Up to 45 mol% C source, but the PHA produced amounted to less than 1 g/L .",
+    "PRO": [
+      {
+        "chem": "PHA",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "1 g/L",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence3": {
+    "sentece_text": "The combination of 30 mM valerate as a sole C source and 0.5 mM 4-pentenoate increased the HV content in the polymer to 52 mol%.(ABSTRACT TRUNCATED AT 250 WORDS)",
+    "PRO": [
+      {
+        "chem": "valerate",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "12",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "4-pentenoate",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "30 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HV",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "30 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "HV",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "12",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polymer",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "30 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "polymer",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "12",
+          "14"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "valerate",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "30 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "4-pentenoate",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "12",
+          "14"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

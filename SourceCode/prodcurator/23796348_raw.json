@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Employing Lactobacillus brevis ADH, it was possible to achieve the synthesis of enantiopure <span id=\"chem\">(S)-fluorohydrins</span> at a <span id=\"titer\">0.5 M</span> substrate concentration.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "(S)-fluorohydrins",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Employing Lactobacillus brevis ADH, it was possible to achieve the synthesis of enantiopure (S)-fluorohydrins at a 0.5 M substrate concentration."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

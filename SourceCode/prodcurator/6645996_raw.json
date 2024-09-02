@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">A temperature shock, a change in the pH of the medium for conservation within the range of 4.0 to 10.0, and an increase of <span id=\"chem\">NaCl</span> concentration up to <span id=\"titer\">5 M</span> do not inactivate Escherichia coli phages T3, T4 and phi X174.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "5 M",
+        "prodpos": [
+          "30",
+          "32"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "A temperature shock, a change in the pH of the medium for conservation within the range of 4.0 to 10.0, and an increase of NaCl concentration up to 5 M do not inactivate Escherichia coli phages T3, T4 and phi X174."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

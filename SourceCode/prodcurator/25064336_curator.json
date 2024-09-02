@@ -1,0 +1,157 @@
+{
+  "sentence0": {
+    "sentece_text": "This process provided the liquid fraction containing 111.4 g /L of sugars, corresponding to 681.0mM as monomeric sugars, from the original liquid fraction (181.1mM monomeric sugars).",
+    "PRO": [
+      {
+        "chem": "sugars",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "111.4 g /L",
+        "prodpos": [
+          "7",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "681.0mM",
+        "prodpos": [
+          "15",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "181.1mM",
+        "prodpos": [
+          "26",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "111.4 g /L",
+        "prodpos": [
+          "7",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "681.0mM",
+        "prodpos": [
+          "15",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "181.1mM",
+        "prodpos": [
+          "26",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "111.4 g /L",
+        "prodpos": [
+          "7",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "681.0mM",
+        "prodpos": [
+          "15",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "181.1mM",
+        "prodpos": [
+          "26",
+          "27"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Xylose-fermenting recombinant Saccharomyces cerevisiae produced 34.5 +- 2.2 g /L ethanol from the 0.8 times liquid fraction (76% of theoretical yield).",
+    "PRO": [
+      {
+        "chem": "Xylose",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "34.5 +- 2.2 g /L",
+        "prodpos": [
+          "7",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "34.5 +- 2.2 g /L",
+        "prodpos": [
+          "7",
+          "13"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

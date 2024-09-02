@@ -1,0 +1,61 @@
+{
+  "sentence0": {
+    "sentece_text": "The fusion yield of this cell system was considerably enhanced by electrofusion in hypo-osmolar media containing 0.4 M mannitol, 0.1 mM calcium acetate and 0.1% bovine serum albumin.",
+    "PRO": [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.4 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "calcium acetate",
+        "chempos": [
+          "24",
+          "26"
+        ],
+        "prod": "0.4 M",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "calcium acetate",
+        "chempos": [
+          "24",
+          "26"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The ligand-bound aptamer structure is essentially the same in cells and in buffer at <span id=\"titer\">1 mM</span> <span id=\"chem\">Mg(2+)</span>, the approximate <span id=\"chem\">Mg(2+)</span> concentration we measured in cells.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Mg(2+)",
+        "chempos": [
+          "18",
+          "21"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "Mg(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The ligand-bound aptamer structure is essentially the same in cells and in buffer at 1 mM Mg(2+), the approximate Mg(2+) concentration we measured in cells."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ]
+  ]
+}

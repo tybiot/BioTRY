@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">After 10 minutes of ischemia, <span id=\"chem\">K+</span> accumulation was approximately <span id=\"titer\">2.5 mM</span> in muscles with a radius of 0.35 mm and approximately <span id=\"titer\">14 mM</span> in muscles with a radius of 0.9 mm, indicating that a large fraction of <span id=\"chem\">K+</span> accumulation was dependent on diffusion of a volatile metabolite.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "K+",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "2.5 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "K+",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "14 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "K+",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "2.5 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "K+",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "14 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "After 10 minutes of ischemia, K+ accumulation was approximately 2.5 mM in muscles with a radius of 0.35 mm and approximately 14 mM in muscles with a radius of 0.9 mm, indicating that a large fraction of K+ accumulation was dependent on diffusion of a volatile metabolite."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      1,
+      1
+    ]
+  ]
+}

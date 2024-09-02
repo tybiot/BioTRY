@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "Expression in yeast (Saccharomyces cerevisiae) shows that AtSTP6 is a high-affinity (K(m) = 20 microM), broad-spectrum, and uncoupler-sensitive monosaccharide transporter that is targeted to the plasma membrane and that can complement a growth deficiency resulting from the disruption of most yeast hexose transporter genes.",
+    "PRO": [
+      {
+        "chem": "monosaccharide",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hexose",
+        "chempos": [
+          "54",
+          "55"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

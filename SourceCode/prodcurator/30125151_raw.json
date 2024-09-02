@@ -1,0 +1,104 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Baseline sensitivities of 74 isolates of C. acutatum to <span id=\"chem\">natamycin</span> were determined to be unimodal, with a range from 0.526 to <span id=\"titer\">1.996 mug/ml</span> (mean <span id=\"titer\">0.973 mug/ml</span>).</div>",
+    "Sentence 1: <div id_class=\"result-body\">Although this toxicity was considerably lower than that of <span id=\"chem\">azoxystrobin</span> (using sensitive isolates), <span id=\"chem\">fludioxonil</span>, or <span id=\"chem\">cyprodinil</span>, dip treatments of transplants with <span id=\"chem\">natamycin</span> (at 500 or <span id=\"titer\">1000 mg/L</span>) were highly effective.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "natamycin",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "1.996 mug/ml",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "natamycin",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "0.973 mug/ml",
+        "prodpos": [
+          "28",
+          "32"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "azoxystrobin",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "1000 mg/L",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      },
+      {
+        "chem": "fludioxonil",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "1000 mg/L",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      },
+      {
+        "chem": "cyprodinil",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1000 mg/L",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      },
+      {
+        "chem": "natamycin",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "1000 mg/L",
+        "prodpos": [
+          "31",
+          "35"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Baseline sensitivities of 74 isolates of C. acutatum to natamycin were determined to be unimodal, with a range from 0.526 to 1.996 mug/ml (mean 0.973 mug/ml).",
+    "Although this toxicity was considerably lower than that of azoxystrobin (using sensitive isolates), fludioxonil, or cyprodinil, dip treatments of transplants with natamycin (at 500 or 1000 mg/L) were highly effective."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

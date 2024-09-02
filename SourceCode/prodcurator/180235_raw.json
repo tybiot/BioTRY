@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In contrast to previous findings with Saccharomyces carlsbergensis, cytochrome c oxidase and another mitochondrial enzyme, <span id=\"chem\">succinate</span> dehydrogenase, were completely sedimentable by zonal centrifugation in <span id=\"chem\">sucrose</span> gradients in the presence of either <span id=\"titer\">2 mM</span>-<span id=\"chem\">MgCl2</span> or <span id=\"titer\">0-4 mM</span>-<span id=\"chem\">EDTA</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "succinate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "succinate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0-4 mM",
+        "prodpos": [
+          "39",
+          "43"
+        ]
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0-4 mM",
+        "prodpos": [
+          "39",
+          "43"
+        ]
+      },
+      {
+        "chem": "MgCl2",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "MgCl2",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "0-4 mM",
+        "prodpos": [
+          "39",
+          "43"
+        ]
+      },
+      {
+        "chem": "EDTA",
+        "chempos": [
+          "44",
+          "45"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ]
+      },
+      {
+        "chem": "EDTA",
+        "chempos": [
+          "44",
+          "45"
+        ],
+        "prod": "0-4 mM",
+        "prodpos": [
+          "39",
+          "43"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In contrast to previous findings with Saccharomyces carlsbergensis, cytochrome c oxidase and another mitochondrial enzyme, succinate dehydrogenase, were completely sedimentable by zonal centrifugation in sucrose gradients in the presence of either 2 mM-MgCl2 or 0-4 mM-EDTA."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

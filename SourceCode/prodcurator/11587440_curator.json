@@ -1,0 +1,139 @@
+{
+  "sentence0": {
+    "sentece_text": "Glucose, acetate and fructose were tested as growth substrates, and the highest demeton-S-methyl biotransformation average rate (0.78 mg/L/h) and maximum instantaneous rate (1.4 mg/L/h) were achieved on fructose.",
+    "PRO": [
+      {
+        "chem": "Glucose",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Glucose",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "demeton-S-methyl",
+        "chempos": [
+          "14",
+          "19"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "45",
+          "46"
+        ],
+        "prod": "0.78 mg/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "45",
+          "46"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "demeton-S-methyl",
+        "chempos": [
+          "14",
+          "19"
+        ],
+        "prod": "1.4 mg/L",
+        "prodpos": [
+          "35",
+          "39"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  }
+}

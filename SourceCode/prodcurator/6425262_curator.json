@@ -1,0 +1,67 @@
+{
+  "sentence0": {
+    "sentece_text": "Carbon monoxide dehydrogenase activity was inhibited 85% by 10 microM KCN and was rapidly inactivated by O2.",
+    "PRO": [
+      {
+        "chem": "Carbon monoxide",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "O2",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "KCN",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Analysis of enzyme kinetic properties revealed an apparent Km of 5 mM for CO and a Vmax of 1,300 U/mg of protein.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "CO",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

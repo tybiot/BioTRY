@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Although less than <span id=\"titer\">2 mM</span> <span id=\"chem\">ALA</span> increased <span id=\"chem\">porphyrin</span> synthesis, <span id=\"chem\">ALA</span> levels above <span id=\"titer\">3 mM</span> inhibited the synthesis.</div>",
+    "Sentence 1: <div id_class=\"result-body\">The <span id=\"chem\">porphyrin</span> lesion produced in low intensity light (300 <span id=\"chem\">lx</span>) was considerably reduced by <span id=\"titer\">100 microM</span> <span id=\"chem\">M874 glycolipid</span>, although the reduction in intense light (3,000 <span id=\"chem\">lx</span>) was restricted to a lower level.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "ALA",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "ALA",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "3 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "porphyrin",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "porphyrin",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "3 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "ALA",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "ALA",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "3 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "porphyrin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "lx",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "M874 glycolipid",
+        "chempos": [
+          "18",
+          "20"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "lx",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Although less than 2 mM ALA increased porphyrin synthesis, ALA levels above 3 mM inhibited the synthesis.",
+    "The porphyrin lesion produced in low intensity light (300 lx) was considerably reduced by 100 microM M874 glycolipid, although the reduction in intense light (3,000 lx) was restricted to a lower level."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0
+    ]
+  ]
+}

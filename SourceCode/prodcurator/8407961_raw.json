@@ -1,0 +1,124 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The non-glycosylated form had a slightly higher affinity (Kd = 1.4 +/- <span id=\"titer\">0.4 microM</span>) than the glycosylated vWF-A1 protein (Kd = 4.5 +/- <span id=\"titer\">0.9 microM</span>) but had similar binding capacity of 28,000 <span id=\"chem\">GpIb</span>/IX-specific binding sites per platelet.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Both E. coli- and <span id=\"chem\">CHO</span>-derived vWF-A1 proteins inhibited <span id=\"chem\">ristocetin</span>-induced platelet agglutination with IC50 values of <span id=\"titer\">300 nM</span> and <span id=\"titer\">700 nM</span>, respectively.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Reduction of the only <span id=\"chem\">disulfide</span> bond between C509 and C695 abolished platelet binding activity at concentration up to <span id=\"titer\">2 microM</span> of protein.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "GpIb",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "0.4 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "GpIb",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "0.9 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "CHO",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "300 nM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "CHO",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "700 nM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "ristocetin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "300 nM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "ristocetin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "700 nM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "disulfide",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "2 microM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The non-glycosylated form had a slightly higher affinity (Kd = 1.4 +/- 0.4 microM) than the glycosylated vWF-A1 protein (Kd = 4.5 +/- 0.9 microM) but had similar binding capacity of 28,000 GpIb/IX-specific binding sites per platelet.",
+    "Both E. coli- and CHO-derived vWF-A1 proteins inhibited ristocetin-induced platelet agglutination with IC50 values of 300 and 700 nM, respectively.",
+    "Reduction of the only disulfide bond between C509 and C695 abolished platelet binding activity at concentration up to 2 microM of protein."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "Exogenous application of 10 microM ABA leads to swelling, root hair formation and initiation of lateral root primodia in the tips of young, seminal rice roots.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "ABA",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

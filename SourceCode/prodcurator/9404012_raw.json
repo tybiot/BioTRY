@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The increase caused by HTH could be eliminated by pretreatment of the trophocytes with <span id=\"titer\">1 mM</span> <span id=\"chem\">4'-bromophenacyl bromide</span> (<span id=\"chem\">BPB</span>), an inhibitor of phospholipase A2.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "4'-bromophenacyl bromide",
+        "chempos": [
+          "16",
+          "18"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "BPB",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The increase caused by HTH could be eliminated by pretreatment of the trophocytes with 1 mM 4'-bromophenacyl bromide (BPB), an inhibitor of phospholipase A2."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0
+    ]
+  ]
+}

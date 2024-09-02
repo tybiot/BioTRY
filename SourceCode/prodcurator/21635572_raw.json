@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Ca</span> <span id=\"titer\">0.04-0.09%DM</span>; Group B:</div>",
+    "Sentence 1: <div id_class=\"result-body\"><span id=\"chem\">Ca</span> <span id=\"titer\">0.47-0.84%DM</span>).</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Ca",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.04-0.09%DM",
+        "prodpos": [
+          "1",
+          "4"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Ca",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.47-0.84%DM",
+        "prodpos": [
+          "1",
+          "4"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Ca 0.04-0.09%DM; Group B:",
+    "Ca 0.47-0.84%DM)."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

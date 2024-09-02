@@ -1,0 +1,40 @@
+{
+  "sentence0": {
+    "sentece_text": "For these reasons, the effects of atrazine (5 and 50 microg/L) on several endpoints related to reproductive fitness were examined in fathead minnows (Pimephales promelas) in a 21-d static exposure.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "atrazine",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "50 microg/L",
+        "prodpos": [
+          "11",
+          "15"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Estradiol (0.5 microg/L) was included as a positive-control treatment.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Estradiol",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.5 microg/L",
+        "prodpos": [
+          "2",
+          "6"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

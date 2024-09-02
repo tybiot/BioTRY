@@ -1,0 +1,106 @@
+{
+  "sentence0": {
+    "sentece_text": "The high levels of aflatoxin B1 produced byA. parasiticus (21 and 30 mg/kg) were obtained with 10(2) and 10(3) spores/ml after 35 and 20 days incubation.",
+    "PRO": [
+      {
+        "chem": "aflatoxin B1",
+        "chempos": [
+          "4",
+          "6"
+        ],
+        "prod": "30 mg/kg",
+        "prodpos": [
+          "12",
+          "16"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "At 28 C and 0.97 water activity (aw), the mean levels of zearalenone production were 382, 267 and 520 microg/kg and the mean levels on deoxynivalenol production were 697,465 and 782 microg/kg.",
+    "PRO": [
+      {
+        "chem": "water",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "520 microg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "water",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "782 microg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "zearalenone",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "520 microg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "deoxynivalenol",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "520 microg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "deoxynivalenol",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "782 microg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "zearalenone",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "782 microg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

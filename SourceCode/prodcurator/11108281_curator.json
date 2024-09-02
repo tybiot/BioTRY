@@ -1,0 +1,126 @@
+{
+  "sentence0": {
+    "sentece_text": "The addition of hormones [36 nM estradiol-17beta, 1 microM medroxyprogesterone acetate, and 100 ng/ml relaxin] to IL-1beta-treated cells induced insulin-like growth factor binding protein-1 (IGFBP-1) messenger RNA expression after 3 days of incubation.",
+    "PRO": [
+      {
+        "chem": "estradiol-17beta",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "estradiol-17beta",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "100 ng/ml",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "medroxyprogesterone acetate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "36 nM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "medroxyprogesterone acetate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "100 ng/ml",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "relaxin",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "36 nM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "relaxin",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "estradiol-17beta",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "36 nM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "medroxyprogesterone acetate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "relaxin",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "100 ng/ml",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">By reinforcing the direct <span id=\"chem\">butanol</span>-forming flux in C. acetobutylicum, <span id=\"titer\">18.9 g/L</span> of <span id=\"chem\">butanol</span> was produced, with a yield of <span id=\"titer\">0.71 mol</span> <span id=\"chem\">butanol</span>/mol <span id=\"chem\">glucose</span> by batch fermentation, levels which are 160% and 245% higher than those obtained with the wild type.</div>",
+    "Sentence 1: <div id_class=\"result-body\">By fed-batch culture of this engineered strain with in situ recovery, 585.3 g of <span id=\"chem\">butanol</span> was produced from 1,861.9 g of <span id=\"chem\">glucose</span>, with the yield of <span id=\"titer\">0.76 mol</span> <span id=\"chem\">butanol</span>/mol <span id=\"chem\">glucose</span> and productivity of <span id=\"titer\">1.32 g/L</span>/h.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "butanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "18.9 g/L",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.71 mol",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "18.9 g/L",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.71 mol",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "18.9 g/L",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.71 mol",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "18.9 g/L",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "0.71 mol",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "butanol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.76 mol",
+        "prodpos": [
+          "30",
+          "32"
+        ]
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1.32 g/L",
+        "prodpos": [
+          "39",
+          "43"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "0.76 mol",
+        "prodpos": [
+          "30",
+          "32"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "1.32 g/L",
+        "prodpos": [
+          "39",
+          "43"
+        ]
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.76 mol",
+        "prodpos": [
+          "30",
+          "32"
+        ]
+      },
+      {
+        "chem": "butanol",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "1.32 g/L",
+        "prodpos": [
+          "39",
+          "43"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "0.76 mol",
+        "prodpos": [
+          "30",
+          "32"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "1.32 g/L",
+        "prodpos": [
+          "39",
+          "43"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "By reinforcing the direct butanol-forming flux in C. acetobutylicum, 18.9 g/L of butanol was produced, with a yield of 0.71 mol butanol/mol glucose by batch fermentation, levels which are 160% and 245% higher than those obtained with the wild type.",
+    "By fed-batch culture of this engineered strain with in situ recovery, 585.3 g of butanol was produced from 1,861.9 g of glucose, with the yield of 0.76 mol butanol/mol glucose and productivity of 1.32 g/L/h."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1
+    ]
+  ]
+}

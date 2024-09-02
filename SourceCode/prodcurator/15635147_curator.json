@@ -1,0 +1,164 @@
+{
+  "sentence0": {
+    "sentece_text": "To this end, fish were fed AhR agonist (beta-naphthoflavone (BNF): 10 mg/kg body mass/day) and antagonist (alpha-naphthoflavone (ANF): 10 mg/kg body mass/day) either singly or in combination (ABNF) for 5 days to elucidate the mechanisms involved in AhR-mediated depression of cortisol production.",
+    "PRO": [
+      {
+        "chem": "beta-naphthoflavone",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "beta-naphthoflavone",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "BNF",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "BNF",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "alpha-naphthoflavone",
+        "chempos": [
+          "29",
+          "32"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "alpha-naphthoflavone",
+        "chempos": [
+          "29",
+          "32"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ANF",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ANF",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ABNF",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ABNF",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cortisol",
+        "chempos": [
+          "67",
+          "68"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cortisol",
+        "chempos": [
+          "67",
+          "68"
+        ],
+        "prod": "10 mg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

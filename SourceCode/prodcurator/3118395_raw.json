@@ -1,0 +1,91 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Trifluoperazine</span>, <span id=\"titer\">35 microM</span>, reduced <span id=\"chem\">lipopolysaccharide</span>-stimulated <span id=\"chem\">[3H]prostaglandin E2</span> synthesis by 50%.</div>",
+    "Sentence 1: <div id_class=\"result-body\">In sonicated suspensions of cells, <span id=\"chem\">calcium</span>-dependent phospholipase A2 activity was inhibited by <span id=\"chem\">trifluoperazine</span> <span id=\"titer\">3-100 microM</span> and by compound 48/80 (3 micrograms/ml).</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Trifluoperazine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "35 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "chem": "lipopolysaccharide",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "35 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "chem": "[3H]prostaglandin E2",
+        "chempos": [
+          "9",
+          "12"
+        ],
+        "prod": "35 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "calcium",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "3-100 microM",
+        "prodpos": [
+          "16",
+          "20"
+        ]
+      },
+      {
+        "chem": "trifluoperazine",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "3-100 microM",
+        "prodpos": [
+          "16",
+          "20"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Trifluoperazine, 35 microM, reduced lipopolysaccharide-stimulated [3H]prostaglandin E2 synthesis by 50%.",
+    "In sonicated suspensions of cells, calcium-dependent phospholipase A2 activity was inhibited by trifluoperazine 3-100 microM and by compound 48/80 (3 micrograms/ml)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ]
+}

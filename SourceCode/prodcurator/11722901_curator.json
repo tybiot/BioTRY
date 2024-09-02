@@ -1,0 +1,418 @@
+{
+  "sentence0": {
+    "sentece_text": "The pure culture of S. aciditrophicus produced approximately 0.5 mol of cyclohexane carboxylate and 1.5 mol of acetate per mol of benzoate, while a coculture of S. aciditrophicus with the hydrogen-using methanogen Methanospirillum hungatei produced 3 mol of acetate and 0.75 mol of methane per mol of benzoate.",
+    "PRO": [
+      {
+        "chem": "cyclohexane carboxylate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "cyclohexane carboxylate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cyclohexane carboxylate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cyclohexane carboxylate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen-using",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen-using",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen-using",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen-using",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "methane",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "methane",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "methane",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "methane",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "High hydrogen (10.1 kPa) and acetate (60 mM) levels inhibited benzoate metabolism by S. aciditrophicus pure cultures.",
+    "PRO": [
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "60 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "60 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "acetate",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "60 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

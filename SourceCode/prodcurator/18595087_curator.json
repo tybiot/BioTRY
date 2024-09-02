@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "Continuous sucrose feeding (5 g/L h) to the immobilized-cell culture in the airlift bioreactor increased production of enzymatic activity by about 107% compared with ordinary batch operation of this reactor.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "5 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

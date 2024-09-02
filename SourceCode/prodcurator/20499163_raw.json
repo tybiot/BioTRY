@@ -1,0 +1,540 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The minimum inhibitory concentration of <span id=\"chem\">Cd(2+)</span> against C. tropicalis was <span id=\"titer\">2,500 mg /L</span> .</div>",
+    "Sentence 1: <div id_class=\"result-body\">The yeast also showed tolerance toward <span id=\"chem\">Zn(2+)</span> (<span id=\"titer\">1,400 mg /L</span>), <span id=\"chem\">Ni(2+)</span> (<span id=\"titer\">1,000 mg /L</span>), <span id=\"chem\">Hg(2+)</span> (<span id=\"titer\">1,400 mg /L</span>), <span id=\"chem\">Cu(2+)</span> (<span id=\"titer\">1,000 mg /L</span>), <span id=\"chem\">Cr(6+)</span> (<span id=\"titer\">1,200 mg /L</span>), and <span id=\"chem\">Pb(2+)</span> (<span id=\"titer\">1,000 mg /L</span>).</div>",
+    "Sentence 2: <div id_class=\"result-body\">The <span id=\"chem\">metal</span> processing ability of the isolate was determined in a medium containing <span id=\"titer\">100 mg /L</span> of <span id=\"chem\">Cd(2+)</span>.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Cd(2+)",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "2,500 mg /L",
+        "prodpos": [
+          "12",
+          "15"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Zn(2+)",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "10",
+          "13"
+        ]
+      },
+      {
+        "chem": "Zn(2+)",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "19",
+          "22"
+        ]
+      },
+      {
+        "chem": "Zn(2+)",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "28",
+          "31"
+        ]
+      },
+      {
+        "chem": "Zn(2+)",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "chem": "Zn(2+)",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "1,200 mg /L",
+        "prodpos": [
+          "46",
+          "49"
+        ]
+      },
+      {
+        "chem": "Zn(2+)",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "56",
+          "59"
+        ]
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "10",
+          "13"
+        ]
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "19",
+          "22"
+        ]
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "28",
+          "31"
+        ]
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "1,200 mg /L",
+        "prodpos": [
+          "46",
+          "49"
+        ]
+      },
+      {
+        "chem": "Ni(2+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "56",
+          "59"
+        ]
+      },
+      {
+        "chem": "Hg(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "10",
+          "13"
+        ]
+      },
+      {
+        "chem": "Hg(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "19",
+          "22"
+        ]
+      },
+      {
+        "chem": "Hg(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "28",
+          "31"
+        ]
+      },
+      {
+        "chem": "Hg(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "chem": "Hg(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "1,200 mg /L",
+        "prodpos": [
+          "46",
+          "49"
+        ]
+      },
+      {
+        "chem": "Hg(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "56",
+          "59"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "10",
+          "13"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "19",
+          "22"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "28",
+          "31"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "1,200 mg /L",
+        "prodpos": [
+          "46",
+          "49"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "56",
+          "59"
+        ]
+      },
+      {
+        "chem": "Cr(6+)",
+        "chempos": [
+          "42",
+          "45"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "10",
+          "13"
+        ]
+      },
+      {
+        "chem": "Cr(6+)",
+        "chempos": [
+          "42",
+          "45"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "19",
+          "22"
+        ]
+      },
+      {
+        "chem": "Cr(6+)",
+        "chempos": [
+          "42",
+          "45"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "28",
+          "31"
+        ]
+      },
+      {
+        "chem": "Cr(6+)",
+        "chempos": [
+          "42",
+          "45"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "chem": "Cr(6+)",
+        "chempos": [
+          "42",
+          "45"
+        ],
+        "prod": "1,200 mg /L",
+        "prodpos": [
+          "46",
+          "49"
+        ]
+      },
+      {
+        "chem": "Cr(6+)",
+        "chempos": [
+          "42",
+          "45"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "56",
+          "59"
+        ]
+      },
+      {
+        "chem": "Pb(2+)",
+        "chempos": [
+          "52",
+          "55"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "10",
+          "13"
+        ]
+      },
+      {
+        "chem": "Pb(2+)",
+        "chempos": [
+          "52",
+          "55"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "19",
+          "22"
+        ]
+      },
+      {
+        "chem": "Pb(2+)",
+        "chempos": [
+          "52",
+          "55"
+        ],
+        "prod": "1,400 mg /L",
+        "prodpos": [
+          "28",
+          "31"
+        ]
+      },
+      {
+        "chem": "Pb(2+)",
+        "chempos": [
+          "52",
+          "55"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "37",
+          "40"
+        ]
+      },
+      {
+        "chem": "Pb(2+)",
+        "chempos": [
+          "52",
+          "55"
+        ],
+        "prod": "1,200 mg /L",
+        "prodpos": [
+          "46",
+          "49"
+        ]
+      },
+      {
+        "chem": "Pb(2+)",
+        "chempos": [
+          "52",
+          "55"
+        ],
+        "prod": "1,000 mg /L",
+        "prodpos": [
+          "56",
+          "59"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "metal",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "100 mg /L",
+        "prodpos": [
+          "13",
+          "16"
+        ]
+      },
+      {
+        "chem": "Cd(2+)",
+        "chempos": [
+          "17",
+          "20"
+        ],
+        "prod": "100 mg /L",
+        "prodpos": [
+          "13",
+          "16"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The minimum inhibitory concentration of Cd(2+) against C. tropicalis was 2,500 mg /L .",
+    "The yeast also showed tolerance toward Zn(2+) (1,400 mg /L), Ni(2+) (1,000 mg /L), Hg(2+) (1,400 mg /L), Cu(2+) (1,000 mg /L), Cr(6+) (1,200 mg /L), and Pb(2+) (1,000 mg /L).",
+    "The metal processing ability of the isolate was determined in a medium containing 100 mg /L of Cd(2+)."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}

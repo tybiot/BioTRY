@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "The zinc level of the egg yolk from the control group of second trial was higher (23.5 mg/kg) than those of the unsupplemented group (13.6 mg/kg).",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "zinc",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "23.5 mg/kg",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "zinc",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "13.6 mg/kg",
+        "prodpos": [
+          "29",
+          "33"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

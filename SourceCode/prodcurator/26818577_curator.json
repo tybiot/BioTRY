@@ -1,0 +1,165 @@
+{
+  "sentence0": {
+    "sentece_text": "89.5% COD, 90.6% TN and 91.2% TP removals were achieved as well as the highest biomass production of 2655mg/L and ALA yield of 7.40mg/g-biomass under the optimal HRT of 60h and OLR of 2.48 g/L/d.",
+    "PRO": [
+      {
+        "chem": "TN",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "2655mg/L",
+        "prodpos": [
+          "22",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "TN",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "7.40mg/g",
+        "prodpos": [
+          "29",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "TN",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "2.48 g/L",
+        "prodpos": [
+          "43",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "2655mg/L",
+        "prodpos": [
+          "22",
+          "25"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ALA",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "2655mg/L",
+        "prodpos": [
+          "22",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ALA",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "7.40mg/g",
+        "prodpos": [
+          "29",
+          "32"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "2655mg/L",
+        "prodpos": [
+          "22",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "7.40mg/g",
+        "prodpos": [
+          "29",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "2.48 g/L",
+        "prodpos": [
+          "43",
+          "47"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "biomass",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "7.40mg/g",
+        "prodpos": [
+          "29",
+          "32"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "2.48 g/L",
+        "prodpos": [
+          "43",
+          "47"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ALA",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "2.48 g/L",
+        "prodpos": [
+          "43",
+          "47"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

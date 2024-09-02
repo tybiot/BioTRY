@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">A significant reduction in <span id=\"chem\">nitrogen</span>, between 34.7 and <span id=\"titer\">73.7 mg /L</span>, and particularly in <span id=\"chem\">phosphorus</span> concentration, between 15.4 and <span id=\"titer\">15.9 mg /L</span>, was observed in drainage solution collected from commercial greenhouse production.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "73.7 mg /L",
+        "prodpos": [
+          "9",
+          "12"
+        ]
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "15.9 mg /L",
+        "prodpos": [
+          "22",
+          "25"
+        ]
+      },
+      {
+        "chem": "phosphorus",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "73.7 mg /L",
+        "prodpos": [
+          "9",
+          "12"
+        ]
+      },
+      {
+        "chem": "phosphorus",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "15.9 mg /L",
+        "prodpos": [
+          "22",
+          "25"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "A significant reduction in nitrogen, between 34.7 and 73.7 mg /L, and particularly in phosphorus concentration, between 15.4 and 15.9 mg /L, was observed in drainage solution collected from commercial greenhouse production."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "sentence0": {
+    "sentece_text": "Isolated protoplasts required 50 mM Ca(2+) in the washing solution and 100 mM Ca(2+) in the culture medium to prevent lysis.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "15",
+          "18"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

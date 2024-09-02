@@ -1,0 +1,215 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The broth with the highest Y RS among the different strategies tested was evaporated until the concentration of reducing <span id=\"chem\">sugars</span> (RS) was to the order of <span id=\"titer\">100 g/L</span> and fermented, with and without prior detoxification with active <span id=\"chem\">carbon</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">In comparison to the <span id=\"chem\">biomass</span> without chemical pretreatment and to the <span id=\"chem\">biomass</span> pretreated with <span id=\"chem\">NaOH</span>, the acid pretreatment of <span id=\"titer\">70 g/L</span> of dry granulated <span id=\"chem\">biomass</span> enabled greater digestion of <span id=\"chem\">hemicellulose</span>, lower index of <span id=\"chem\">cellulose</span> crystallinity, and higher Y RS (45.8 +- 0.7%).</div>",
+    "Sentence 2: <div id_class=\"result-body\">The RS increase in fermentation broth to <span id=\"titer\">100 g/L</span>, with posterior detoxification, presented higher productivity <span id=\"chem\">ethanol</span> (Q P = <span id=\"titer\">1.44 +- 0.02 g/L</span>/h) with <span id=\"chem\">ethanol</span> yield (Y P/RS) of <span id=\"yields\">0.41 +- 0.02 g/g</span>.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "sugars",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ]
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "biomass",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "NaOH",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "hemicellulose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "cellulose",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1.44 +- 0.02 g/L",
+        "prodpos": [
+          "24",
+          "31"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "0.41 +- 0.02 g/g",
+        "prodpos": [
+          "44",
+          "51"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "7",
+          "11"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "1.44 +- 0.02 g/L",
+        "prodpos": [
+          "24",
+          "31"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "0.41 +- 0.02 g/g",
+        "prodpos": [
+          "44",
+          "51"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The broth with the highest Y RS among the different strategies tested was evaporated until the concentration of reducing sugars (RS) was to the order of 100 g/L and fermented, with and without prior detoxification with active carbon.",
+    "In comparison to the biomass without chemical pretreatment and to the biomass pretreated with NaOH, the acid pretreatment of 70 g/L of dry granulated biomass enabled greater digestion of hemicellulose, lower index of cellulose crystallinity, and higher Y RS (45.8 +- 0.7%).",
+    "The RS increase in fermentation broth to 100 g/L, with posterior detoxification, presented higher productivity ethanol (Q P = 1.44 +- 0.02 g/L/h) with ethanol yield (Y P/RS) of 0.41 +- 0.02 g/g."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  ]
+}

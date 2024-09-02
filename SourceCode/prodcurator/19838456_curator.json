@@ -1,0 +1,437 @@
+{
+  "sentence0": {
+    "sentece_text": "Pretreatment of Escherichia coli cultures with the iron chelator 2,2'-dipyridyl (1 mM) protects against the lethal effects of low concentrations of hydrogen peroxide (<15 mM).",
+    "PRO": [
+      {
+        "chem": "iron",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "iron",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "2,2'-dipyridyl",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen peroxide",
+        "chempos": [
+          "23",
+          "25"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "2,2'-dipyridyl",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "hydrogen peroxide",
+        "chempos": [
+          "23",
+          "25"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "However, at H(2)O(2) concentrations equal to or greater than 15 mM, dipyridyl pretreatment increases lethality and mutagenesis, which is attributed to the formation of different types of DNA lesions.",
+    "PRO": [
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "3",
+          "5"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dipyridyl",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "11",
+          "13"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "We show here that pretreatment with dipyridyl (1 mM) prior to challenge with high H(2)O(2) concentrations (>or=15 mM) induced mainly G:C-->A: We also show that in the fpg nth double mutant, the rpoB gene mutation (RifS-RifR) induced by 20 mM H(2)O(2) alone (20X higher) was increased in 20 mM H(2)O(2) and dipyridyl-treated cultures (110X higher), suggesting additional and/or different lesions in cells treated with H(2)O(2) under iron deprivation.",
+    "PRO": [
+      {
+        "chem": "dipyridyl",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dipyridyl",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "52",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dipyridyl",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "16",
+          "18"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "16",
+          "18"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "52",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "16",
+          "18"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "C-->A",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "C-->A",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "52",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "C-->A",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "54",
+          "56"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "54",
+          "56"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "52",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "54",
+          "56"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "66",
+          "68"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "66",
+          "68"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "52",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "66",
+          "68"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dipyridyl",
+        "chempos": [
+          "69",
+          "70"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dipyridyl",
+        "chempos": [
+          "69",
+          "70"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "52",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dipyridyl",
+        "chempos": [
+          "69",
+          "70"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "87",
+          "89"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "87",
+          "89"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "52",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "H(2)O(2)",
+        "chempos": [
+          "87",
+          "89"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "iron",
+        "chempos": [
+          "90",
+          "91"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "iron",
+        "chempos": [
+          "90",
+          "91"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "52",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "iron",
+        "chempos": [
+          "90",
+          "91"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

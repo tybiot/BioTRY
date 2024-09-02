@@ -1,0 +1,299 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The XYL1-overexpressed mutant produced <span id=\"chem\">xylitol</span> from <span id=\"chem\">D-xylose</span> using <span id=\"chem\">glycerol</span> as a <span id=\"chem\">co</span>-substrate for cell growth and <span id=\"chem\">NAD (P) H</span> regeneration: <span id=\"titer\">100 g/L</span> <span id=\"chem\">D-xylose</span> was completely converted into <span id=\"chem\">xylitol</span> when at least <span id=\"titer\">20 g/L</span> <span id=\"chem\">glycerol</span> was used as a <span id=\"chem\">co</span>-substrate.</div>",
+    "Sentence 1: <div id_class=\"result-body\">XYL1 overexpressed mutant produced <span id=\"chem\">xylitol</span> with a volumetric productivity of <span id=\"titer\">0.83 g/L</span>/h, and a <span id=\"chem\">xylitol</span> yield of 98 % <span id=\"chem\">xylose</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "xylitol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "xylitol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      },
+      {
+        "chem": "D-xylose",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "D-xylose",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      },
+      {
+        "chem": "co",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "co",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      },
+      {
+        "chem": "NAD (P) H",
+        "chempos": [
+          "20",
+          "25"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "NAD (P) H",
+        "chempos": [
+          "20",
+          "25"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      },
+      {
+        "chem": "D-xylose",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "D-xylose",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      },
+      {
+        "chem": "xylitol",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "xylitol",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      },
+      {
+        "chem": "co",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ]
+      },
+      {
+        "chem": "co",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "20 g/L",
+        "prodpos": [
+          "42",
+          "46"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "xylitol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.83 g/L",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "xylitol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "0.83 g/L",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "0.83 g/L",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The XYL1-overexpressed mutant produced xylitol from D-xylose using glycerol as a co-substrate for cell growth and NAD (P) H regeneration: 100 g/L D-xylose was completely converted into xylitol when at least 20 g/L glycerol was used as a co-substrate.",
+    "XYL1 overexpressed mutant produced xylitol with a volumetric productivity of 0.83 g/L/h, and a xylitol yield of 98 % xylose."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0
+    ]
+  ]
+}

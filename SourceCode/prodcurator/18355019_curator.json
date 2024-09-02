@@ -1,0 +1,105 @@
+{
+  "sentence0": {
+    "sentece_text": "The presence of 100 mM L-arabinose does not influence the response of the reported mutants to D-arabinose, and the mutants are not induced by other sugars tested (D-xylose, D-fucose, D-lyxose).",
+    "PRO": [
+      {
+        "chem": "L-arabinose",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "D-arabinose",
+        "chempos": [
+          "18",
+          "21"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "D-xylose",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "D-fucose",
+        "chempos": [
+          "37",
+          "40"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "D-lyxose",
+        "chempos": [
+          "41",
+          "44"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Co-expression of the FucP transporter in E. coli enabled induction by D-arabinose in the 0.1 mM range.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "D-arabinose",
+        "chempos": [
+          "13",
+          "16"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

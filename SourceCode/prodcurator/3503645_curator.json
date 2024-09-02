@@ -1,0 +1,222 @@
+{
+  "sentence0": {
+    "sentece_text": "The substrate activity relationship was hyperbolic for both L-malate and NADP+, and Km values were calculated as 0.18 and 0.12 mM, respectively.",
+    "PRO": [
+      {
+        "chem": "L-malate",
+        "chempos": [
+          "8",
+          "11"
+        ],
+        "prod": "0.18 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-malate",
+        "chempos": [
+          "8",
+          "11"
+        ],
+        "prod": "0.12 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADP+",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.18 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADP+",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.12 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Pyruvate, NADPH and OA inhibited the reaction in a competitive manner with apparent Ki values of 0.2, 0.04 and 0.04 mM, respectively, while oxalate inhibition was of the mixed type.",
+    "PRO": [
+      {
+        "chem": "Pyruvate",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.2 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Pyruvate",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Pyruvate",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.2 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "OA",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.2 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "OA",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "OA",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "oxalate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.2 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "oxalate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "oxalate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

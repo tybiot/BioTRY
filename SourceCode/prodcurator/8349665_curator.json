@@ -1,0 +1,125 @@
+{
+  "sentence0": {
+    "sentece_text": "Culture of Escherichia coli cells harboring the recombinant plasmid under standard induction conditions (0.4 mM isopropyl beta-D-thiogalactopyranoside, 37 degrees C) resulted in synthesis of a completely insoluble product.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "isopropyl beta-D-thiogalactopyranoside",
+        "chempos": [
+          "16",
+          "22"
+        ],
+        "prod": "0.4 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Production of soluble vvR1 was achieved by growing bacteria at low temperature (15 degrees C) during the induction period, initiating induction at low cell density, and using a low concentration (0.05 mM) of the inducer isopropyl beta-D-thiogalactopyranoside.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "isopropyl beta-D-thiogalactopyranoside",
+        "chempos": [
+          "41",
+          "47"
+        ],
+        "prod": "0.05 mM",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Using purified recombinant vvR2 to reconstitute active enzyme, we determined that maximizing the rate of CDP reduction required pH 8.0-8.8, 50 mM dithiothreitol, and 2 mM ATP.",
+    "PRO": [
+      {
+        "chem": "CDP",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CDP",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

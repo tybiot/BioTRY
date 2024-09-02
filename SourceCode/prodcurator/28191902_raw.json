@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">We apply our module to identify the optimal point to redirect glycolytic flux into heterologous engineered pathways in Escherichia coli, resulting in titers of <span id=\"chem\">myo-inositol</span> increased 5.5-fold and titers of <span id=\"chem\">glucaric acid</span> increased from unmeasurable to &gt;<span id=\"titer\">0.8 g/L</span>, compared to the parent strains lacking dynamic flux control.</div>",
+    "Sentence 1: <div id_class=\"result-body\">We also used our module to control flux into <span id=\"chem\">aromatic amino acid</span> biosynthesis to increase titers of <span id=\"chem\">shikimate</span> in E. coli from unmeasurable to &gt;<span id=\"titer\">100 mg/L.</span></div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "myo-inositol",
+        "chempos": [
+          "25",
+          "28"
+        ],
+        "prod": "0.8 g/L",
+        "prodpos": [
+          "40",
+          "44"
+        ]
+      },
+      {
+        "chem": "glucaric acid",
+        "chempos": [
+          "33",
+          "35"
+        ],
+        "prod": "0.8 g/L",
+        "prodpos": [
+          "40",
+          "44"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "aromatic amino acid",
+        "chempos": [
+          "9",
+          "12"
+        ],
+        "prod": "100 mg/L.",
+        "prodpos": [
+          "25",
+          "29"
+        ]
+      },
+      {
+        "chem": "shikimate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "100 mg/L.",
+        "prodpos": [
+          "25",
+          "29"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "We apply our module to identify the optimal point to redirect glycolytic flux into heterologous engineered pathways in Escherichia coli, resulting in titers of myo-inositol increased 5.5-fold and titers of glucaric acid increased from unmeasurable to >0.8 g/L, compared to the parent strains lacking dynamic flux control.",
+    "We also used our module to control flux into aromatic amino acid biosynthesis to increase titers of shikimate in E. coli from unmeasurable to >100 mg/L."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">We combined a number of strategies to create a base strain producing <span id=\"titer\">11.4 mg/L</span> of the precursor <span id=\"chem\">geraniol</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "geraniol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "11.4 mg/L",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "We combined a number of strategies to create a base strain producing 11.4 mg/L of the precursor geraniol."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

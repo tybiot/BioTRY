@@ -1,0 +1,112 @@
+{
+  "sentence0": {
+    "sentece_text": "Based on the low production of H(2)S, acetic acid and foam, ethanol resistance, growth in presence of high concentrations of potassium metabisulphite (KMBS) and CuSO(4) and at low temperatures, 14 strains were selected and used as starter to ferment grape must at 13  C and 17  C in presence of 100 mg/L of KMBS.",
+    "PRO": [
+      {
+        "chem": "H(2)S",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "8",
+          "10"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "potassium metabisulphite",
+        "chempos": [
+          "23",
+          "25"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "KMBS",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CuSO(4)",
+        "chempos": [
+          "29",
+          "31"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "13  C and 17  C",
+        "chempos": [
+          "49",
+          "56"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "KMBS",
+        "chempos": [
+          "64",
+          "65"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

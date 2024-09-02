@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Two novel aphid-resistance loci, Rag6 and Rag3c, from <span id=\"chem\">Glycine</span> soja 85-32, were previously detected in a <span id=\"titer\">10.5-cM</span> interval on chromosome 8 and a <span id=\"titer\">7.5-cM</span> interval on chromosome 16, respectively.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Glycine",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "10.5-cM",
+        "prodpos": [
+          "23",
+          "24"
+        ]
+      },
+      {
+        "chem": "Glycine",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "7.5-cM",
+        "prodpos": [
+          "30",
+          "31"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Two novel aphid-resistance loci, Rag6 and Rag3c, from Glycine soja 85-32, were previously detected in a 10.5-cM interval on chromosome 8 and a 7.5-cM interval on chromosome 16, respectively."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ]
+  ]
+}

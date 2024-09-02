@@ -1,0 +1,149 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Neither a wide range of dosages of <span id=\"chem\">isoproterenol</span> (<span id=\"yields\">0.5 mg/kg</span> to <span id=\"yields\">24 mg/kg</span>), nor prolonged treatment with <span id=\"chem\">norepinephrine</span>, the natural neurotransmitter, increased <span id=\"chem\">N</span>-acetyltransferase (<span id=\"chem\">NAT</span>) activity or <span id=\"chem\">melatonin</span> production.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "isoproterenol",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "isoproterenol",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "chem": "norepinephrine",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "norepinephrine",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "chem": "NAT",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "NAT",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "chem": "melatonin",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ]
+      },
+      {
+        "chem": "melatonin",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Neither a wide range of dosages of isoproterenol (0.5 mg/kg to 24 mg/kg), nor prolonged treatment with norepinephrine, the natural neurotransmitter, increased N-acetyltransferase (NAT) activity or melatonin production."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

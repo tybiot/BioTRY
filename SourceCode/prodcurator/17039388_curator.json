@@ -1,0 +1,332 @@
+{
+  "sentence0": {
+    "sentece_text": "In the present investigation, the previous ultraviolet irradiated mutant strain of Aspergillus oryzae UV-7 was further improved in terms of 3,4 dihydroxy phenyl L-alanine (L-DOPA) activity after chemical mutagenesis through 1-methyl 3-nitro 1-nitroso guanidine (MNNG = 250-1500 microg/ml) treatment (0-30 min).",
+    "PRO": [
+      {
+        "chem": "3,4 dihydroxy phenyl L-alanine",
+        "chempos": [
+          "21",
+          "27"
+        ],
+        "prod": "250-1500 microg/ml",
+        "prodpos": [
+          "44",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "28",
+          "31"
+        ],
+        "prod": "250-1500 microg/ml",
+        "prodpos": [
+          "44",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "1-methyl 3-nitro 1-nitroso guanidine",
+        "chempos": [
+          "37",
+          "41"
+        ],
+        "prod": "250-1500 microg/ml",
+        "prodpos": [
+          "44",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "MNNG",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "250-1500 microg/ml",
+        "prodpos": [
+          "44",
+          "50"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Relatively better production of L-DOPA (> 0.60 mg/ml) was obtained when 2.0% (w/v) glucose was used as a carbon source in the mycelium production medium and the tyrosinase activity increased constitutively (1.08 mg/ml), which resulted in a greater production of L-DOPA .",
+    "PRO": [
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "4",
+          "7"
+        ],
+        "prod": "0.60 mg/ml",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "4",
+          "7"
+        ],
+        "prod": "1.08 mg/ml",
+        "prodpos": [
+          "43",
+          "47"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "0.60 mg/ml",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "1.08 mg/ml",
+        "prodpos": [
+          "43",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.60 mg/ml",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1.08 mg/ml",
+        "prodpos": [
+          "43",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "56",
+          "59"
+        ],
+        "prod": "0.60 mg/ml",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "56",
+          "59"
+        ],
+        "prod": "1.08 mg/ml",
+        "prodpos": [
+          "43",
+          "47"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "The maximum conversion of L-tyrosine to L-DOPA (0.428 mg/ml) was achieved 60 min after the biochemical reaction.",
+    "PRO": [
+      {
+        "chem": "L-tyrosine",
+        "chempos": [
+          "4",
+          "7"
+        ],
+        "prod": "0.428 mg/ml",
+        "prodpos": [
+          "12",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "8",
+          "11"
+        ],
+        "prod": "0.428 mg/ml",
+        "prodpos": [
+          "12",
+          "16"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence3": {
+    "sentece_text": "Best results of L-DOPA biosynthesis were observed when the concentration of illite was 3.5 x 10(-6) M (1.686 mg/ml L-DOPA produced with 1.525 mg/ml consumption of L-tyrosine).",
+    "PRO": [
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "3",
+          "6"
+        ],
+        "prod": "1.686 mg/ml",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "3",
+          "6"
+        ],
+        "prod": "1.525 mg/ml",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "illite",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "1.525 mg/ml",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "25",
+          "28"
+        ],
+        "prod": "1.686 mg/ml",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "L-tyrosine",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "1.686 mg/ml",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "illite",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "1.686 mg/ml",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "25",
+          "28"
+        ],
+        "prod": "1.525 mg/ml",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "L-tyrosine",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "1.525 mg/ml",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence4": {
+    "sentece_text": "The comparison of kinetic parameters showed the ability of mutant to yield L-DOPA (i.e., Yp/x 7.360 +/- 0.04 mg/mg).",
+    "PRO": [
+      {
+        "chem": "L-DOPA",
+        "chempos": [
+          "12",
+          "15"
+        ],
+        "prod": "7.360 +/- 0.04 mg/mg",
+        "prodpos": [
+          "21",
+          "28"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

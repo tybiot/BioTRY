@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Isolates displaying minimum inhibitory concentrations (MICs) of &gt; <span id=\"titer\">2 mg/l</span> by Etest to <span id=\"chem\">cefpodoxime</span> and/or MICs &gt; <span id=\"titer\">1 mg/l</span> to any other ESCs were included (n = 54; 35 E. coli, 11 K. pneumoniae, and 8 K. oxytoca).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "cefpodoxime",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "2 mg/l",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "cefpodoxime",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1 mg/l",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Isolates displaying minimum inhibitory concentrations (MICs) of > 2 mg/l by Etest to cefpodoxime and/or MICs > 1 mg/l to any other ESCs were included (n = 54; 35 E. coli, 11 K. pneumoniae, and 8 K. oxytoca)."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ]
+  ]
+}

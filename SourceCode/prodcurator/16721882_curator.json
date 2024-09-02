@@ -1,0 +1,60 @@
+{
+  "sentence0": {
+    "sentece_text": "Therefore, efforts have been made to screen five dominant diazotrophic cyanobacterial forms e.g. filamentous heterocystous Nostoc punctiforme , Nostoc calcicola , Anabaena variabilis and unicellular Gloeocapsa sp. and Aphanocapsa sp. along with standard laboratory strain Nostoc muscorum ISU against increasing concentrations (0-100 mg/L of four commercial grade common rice-field herbicides i.e. Arozin, Butachlor, Alachlor and 2,4-D under diazotrophic growth conditions.",
+    "PRO": [
+      {
+        "chem": "Arozin",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "0-100 mg/L",
+        "prodpos": [
+          "45",
+          "51"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Butachlor",
+        "chempos": [
+          "63",
+          "64"
+        ],
+        "prod": "0-100 mg/L",
+        "prodpos": [
+          "45",
+          "51"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Alachlor",
+        "chempos": [
+          "65",
+          "66"
+        ],
+        "prod": "0-100 mg/L",
+        "prodpos": [
+          "45",
+          "51"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "2,4-D",
+        "chempos": [
+          "67",
+          "68"
+        ],
+        "prod": "0-100 mg/L",
+        "prodpos": [
+          "45",
+          "51"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

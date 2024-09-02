@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "These were a self-selected diet, a 2-L polymeric enteral diet, and a 2-L polymeric enteral diet supplemented with 15 g of total dietary fiber per liter derived from either soy oligosaccharide fiber (75 g/L) or oat fiber (15 g/L).",
+    "PRO": [
+      {
+        "chem": "soy oligosaccharide fiber",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "75 g/L",
+        "prodpos": [
+          "37",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "soy oligosaccharide fiber",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "15 g/L",
+        "prodpos": [
+          "46",
+          "50"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

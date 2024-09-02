@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Glycine</span> (<span id=\"titer\">5-10 mM</span>) completely eliminated the depolarizing response of the C-cell, whereas the hyperpolarizing component was unaffected.</div>",
+    "Sentence 1: <div id_class=\"result-body\">In contrast, <span id=\"chem\">gamma-aminobutyric acid</span> (<span id=\"chem\">GABA</span>; <span id=\"titer\">5-10 mM</span>) had no obvious effect on either component.</div>",
+    "Sentence 2: <div id_class=\"result-body\">The C-cell light response was modified in two stages by <span id=\"chem\">cis-2,3-piperidine dicarboxylic acid</span> (<span id=\"chem\">cis-PDA</span>; <span id=\"titer\">0.5-5 mM</span>): first the depolarizing response disappeared; then the membrane potential hyperpolarized concomitant with a large reduction or elimination of the hyperpolarizing light response.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Glycine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "5-10 mM",
+        "prodpos": [
+          "2",
+          "6"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "gamma-aminobutyric acid",
+        "chempos": [
+          "3",
+          "7"
+        ],
+        "prod": "5-10 mM",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "GABA",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "5-10 mM",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "cis-2,3-piperidine dicarboxylic acid",
+        "chempos": [
+          "12",
+          "15"
+        ],
+        "prod": "0.5-5 mM",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "cis-PDA",
+        "chempos": [
+          "16",
+          "19"
+        ],
+        "prod": "0.5-5 mM",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Glycine (5-10 mM) completely eliminated the depolarizing response of the C-cell, whereas the hyperpolarizing component was unaffected.",
+    "In contrast, gamma-aminobutyric acid (GABA; 5-10 mM) had no obvious effect on either component.",
+    "The C-cell light response was modified in two stages by cis-2,3-piperidine dicarboxylic acid (cis-PDA; 0.5-5 mM): first the depolarizing response disappeared; then the membrane potential hyperpolarized concomitant with a large reduction or elimination of the hyperpolarizing light response."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      0,
+      0
+    ]
+  ]
+}

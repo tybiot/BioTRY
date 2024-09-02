@@ -1,0 +1,118 @@
+{
+  "sentence0": {
+    "sentece_text": "The hydrolysates could readily be fermented without addition of nutrients and with average fermentation yields of 0.43 +/- 0.02 g/g based on consumed mannose and glucose.",
+    "PRO": [
+      {
+        "chem": "mannose",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "0.43 +/- 0.02 g/g",
+        "prodpos": [
+          "16",
+          "23"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "0.43 +/- 0.02 g/g",
+        "prodpos": [
+          "16",
+          "23"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Employing SSF, final ethanol concentrations of 70 g/kg was achieved in 216 h, corresponding to an ethanol yield of 70% mol/mol of theoretical or 200 g ethanol/kg PKC.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "70 g/kg",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "70% mol/mol",
+        "prodpos": [
+          "23",
+          "28"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "70 g/kg",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "70% mol/mol",
+        "prodpos": [
+          "23",
+          "28"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "70 g/kg",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "70% mol/mol",
+        "prodpos": [
+          "23",
+          "28"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

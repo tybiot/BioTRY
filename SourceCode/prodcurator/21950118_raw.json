@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Maximum indicators of <span id=\"chem\">SAS</span> synthesis (concentration of extra cellular <span id=\"chem\">SAS</span> is <span id=\"titer\">7.2 g/l</span>; factor of emulsification of the cultural liquid 50%; <span id=\"chem\">SAS</span> yield from the substrate 50%) have been observed at 60-70% concentration of dissolved <span id=\"chem\">oxygen</span> from the saturation level with aerial <span id=\"chem\">oxygen</span> (pH 8.0) fractional supply of the substrate by portions each being 0.3-0.4% every 5-6 h to a final volume concentration of 2.4% and with the use of 10% inoculate grown until mid-exponential phase on the medium with 1.0 vol % of <span id=\"chem\">n-hexadecane</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "SAS",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "7.2 g/l",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "SAS",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "7.2 g/l",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "SAS",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "7.2 g/l",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "oxygen",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "7.2 g/l",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "oxygen",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "7.2 g/l",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "106",
+          "109"
+        ],
+        "prod": "7.2 g/l",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Maximum indicators of SAS synthesis (concentration of extra cellular SAS is 7.2 g/l; factor of emulsification of the cultural liquid 50%; SAS yield from the substrate 50%) have been observed at 60-70% concentration of dissolved oxygen from the saturation level with aerial oxygen (pH 8.0) fractional supply of the substrate by portions each being 0.3-0.4% every 5-6 h to a final volume concentration of 2.4% and with the use of 10% inoculate grown until mid-exponential phase on the medium with 1.0 vol % of n-hexadecane."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

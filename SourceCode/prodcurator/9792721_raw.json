@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The purified nuclease has a Km of 100-145 +/- <span id=\"titer\">33 nM</span> and a Vmax of 1.8-2.9 +/- <span id=\"titer\">2 nmol</span>/min, depending on the RNA substrate, and yields a <span id=\"chem\">3'-OH</span> and a <span id=\"chem\">5'-phosphate</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "3'-OH",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "33 nM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "3'-OH",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "2 nmol",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "5'-phosphate",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "33 nM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "5'-phosphate",
+        "chempos": [
+          "40",
+          "41"
+        ],
+        "prod": "2 nmol",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The purified nuclease has a Km of 100-145 +/- 33 nM and a Vmax of 1.8-2.9 +/- 2 nmol/min, depending on the RNA substrate, and yields a 3'-OH and a 5'-phosphate."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

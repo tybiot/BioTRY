@@ -1,0 +1,214 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The sensor detected <span id=\"chem\">hexanoic</span>, <span id=\"chem\">heptanoic</span> and <span id=\"chem\">octanoic acid</span> over a linear range up to <span id=\"titer\">2 mM</span> , <span id=\"titer\">1.5 mM</span> and <span id=\"titer\">0.75 mM</span>, respectively, but did not show a linear response to <span id=\"chem\">decanoic</span> and <span id=\"chem\">dodecanoic acid</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "hexanoic",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "hexanoic",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "hexanoic",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "heptanoic",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "heptanoic",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "heptanoic",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "octanoic acid",
+        "chempos": [
+          "7",
+          "9"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "octanoic acid",
+        "chempos": [
+          "7",
+          "9"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "octanoic acid",
+        "chempos": [
+          "7",
+          "9"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "decanoic",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "decanoic",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "decanoic",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "chem": "dodecanoic acid",
+        "chempos": [
+          "36",
+          "38"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "dodecanoic acid",
+        "chempos": [
+          "36",
+          "38"
+        ],
+        "prod": "1.5 mM",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "dodecanoic acid",
+        "chempos": [
+          "36",
+          "38"
+        ],
+        "prod": "0.75 mM",
+        "prodpos": [
+          "21",
+          "23"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The sensor detected hexanoic, heptanoic and octanoic acid over a linear range up to 2, 1.5, and 0.75 mM, respectively, but did not show a linear response to decanoic and dodecanoic acid."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ]
+}

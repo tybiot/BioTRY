@@ -1,0 +1,175 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Herbicide <span id=\"chem\">14C-terbutryn</span> binding measurements, also with thylakoids, show that the QB niche of the mutant is significantly modified, at least 7-8 fold increased <span id=\"chem\">terbutryn</span> dissociation constant is shown (<span id=\"titer\">220 nM</span> in the mutant versus <span id=\"titer\">29 nM</span> in the wild type); the PS II sensitivity to <span id=\"chem\">bicarbonate</span>-reversible <span id=\"chem\">formate</span> inhibition is reduced by 5 fold in the mutant, although the <span id=\"chem\">formate</span>/<span id=\"chem\">bicarbonate</span> binding site still exists in the mutant.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "14C-terbutryn",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ]
+      },
+      {
+        "chem": "14C-terbutryn",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ]
+      },
+      {
+        "chem": "terbutryn",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ]
+      },
+      {
+        "chem": "terbutryn",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ]
+      },
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "55",
+          "56"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ]
+      },
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "55",
+          "56"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ]
+      },
+      {
+        "chem": "formate",
+        "chempos": [
+          "58",
+          "59"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ]
+      },
+      {
+        "chem": "formate",
+        "chempos": [
+          "58",
+          "59"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ]
+      },
+      {
+        "chem": "formate",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ]
+      },
+      {
+        "chem": "formate",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ]
+      },
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "220 nM",
+        "prodpos": [
+          "36",
+          "38"
+        ]
+      },
+      {
+        "chem": "bicarbonate",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "29 nM",
+        "prodpos": [
+          "42",
+          "44"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Herbicide 14C-terbutryn binding measurements, also with thylakoids, show that the QB niche of the mutant is significantly modified, at least 7-8 fold increased terbutryn dissociation constant is shown (220 nM in the mutant versus 29 nM in the wild type); the PS II sensitivity to bicarbonate-reversible formate inhibition is reduced by 5 fold in the mutant, although the formate/bicarbonate binding site still exists in the mutant."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

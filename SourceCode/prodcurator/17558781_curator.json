@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "The performance of a bench-scale submerged membrane bioreactor (MBR) equipped with ultrafiltration membranes (ZENON) was investigated at different mixed liquor suspended solid (MLSS) concentrations (3069, 4314 and 6204 mg/L).",
+    "PRO": [
+      {
+        "chem": "mixed liquor suspended solid",
+        "chempos": [
+          "24",
+          "28"
+        ],
+        "prod": "6204 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "MLSS",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "6204 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "sentence0": {
+    "sentece_text": "The continuous cofermentation performance of xylose-fermenting Zymomonas mobilis at 30 degrees C and pH 5.5 was characterized using a pure-sugar feed solution that contained 8 g/L glucose and 40 g/L xylose.",
+    "PRO": [
+      {
+        "chem": "xylose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "8 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "40 g/L",
+        "prodpos": [
+          "34",
+          "38"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "8 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "40 g/L",
+        "prodpos": [
+          "34",
+          "38"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "8 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "40 g/L",
+        "prodpos": [
+          "34",
+          "38"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Whereas xylose and cell-mass concentrations increased gradually with increasing dilution rate, ethanol concentrations and ethanol yields on available sugars remained approximately constant at 20-22 g/L and 80-90% of theoretical, respectively.",
+    "PRO": [
+      {
+        "chem": "xylose",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "20-22 g/L",
+        "prodpos": [
+          "26",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "20-22 g/L",
+        "prodpos": [
+          "26",
+          "32"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "20-22 g/L",
+        "prodpos": [
+          "26",
+          "32"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "sugars",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "20-22 g/L",
+        "prodpos": [
+          "26",
+          "32"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "Volumetric and specific ethanol productivities increased linearly with increasing dilution rate, rising from approx 1.0 g/L/h or g/g/h) at a dilution rate of 0.04/h to approx 2.0 g/L/h or g/g/h) at a dilution rate of 0.10/h.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2.0 g/L",
+        "prodpos": [
+          "38",
+          "42"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence3": {
+    "sentece_text": "Similarly, specific sugar-utilization rates increased from approx 2.0 g/g/h at dilution rate 0.04/h to approx 3.5 g/g/h at dilution rate of 0.10/h.",
+    "PRO": [
+      {
+        "chem": "sugar",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2.0 g/g",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "3.5 g/g",
+        "prodpos": [
+          "24",
+          "28"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The <span id=\"chem\">polylysine</span>-synthesizing ability by staphylococcal ribosomes increased up to about two times as much as that by E. coli Q13 ribosomes, when S-100 from E. coli Q13 was mixed with staphylococcal ribosomes which had been washed with a high salt <span id=\"chem\">HEPES</span> buffer containing <span id=\"titer\">10 mM</span> <span id=\"chem\">HEPES</span>, <span id=\"titer\">1 mM</span> <span id=\"chem\">EGTA</span>, <span id=\"titer\">16 mM</span> <span id=\"chem\">magnesium acetate</span>, <span id=\"titer\">1.0 M</span> <span id=\"chem\">ammonium chloride</span> and <span id=\"titer\">0.1 mM</span> <span id=\"chem\">dithiothreitol</span> (pH7.6).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ]
+      },
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ]
+      },
+      {
+        "chem": "polylysine",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ]
+      },
+      {
+        "chem": "HEPES",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ]
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ]
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ]
+      },
+      {
+        "chem": "magnesium acetate",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ]
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ]
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ]
+      },
+      {
+        "chem": "ammonium chloride",
+        "chempos": [
+          "61",
+          "63"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ]
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "46",
+          "48"
+        ]
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "1.0 M",
+        "prodpos": [
+          "59",
+          "61"
+        ]
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "64",
+          "66"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The polylysine-synthesizing ability by staphylococcal ribosomes increased up to about two times as much as that by E. coli Q13 ribosomes, when S-100 from E. coli Q13 was mixed with staphylococcal ribosomes which had been washed with a high salt HEPES buffer containing 10 mM HEPES, 1 mM EGTA, 16 mM magnesium acetate, 1.0 M ammonium chloride and 0.1 mM dithiothreitol (pH7.6)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

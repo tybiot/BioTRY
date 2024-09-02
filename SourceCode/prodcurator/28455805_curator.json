@@ -1,0 +1,203 @@
+{
+  "sentence0": {
+    "sentece_text": "The broth with the highest Y RS among the different strategies tested was evaporated until the concentration of reducing sugars (RS) was to the order of 100 g/L and fermented, with and without prior detoxification with active carbon.",
+    "PRO": [
+      {
+        "chem": "sugars",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "42",
+          "43"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "In comparison to the biomass without chemical pretreatment and to the biomass pretreated with NaOH, the acid pretreatment of 70 g/L of dry granulated biomass enabled greater digestion of hemicellulose, lower index of cellulose crystallinity, and higher Y RS (45.8 +- 0.7%).",
+    "PRO": [
+      {
+        "chem": "biomass",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaOH",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hemicellulose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cellulose",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "70 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "The RS increase in fermentation broth to 100 g/L, with posterior detoxification, presented higher productivity ethanol (Q P = 1.44 +- 0.02 g/L/h) with ethanol yield (Y P/RS) of 0.41 +- 0.02 g/g.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1.44 +- 0.02 g/L",
+        "prodpos": [
+          "24",
+          "31"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "0.41 +- 0.02 g/g",
+        "prodpos": [
+          "44",
+          "51"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "1.44 +- 0.02 g/L",
+        "prodpos": [
+          "24",
+          "31"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "0.41 +- 0.02 g/g",
+        "prodpos": [
+          "44",
+          "51"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "100 g/L",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">A quadratic response model was constructed through RSM designs, leading to a 57 5% increase of the growth-associated biosurfactant production by Acinetobacter sp. YC-X 2 with an optimized medium: <span id=\"chem\">beef extract</span> <span id=\"titer\">3 12 g/L</span> ; peptone <span id=\"titer\">20 87 g/L</span> ; <span id=\"chem\">NaCl</span> <span id=\"titer\">1 04 g/L</span>; and <span id=\"chem\">n-hexadecane</span> <span id=\"titer\">1 86 g/L</span> .</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "beef extract",
+        "chempos": [
+          "37",
+          "39"
+        ],
+        "prod": "3 12 g/L",
+        "prodpos": [
+          "39",
+          "44"
+        ]
+      },
+      {
+        "chem": "beef extract",
+        "chempos": [
+          "37",
+          "39"
+        ],
+        "prod": "20 87 g/L",
+        "prodpos": [
+          "46",
+          "51"
+        ]
+      },
+      {
+        "chem": "beef extract",
+        "chempos": [
+          "37",
+          "39"
+        ],
+        "prod": "1 04 g/L",
+        "prodpos": [
+          "53",
+          "58"
+        ]
+      },
+      {
+        "chem": "beef extract",
+        "chempos": [
+          "37",
+          "39"
+        ],
+        "prod": "1 86 g/L",
+        "prodpos": [
+          "63",
+          "68"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "3 12 g/L",
+        "prodpos": [
+          "39",
+          "44"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "20 87 g/L",
+        "prodpos": [
+          "46",
+          "51"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1 04 g/L",
+        "prodpos": [
+          "53",
+          "58"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1 86 g/L",
+        "prodpos": [
+          "63",
+          "68"
+        ]
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "60",
+          "63"
+        ],
+        "prod": "3 12 g/L",
+        "prodpos": [
+          "39",
+          "44"
+        ]
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "60",
+          "63"
+        ],
+        "prod": "20 87 g/L",
+        "prodpos": [
+          "46",
+          "51"
+        ]
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "60",
+          "63"
+        ],
+        "prod": "1 04 g/L",
+        "prodpos": [
+          "53",
+          "58"
+        ]
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "60",
+          "63"
+        ],
+        "prod": "1 86 g/L",
+        "prodpos": [
+          "63",
+          "68"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "A quadratic response model was constructed through RSM designs, leading to a 57 5% increase of the growth-associated biosurfactant production by Acinetobacter sp. YC-X 2 with an optimized medium: beef extract 3 12 g/L ; peptone 20 87 g/L ; NaCl 1 04 g/L; and n-hexadecane 1 86 g/L ."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "sentence0": {
+    "sentece_text": "Transcription of the bvg-regulated promoters is repressed by modulating environmental factors such as 50 mM MgSO4, 10 mM nicotinic acid (NA) or low temperature (25 degrees C).",
+    "PRO": [
+      {
+        "chem": "MgSO4",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "MgSO4",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "nicotinic acid",
+        "chempos": [
+          "21",
+          "23"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "nicotinic acid",
+        "chempos": [
+          "21",
+          "23"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "We have isolated a spontaneous mutant (SK170) which expresses virulence genes at either 25 degrees C, or in the presence of 1-5 mM NA, or 10-50 mM MgSO4.",
+    "PRO": [
+      {
+        "chem": "SK170",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "1-5 mM",
+        "prodpos": [
+          "24",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SK170",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "10-50 mM",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "MgSO4",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "1-5 mM",
+        "prodpos": [
+          "24",
+          "28"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "MgSO4",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "10-50 mM",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Virulence factors in strain SK170 are still repressed by higher concentrations of NA (10 mM), or by a combination of low temperature (25 degrees C) and one of the other modulating agents.",
+    "PRO": [
+      {
+        "chem": "SK170",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

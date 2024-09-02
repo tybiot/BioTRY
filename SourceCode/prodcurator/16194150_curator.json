@@ -1,0 +1,87 @@
+{
+  "sentence0": {
+    "sentece_text": "Transport was saturable, with an apparent K(m) of 207 microM for TTP, 404 microM for UTP and 435 microM for CTP.",
+    "PRO": [
+      {
+        "chem": "UTP",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "207 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "UTP",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "404 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "UTP",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "435 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CTP",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "207 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CTP",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "404 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "CTP",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "435 microM",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

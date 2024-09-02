@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Intracellular <span id=\"chem\">12-HETE</span> and <span id=\"chem\">12-HETrE</span> were undetectable in normal corneas but increased to 7.7+/-1.3 and <span id=\"yields\">2.2+/-0.4 ng/mg</span> protein, respectively, after 24 hours in culture.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "12-HETE",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "2.2+/-0.4 ng/mg",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "chem": "12-HETrE",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2.2+/-0.4 ng/mg",
+        "prodpos": [
+          "14",
+          "18"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Intracellular 12-HETE and 12-HETrE were undetectable in normal corneas but increased to 7.7+/-1.3 and 2.2+/-0.4 ng/mg protein, respectively, after 24 hours in culture."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ]
+  ]
+}

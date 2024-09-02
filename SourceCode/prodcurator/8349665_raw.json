@@ -1,0 +1,137 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Culture of Escherichia coli cells harboring the recombinant plasmid under standard induction conditions (<span id=\"titer\">0.4 mM</span> <span id=\"chem\">isopropyl beta-D-thiogalactopyranoside</span>, 37 degrees C) resulted in synthesis of a completely insoluble product.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Production of soluble vvR1 was achieved by growing bacteria at low temperature (15 degrees C) during the induction period, initiating induction at low cell density, and using a low concentration (<span id=\"titer\">0.05 mM</span>) of the inducer <span id=\"chem\">isopropyl beta-D-thiogalactopyranoside</span>.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Using purified recombinant vvR2 to reconstitute active enzyme, we determined that maximizing the rate of <span id=\"chem\">CDP</span> reduction required pH 8.0-8.8, <span id=\"titer\">50 mM</span> <span id=\"chem\">dithiothreitol</span>, and <span id=\"titer\">2 mM</span> <span id=\"chem\">ATP</span>.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "isopropyl beta-D-thiogalactopyranoside",
+        "chempos": [
+          "16",
+          "22"
+        ],
+        "prod": "0.4 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "isopropyl beta-D-thiogalactopyranoside",
+        "chempos": [
+          "41",
+          "47"
+        ],
+        "prod": "0.05 mM",
+        "prodpos": [
+          "35",
+          "37"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "CDP",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "CDP",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "dithiothreitol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "ATP",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "29",
+          "31"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Culture of Escherichia coli cells harboring the recombinant plasmid under standard induction conditions (0.4 mM isopropyl beta-D-thiogalactopyranoside, 37 degrees C) resulted in synthesis of a completely insoluble product.",
+    "Production of soluble vvR1 was achieved by growing bacteria at low temperature (15 degrees C) during the induction period, initiating induction at low cell density, and using a low concentration (0.05 mM) of the inducer isopropyl beta-D-thiogalactopyranoside.",
+    "Using purified recombinant vvR2 to reconstitute active enzyme, we determined that maximizing the rate of CDP reduction required pH 8.0-8.8, 50 mM dithiothreitol, and 2 mM ATP."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  ]
+}

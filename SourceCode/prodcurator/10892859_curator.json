@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "Intracellular 12-HETE and 12-HETrE were undetectable in normal corneas but increased to 7.7+/-1.3 and 2.2+/-0.4 ng/mg protein, respectively, after 24 hours in culture.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "12-HETE",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "2.2+/-0.4 ng/mg",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "12-HETrE",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2.2+/-0.4 ng/mg",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  }
+}

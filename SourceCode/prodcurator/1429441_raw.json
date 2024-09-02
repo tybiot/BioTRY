@@ -1,0 +1,46 @@
+{
+  "sentences": [
+    "Sentence 1: <div id_class=\"result-body\">The deleterious effects of low pH could be partially prevented by <span id=\"titer\">1 M</span> <span id=\"chem\">sorbitol</span> in the suspension of cells lacking <span id=\"chem\">sphingolipid</span>.</div>"
+  ],
+  "id": [
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "sorbitol",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "11",
+          "13"
+        ]
+      },
+      {
+        "chem": "sphingolipid",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "11",
+          "13"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Cells lacking sphingolipid appeared to rapidly become almost completely permeable to protons at low pH .",
+    "The deleterious effects of low pH could be partially prevented by 1 M sorbitol in the suspension of cells lacking sphingolipid."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0
+    ]
+  ]
+}

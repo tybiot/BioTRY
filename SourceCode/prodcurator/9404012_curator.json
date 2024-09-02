@@ -1,0 +1,35 @@
+{
+  "sentence0": {
+    "sentece_text": "The increase caused by HTH could be eliminated by pretreatment of the trophocytes with 1 mM 4'-bromophenacyl bromide (BPB), an inhibitor of phospholipase A2.",
+    "PRO": [
+      {
+        "chem": "BPB",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "4'-bromophenacyl bromide",
+        "chempos": [
+          "16",
+          "18"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

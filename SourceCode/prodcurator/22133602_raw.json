@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The finally genetic strain YJM13 harboring the MVA pathway and ispS(Pa) gene could accumulate <span id=\"chem\">isoprene</span> up to <span id=\"titer\">2.48 mg/l</span> and <span id=\"titer\">532 mg/l</span> under the flask and fed-batch fermentation conditions, respectively, which is about three times and five times to the control strain.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "isoprene",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "2.48 mg/l",
+        "prodpos": [
+          "18",
+          "22"
+        ]
+      },
+      {
+        "chem": "isoprene",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "532 mg/l",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The finally genetic strain YJM13 harboring the MVA pathway and ispS(Pa) gene could accumulate isoprene up to 2.48 mg/l and 532 mg/l under the flask and fed-batch fermentation conditions, respectively, which is about three times and five times to the control strain."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ]
+  ]
+}

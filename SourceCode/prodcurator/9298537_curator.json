@@ -1,0 +1,394 @@
+{
+  "sentence0": {
+    "sentece_text": "Experiments were performed before and following incubation with either the endoplasmic reticulum Ca(2+)-ATPase inhibitors cyclopiazonic acid (CPA, 10 microM) and thapsigargin (TSG, 1 microM) or ryanodine (30, 100 microM) which binds to a specific endoplasmic reticulum Ca(2+)-release channel.",
+    "PRO": [
+      {
+        "chem": "cyclopiazonic acid",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cyclopiazonic acid",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "cyclopiazonic acid",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "thapsigargin",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "thapsigargin",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "thapsigargin",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "TSG",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "TSG",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ryanodine",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ryanodine",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "CPA",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "TSG",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "1 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ryanodine",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "In cascade bioassay all three agents induced relaxations of the recipient ring (CPA, 24.4 +/- 3.8%; TSG, 51.5 +/- 10.6%; ryanodine, 17.4 +/- 1.6%) which were significantly attenuated by preincubation of the donor with 100 microM NG-nitro-L-arginine methyl ester (L-NAME).",
+    "PRO": [
+      {
+        "chem": "CPA",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "47",
+          "49"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "TSG",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "47",
+          "49"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ryanodine",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "47",
+          "49"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "L-NAME",
+        "chempos": [
+          "59",
+          "62"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "47",
+          "49"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "NG-nitro-L-arginine methyl ester",
+        "chempos": [
+          "49",
+          "58"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "47",
+          "49"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Endothelium-dependent relaxations to acetylcholine (0.1-30 microM) in cascade bioassay and in isolated aortic ring preparations were markedly attenuated by pretreatment with CPA and TSG, but were unaffected by ryanodine.",
+    "PRO": [
+      {
+        "chem": "CPA",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.1-30 microM",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "TSG",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.1-30 microM",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ryanodine",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "0.1-30 microM",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "acetylcholine",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "0.1-30 microM",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence3": {
+    "sentece_text": "Ryanodine and CPA caused only a small attenuation of endothelium-independent relaxations to sodium nitroprusside (0.001-10 microM), whereas TSG had no effect.",
+    "PRO": [
+      {
+        "chem": "Ryanodine",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.001-10 microM",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.001-10 microM",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "TSG",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "0.001-10 microM",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "sodium nitroprusside",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "0.001-10 microM",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

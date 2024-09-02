@@ -1,0 +1,86 @@
+{
+  "sentence0": {
+    "sentece_text": "The decrease of Fe supply from 100 muM NaFe(III)-EDTA to 0.5 muM NaFe(III)-EDTA reduced growth and photosynthetic pigments similarly in the six barley varieties.",
+    "PRO": [
+      {
+        "chem": "Fe",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "100 muM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Fe",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "0.5 muM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaFe(III)-EDTA",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "100 muM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaFe(III)-EDTA",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "0.5 muM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaFe(III)-EDTA",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "100 muM",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaFe(III)-EDTA",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.5 muM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

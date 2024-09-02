@@ -1,0 +1,35 @@
+{
+  "sentence0": {
+    "sentece_text": "Cells of Escherichia coli strain B develop large intracellular vacuoles and exhibit an abnormally long lag phase when inoculated into a defined medium to glucose and salts containing 3 times 10-6 M Cd2+.",
+    "PRO": [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Cd2+",
+        "chempos": [
+          "34",
+          "36"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "30",
+          "34"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

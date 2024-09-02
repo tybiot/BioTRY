@@ -1,0 +1,86 @@
+{
+  "sentence0": {
+    "sentece_text": "Honeybees have approximately 2.5 pmol/eye of retinal associated with visual pigments, but larger amounts (4-12 pmol/eye) of both retinal and retinol bound to soluble proteins.",
+    "PRO": [
+      {
+        "chem": "retinal",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "2.5 pmol",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "retinal",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "4-12 pmol",
+        "prodpos": [
+          "18",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "retinal",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2.5 pmol",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "retinal",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "4-12 pmol",
+        "prodpos": [
+          "18",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "retinol",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "2.5 pmol",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "retinol",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "4-12 pmol",
+        "prodpos": [
+          "18",
+          "22"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

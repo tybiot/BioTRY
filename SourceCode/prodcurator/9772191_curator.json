@@ -1,0 +1,254 @@
+{
+  "sentence0": {
+    "sentece_text": "FRP, which uses FMN as a cofactor to mediate the reduction of the flavin substrate by NADPH, exhibited a ping-pong kinetic pattern with a Km, FMN of 8 microM and a Km,NADPH of 20 microM in a single-enzyme spectrophotometric assay monitoring the NADPH oxidation.",
+    "PRO": [
+      {
+        "chem": "FMN",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "FMN",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "flavin",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "flavin",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "FMN",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "FMN",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Km,NADPH",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Km,NADPH",
+        "chempos": [
+          "36",
+          "39"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "8 microM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "20 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "However, the kinetic mechanism of FRP was changed to a sequential pattern with a Km,FMN of 0.3 microM and a Km,NADPH of 0.02 microM in a luciferase-coupled assay measuring light emission.",
+    "PRO": [
+      {
+        "chem": "FMN",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.3 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "FMN",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.02 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Km,NADPH",
+        "chempos": [
+          "23",
+          "26"
+        ],
+        "prod": "0.3 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Km,NADPH",
+        "chempos": [
+          "23",
+          "26"
+        ],
+        "prod": "0.02 microM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "Moreover, for the FRP, FMN at concentrations over 2 microM significantly inhibited the coupled reaction in both light intensity and quantum yield, and showed apparent noncompetitive and competitive inhibition patterns against NADPH and luciferase, respectively.",
+    "PRO": [
+      {
+        "chem": "FMN",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "2 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "2 microM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

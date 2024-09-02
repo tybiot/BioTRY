@@ -1,0 +1,469 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Analysis of the <span id=\"chem\">ectoine</span> and <span id=\"chem\">hydroxyectoine</span> contents of an ectABC ectD mutant strain fed with <span id=\"titer\">1 mM</span> <span id=\"chem\">ectoine</span> or <span id=\"chem\">hydroxyectoine</span> demonstrated that ectD is required for the main <span id=\"chem\">ectoine</span> hydroxylase activity in C. salexigens.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Although in minimal medium at 37 degrees C the wild-type strain grew with 0.5 to <span id=\"titer\">3.0 M</span> <span id=\"chem\">NaCl</span>, with optimal growth at <span id=\"titer\">1.5 M</span> <span id=\"chem\">NaCl</span>, at 45 degrees C it could not cope with the lowest (<span id=\"titer\">0.75 M</span> <span id=\"chem\">NaCl</span>) or the highest (<span id=\"titer\">3.0 M</span> <span id=\"chem\">NaCl</span>) salinity, and it grew optimally at <span id=\"titer\">2.5 M</span> <span id=\"chem\">NaCl</span>.</div>",
+    "Sentence 2: <div id_class=\"result-body\">The ectD mutation caused a growth defect at 45 degrees C in minimal medium with 1.5 to <span id=\"titer\">2.5 M</span> <span id=\"chem\">NaCl</span>, but it did not affect growth at 37 degrees C at any salinity tested.</div>",
+    "Sentence 3: <div id_class=\"result-body\">With <span id=\"titer\">2.5 M</span> <span id=\"chem\">NaCl</span>, the ectD mutant synthesized 38% (at 37 degrees C) and 15% (at 45 degrees C) of the <span id=\"chem\">hydroxyectoine</span> produced by the wild-type strain.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "ectoine",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "hydroxyectoine",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "ectoine",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "hydroxyectoine",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "ectoine",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1.5 M",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "0.75 M",
+        "prodpos": [
+          "41",
+          "43"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "49",
+          "51"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "2.5 M",
+        "prodpos": [
+          "60",
+          "62"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "1.5 M",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.75 M",
+        "prodpos": [
+          "41",
+          "43"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "49",
+          "51"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2.5 M",
+        "prodpos": [
+          "60",
+          "62"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "1.5 M",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "0.75 M",
+        "prodpos": [
+          "41",
+          "43"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "49",
+          "51"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "43",
+          "44"
+        ],
+        "prod": "2.5 M",
+        "prodpos": [
+          "60",
+          "62"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "1.5 M",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "0.75 M",
+        "prodpos": [
+          "41",
+          "43"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "49",
+          "51"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "2.5 M",
+        "prodpos": [
+          "60",
+          "62"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "62",
+          "63"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "62",
+          "63"
+        ],
+        "prod": "1.5 M",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "62",
+          "63"
+        ],
+        "prod": "0.75 M",
+        "prodpos": [
+          "41",
+          "43"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "62",
+          "63"
+        ],
+        "prod": "3.0 M",
+        "prodpos": [
+          "49",
+          "51"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "62",
+          "63"
+        ],
+        "prod": "2.5 M",
+        "prodpos": [
+          "60",
+          "62"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "2.5 M",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2.5 M",
+        "prodpos": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "chem": "hydroxyectoine",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "2.5 M",
+        "prodpos": [
+          "1",
+          "3"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Analysis of the ectoine and hydroxyectoine contents of an ectABC ectD mutant strain fed with 1 mM ectoine or hydroxyectoine demonstrated that ectD is required for the main ectoine hydroxylase activity in C. salexigens.",
+    "Although in minimal medium at 37 degrees C the wild-type strain grew with 0.5 to 3.0 M NaCl, with optimal growth at 1.5 M NaCl, at 45 degrees C it could not cope with the lowest (0.75 M NaCl) or the highest (3.0 M NaCl) salinity, and it grew optimally at 2.5 M NaCl.",
+    "The ectD mutation caused a growth defect at 45 degrees C in minimal medium with 1.5 to 2.5 M NaCl, but it did not affect growth at 37 degrees C at any salinity tested.",
+    "With 2.5 M NaCl, the ectD mutant synthesized 38% (at 37 degrees C) and 15% (at 45 degrees C) of the hydroxyectoine produced by the wild-type strain."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}

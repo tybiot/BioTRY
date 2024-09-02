@@ -1,0 +1,429 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The pure culture of S. aciditrophicus produced approximately <span id=\"titer\">0.5 mol</span> of <span id=\"chem\">cyclohexane carboxylate</span> and <span id=\"titer\">1.5 mol</span> of <span id=\"chem\">acetate</span> per mol of <span id=\"chem\">benzoate</span>, while a coculture of S. aciditrophicus with the <span id=\"chem\">hydrogen-using</span> methanogen Methanospirillum hungatei produced <span id=\"titer\">3 mol</span> of <span id=\"chem\">acetate</span> and <span id=\"titer\">0.75 mol</span> of <span id=\"chem\">methane</span> per mol of <span id=\"chem\">benzoate</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">High <span id=\"chem\">hydrogen</span> (10.1 kPa) and <span id=\"chem\">acetate</span> (<span id=\"titer\">60 mM</span>) levels inhibited <span id=\"chem\">benzoate</span> metabolism by S. aciditrophicus pure cultures.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "cyclohexane carboxylate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "cyclohexane carboxylate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "cyclohexane carboxylate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "cyclohexane carboxylate",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ]
+      },
+      {
+        "chem": "hydrogen-using",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "hydrogen-using",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "hydrogen-using",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "hydrogen-using",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ]
+      },
+      {
+        "chem": "methane",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "methane",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "methane",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "methane",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "0.5 mol",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "1.5 mol",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "3 mol",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "0.75 mol",
+        "prodpos": [
+          "43",
+          "45"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "60 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "acetate",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "60 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "benzoate",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "60 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The pure culture of S. aciditrophicus produced approximately 0.5 mol of cyclohexane carboxylate and 1.5 mol of acetate per mol of benzoate, while a coculture of S. aciditrophicus with the hydrogen-using methanogen Methanospirillum hungatei produced 3 mol of acetate and 0.75 mol of methane per mol of benzoate.",
+    "High hydrogen (10.1 kPa) and acetate (60 mM) levels inhibited benzoate metabolism by S. aciditrophicus pure cultures."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Although <span id=\"chem\">Cu</span> is phytotoxic at <span id=\"chem\">Cu(2+)</span> activities as low as <span id=\"titer\">1-2 microM</span>, the effect of <span id=\"chem\">Cu(2+)</span> on the nodulation of legumes has received little attention.</div>",
+    "Sentence 1: <div id_class=\"result-body\">The nodulation process was more sensitive to increasing <span id=\"chem\">Cu(2+)</span> activities than both shoot and root growth; whilst a <span id=\"chem\">Cu(2+)</span> activity of <span id=\"titer\">1.0 microM</span> corresponded to a 10% reduction in the relative yield of the shoots and roots, a <span id=\"chem\">Cu(2+)</span> activity of <span id=\"titer\">0.2 microM</span> corresponded to a 10% reduction in nodulation.</div>",
+    "Sentence 2: <div id_class=\"result-body\">This reduction in nodulation with increasing <span id=\"chem\">Cu(2+)</span> activity was associated with an inhibition of root hair formation in treatments containing &gt; or =<span id=\"titer\">0.77 microM</span> <span id=\"chem\">Cu(2+)</span>, rather than to a reduction in the size of the Rhizobium population.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Cu",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "1-2 microM",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "1-2 microM",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "20",
+          "23"
+        ],
+        "prod": "1-2 microM",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "8",
+          "11"
+        ],
+        "prod": "1.0 microM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "8",
+          "11"
+        ],
+        "prod": "0.2 microM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "21",
+          "24"
+        ],
+        "prod": "1.0 microM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "21",
+          "24"
+        ],
+        "prod": "0.2 microM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "45",
+          "48"
+        ],
+        "prod": "1.0 microM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "45",
+          "48"
+        ],
+        "prod": "0.2 microM",
+        "prodpos": [
+          "50",
+          "52"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "6",
+          "9"
+        ],
+        "prod": "0.77 microM",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "Cu(2+)",
+        "chempos": [
+          "27",
+          "30"
+        ],
+        "prod": "0.77 microM",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Although Cu is phytotoxic at Cu(2+) activities as low as 1-2 microM, the effect of Cu(2+) on the nodulation of legumes has received little attention.",
+    "The nodulation process was more sensitive to increasing Cu(2+) activities than both shoot and root growth; whilst a Cu(2+) activity of 1.0 microM corresponded to a 10% reduction in the relative yield of the shoots and roots, a Cu(2+) activity of 0.2 microM corresponded to a 10% reduction in nodulation.",
+    "This reduction in nodulation with increasing Cu(2+) activity was associated with an inhibition of root hair formation in treatments containing > or =0.77 microM Cu(2+), rather than to a reduction in the size of the Rhizobium population."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1
+    ]
+  ]
+}

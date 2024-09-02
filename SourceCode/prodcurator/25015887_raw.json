@@ -1,0 +1,227 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The activities of mc(2)-155(pSmo) cells were <span id=\"titer\">0.94 nmol</span> , <span id=\"titer\">0.57 nmol</span> , <span id=\"titer\">0.12 nmol</span> and <span id=\"titer\">0.04 nmol</span>/min/mg of protein with <span id=\"chem\">ethene</span>, <span id=\"chem\">ethane</span>, <span id=\"chem\">propane</span>, and <span id=\"chem\">butane</span> as substrates, respectively.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "ethene",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.94 nmol",
+        "prodpos": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "chem": "ethene",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.57 nmol",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "ethene",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.12 nmol",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "ethene",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.04 nmol",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "ethane",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.94 nmol",
+        "prodpos": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "chem": "ethane",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.57 nmol",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "ethane",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.12 nmol",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "ethane",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.04 nmol",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "propane",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.94 nmol",
+        "prodpos": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "chem": "propane",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.57 nmol",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "propane",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.12 nmol",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "propane",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.04 nmol",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.94 nmol",
+        "prodpos": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.57 nmol",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.12 nmol",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.04 nmol",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The activities of mc(2)-155(pSmo) cells were 0.94, 0.57, 0.12, and 0.04 nmol/min/mg of protein with ethene, ethane, propane, and butane as substrates, respectively."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

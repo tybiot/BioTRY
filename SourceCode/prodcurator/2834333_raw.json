@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The enzyme possessed a Km for <span id=\"chem\">urea</span> of <span id=\"titer\">9.3 mM</span> and hydrolyzed <span id=\"chem\">urea</span> at a Vmax of 7,100 mumol/min per mg.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "urea",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "9.3 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "urea",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "9.3 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The enzyme possessed a Km for urea of 9.3 mM and hydrolyzed urea at a Vmax of 7,100 mumol/min per mg."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ]
+  ]
+}

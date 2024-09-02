@@ -1,0 +1,146 @@
+{
+  "sentence0": {
+    "sentece_text": "Serosal side application of indomethacin (10(-5) M) or aspirin (3 X 10(-3) M) inhibited alkali secretion by fundic mucosa (mean +/- SE: 0.55 +/- 0.06 to 0.12 +/- 0.06 mumol X cm-2 X h-1, n = 6, p less than 0.01 and 0.28 +/- 0.06 to 0.11 +/- 0.03 mumol X cm-2 X h-1, n = 7, p less than 0.02 respectively) and antral mucosa (0.80 +/- 0.03 to 0.53 +/- 0.21 mumol X cm-2 X h-1, n = 5, p less than 0.01 and 0.75 +/- 0.23 to 0.47 +/- 0.20 mumol X cm-2 X h-1, n = 8, p less than 0.01 respectively).",
+    "PRO": [
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.06 mumol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.03 mumol",
+        "prodpos": [
+          "63",
+          "65"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.21 mumol",
+        "prodpos": [
+          "92",
+          "94"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.20 mumol",
+        "prodpos": [
+          "116",
+          "118"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "aspirin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.03 mumol",
+        "prodpos": [
+          "63",
+          "65"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "aspirin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.21 mumol",
+        "prodpos": [
+          "92",
+          "94"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "aspirin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.20 mumol",
+        "prodpos": [
+          "116",
+          "118"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "aspirin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.06 mumol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Serosal side 16,16 dimethyl E2 (10(-6) M) stimulated alkali secretion by fundic mucosa (0.90 +/- 0.20 to 1.50 +/- 0.30 mumol X cm-2 X h-1, n = 6, p less than 0.01) and abolished the inhibition of alkali production caused by indomethacin in fundic and antral mucosae.",
+    "PRO": [
+      {
+        "chem": "indomethacin",
+        "chempos": [
+          "50",
+          "51"
+        ],
+        "prod": "0.30 mumol",
+        "prodpos": [
+          "25",
+          "27"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Serosal side 16,16 dimethyl E2",
+        "chempos": [
+          "0",
+          "5"
+        ],
+        "prod": "0.30 mumol",
+        "prodpos": [
+          "25",
+          "27"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

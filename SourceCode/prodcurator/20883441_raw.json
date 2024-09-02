@@ -1,0 +1,156 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Using an A. thaliana microarray chip, we determined changes in the expression of approximately 2 800 genes between A. stelleri plants treated with <span id=\"titer\">0.2 M</span> <span id=\"chem\">mannitol</span> versus mock-treated plants.</div>",
+    "Sentence 1: <div id_class=\"result-body\">japonica seedlings treated with <span id=\"titer\">0.2 M</span> <span id=\"chem\">mannitol</span>, <span id=\"titer\">0.2 M</span> <span id=\"chem\">sorbitol</span>, and <span id=\"titer\">0.2 M</span> <span id=\"chem\">NaCl</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "sorbitol",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "sorbitol",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "sorbitol",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Using an A. thaliana microarray chip, we determined changes in the expression of approximately 2 800 genes between A. stelleri plants treated with 0.2 M mannitol versus mock-treated plants.",
+    "japonica seedlings treated with 0.2 M mannitol, 0.2 M sorbitol, and 0.2 M NaCl."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  ]
+}

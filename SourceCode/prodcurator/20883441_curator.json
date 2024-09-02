@@ -1,0 +1,145 @@
+{
+  "sentence0": {
+    "sentece_text": "Using an A. thaliana microarray chip, we determined changes in the expression of approximately 2 800 genes between A. stelleri plants treated with 0.2 M mannitol versus mock-treated plants.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "japonica seedlings treated with 0.2 M mannitol, 0.2 M sorbitol, and 0.2 M NaCl.",
+    "PRO": [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sorbitol",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sorbitol",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "4",
+          "6"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "sorbitol",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

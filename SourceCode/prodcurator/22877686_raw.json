@@ -1,0 +1,123 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Based on the low production of <span id=\"chem\">H(2)S</span>, <span id=\"chem\">acetic acid</span> and foam, <span id=\"chem\">ethanol</span> resistance, growth in presence of high concentrations of <span id=\"chem\">potassium metabisulphite</span> (<span id=\"chem\">KMBS</span>) and <span id=\"chem\">CuSO(4)</span> and at low temperatures, 14 strains were selected and used as starter to ferment grape must at <span id=\"chem\">13  C and 17  C</span> in presence of <span id=\"titer\">100 mg/L</span> of <span id=\"chem\">KMBS</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "H(2)S",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ]
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "8",
+          "10"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ]
+      },
+      {
+        "chem": "potassium metabisulphite",
+        "chempos": [
+          "23",
+          "25"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ]
+      },
+      {
+        "chem": "KMBS",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ]
+      },
+      {
+        "chem": "CuSO(4)",
+        "chempos": [
+          "29",
+          "31"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ]
+      },
+      {
+        "chem": "13  C and 17  C",
+        "chempos": [
+          "49",
+          "56"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ]
+      },
+      {
+        "chem": "KMBS",
+        "chempos": [
+          "64",
+          "65"
+        ],
+        "prod": "100 mg/L",
+        "prodpos": [
+          "59",
+          "63"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Based on the low production of H(2)S, acetic acid and foam, ethanol resistance, growth in presence of high concentrations of potassium metabisulphite (KMBS) and CuSO(4) and at low temperatures, 14 strains were selected and used as starter to ferment grape must at 13  C and 17  C in presence of 100 mg/L of KMBS."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

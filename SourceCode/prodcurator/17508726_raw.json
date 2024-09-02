@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The dimeric protein binds one molecule of <span id=\"chem\">GSH</span> very tightly (Kd approximately <span id=\"titer\">5 nM</span>) and a second molecule of <span id=\"chem\">GSH</span> with much lower affinity (Kd approximately 2 to <span id=\"titer\">11 microM</span>).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "GSH",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "5 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "GSH",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ]
+      },
+      {
+        "chem": "GSH",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "5 nM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "GSH",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "31",
+          "33"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The dimeric protein binds one molecule of GSH very tightly (Kd approximately 5 nM) and a second molecule of GSH with much lower affinity (Kd approximately 2 to 11 microM)."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      1,
+      1
+    ]
+  ]
+}

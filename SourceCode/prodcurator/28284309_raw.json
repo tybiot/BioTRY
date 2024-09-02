@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Finally, further overexpression of <span id=\"chem\">OCrtZ</span> and OBKTM in YastD-01 resulted in accumulation of <span id=\"yields\">8.10mg/g</span>  (<span id=\"titer\">47.18mg/l</span>) of (3S, 3'S)-astaxanthin in shake-flask cultures.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "OCrtZ",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "8.10mg/g",
+        "prodpos": [
+          "14",
+          "17"
+        ]
+      },
+      {
+        "chem": "OCrtZ",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "47.18mg/l",
+        "prodpos": [
+          "19",
+          "22"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Finally, further overexpression of OCrtZ and OBKTM in YastD-01 resulted in accumulation of 8.10mg/g  (47.18mg/l) of (3S, 3'S)-astaxanthin in shake-flask cultures."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ]
+  ]
+}

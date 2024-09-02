@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Insulin-like growth factor (IGF)-I (<span id=\"titer\">10(-9)M-10(-7)M</span>) was found to be mitogenic for cultured cells from all three zones as shown by increased incorporation of <span id=\"chem\">[3H]thymidine</span> into DNA.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "[3H]thymidine",
+        "chempos": [
+          "28",
+          "30"
+        ],
+        "prod": "10(-9)M-10(-7)M",
+        "prodpos": [
+          "8",
+          "9"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Insulin-like growth factor (IGF)-I (10(-9)M-10(-7)M) was found to be mitogenic for cultured cells from all three zones as shown by increased incorporation of [3H]thymidine into DNA."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">We performed a study which indicates that, as opposed to what happens in bacteria, the activity of <span id=\"chem\">NADP</span>-GDH is fivefold higher when the halotolerant yeast Debaryomyces hansenii is grown in the presence of <span id=\"titer\">1 M</span> <span id=\"chem\">NaCl</span>, compared with growth in media with no added <span id=\"chem\">salt</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "NADP",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      },
+      {
+        "chem": "salt",
+        "chempos": [
+          "49",
+          "50"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "We performed a study which indicates that, as opposed to what happens in bacteria, the activity of NADP-GDH is fivefold higher when the halotolerant yeast Debaryomyces hansenii is grown in the presence of 1 M NaCl, compared with growth in media with no added salt."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0
+    ]
+  ]
+}

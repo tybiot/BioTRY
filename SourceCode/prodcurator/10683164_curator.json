@@ -1,0 +1,106 @@
+{
+  "sentence0": {
+    "sentece_text": "In both animals, the SHb fraction increased with increasing Hb and sulphide concentrations up to 100 micromol/L and 1 mmol/L, respectively, and was favoured by a low pH .",
+    "PRO": [
+      {
+        "chem": "SHb",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "100 micromol/L",
+        "prodpos": [
+          "16",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SHb",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "1 mmol/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sulphide",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "100 micromol/L",
+        "prodpos": [
+          "16",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sulphide",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "1 mmol/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence2": {
+    "sentece_text": "Within trout red blood cells, approximately 7 % of total haemoglobin was converted to SHb during 60 min of incubation (with 2.5 mmol/L sulphide), inducing a 20 % loss of haemoglobin oxygen-saturation.",
+    "PRO": [
+      {
+        "chem": "oxygen-saturation",
+        "chempos": [
+          "37",
+          "40"
+        ],
+        "prod": "2.5 mmol/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "SHb",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "2.5 mmol/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "sulphide",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2.5 mmol/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

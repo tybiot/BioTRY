@@ -1,0 +1,48 @@
+{
+  "sentence0": {
+    "sentece_text": "For example, 9C can be cultured over a wide range of temperature, pH and salt concentration, and showed high H2 production (up to 67.7 nmol H2/h 10(10) cell(-1)).",
+    "PRO": [
+      {
+        "chem": "H2",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "67.7 nmol",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "67.7 nmol",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "salt",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "67.7 nmol",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

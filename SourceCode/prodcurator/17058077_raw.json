@@ -1,0 +1,261 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The ability of a Rhodococcus aetherovorans strain, BCP1, to grow on <span id=\"chem\">butane</span> and to degrade <span id=\"chem\">chloroform</span> in the <span id=\"titer\">0-633 microM</span> range (<span id=\"titer\">0-75.5 mg/L</span>) via aerobic cometabolism was investigated by means of resting-cell assays.</div>",
+    "Sentence 1: <div id_class=\"result-body\">The resulting <span id=\"chem\">butane</span> and <span id=\"chem\">chloroform</span> maximum specific degradation rates were equal to <span id=\"titer\">118 micromol</span> and <span id=\"titer\">22 micromol</span> mg(protein)(-1)day(-1), respectively.</div>",
+    "Sentence 2: <div id_class=\"result-body\"><span id=\"chem\">Butane</span> inhibition on <span id=\"chem\">chloroform</span> degradation was satisfactorily interpreted by means of a model of competitive inhibition, with an inhibition constant equal to 38 % of the estimated <span id=\"chem\">butane</span> half-saturation constant, whereas <span id=\"chem\">chloroform</span> (at <span id=\"titer\">11 microM</span>) did not inhibit <span id=\"chem\">butane</span> utilization.</div>",
+    "Sentence 3: <div id_class=\"result-body\">After growth on <span id=\"chem\">n-hexane</span>, it was able to deplete <span id=\"chem\">chloroform</span> (<span id=\"titer\">13 microM</span>) with a degradation rate higher than that obtained, at the same <span id=\"chem\">chloroform</span> concentration, after growth on <span id=\"chem\">butane</span>.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "butane",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "0-633 microM",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "0-75.5 mg/L",
+        "prodpos": [
+          "26",
+          "32"
+        ]
+      },
+      {
+        "chem": "chloroform",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0-633 microM",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "chem": "chloroform",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0-75.5 mg/L",
+        "prodpos": [
+          "26",
+          "32"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "butane",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "118 micromol",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "22 micromol",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "chem": "chloroform",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "118 micromol",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "chloroform",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "22 micromol",
+        "prodpos": [
+          "15",
+          "17"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Butane",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "chloroform",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "chloroform",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "44",
+          "45"
+        ],
+        "prod": "11 microM",
+        "prodpos": [
+          "38",
+          "40"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "n-hexane",
+        "chempos": [
+          "3",
+          "6"
+        ],
+        "prod": "13 microM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "chloroform",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "13 microM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "chloroform",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "13 microM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "chem": "butane",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "13 microM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The ability of a Rhodococcus aetherovorans strain, BCP1, to grow on butane and to degrade chloroform in the 0-633 microM range (0-75.5 mg/L) via aerobic cometabolism was investigated by means of resting-cell assays.",
+    "The resulting butane and chloroform maximum specific degradation rates were equal to 118 and 22 micromol mg(protein)(-1)day(-1), respectively.",
+    "Butane inhibition on chloroform degradation was satisfactorily interpreted by means of a model of competitive inhibition, with an inhibition constant equal to 38 % of the estimated butane half-saturation constant, whereas chloroform (at 11 microM) did not inhibit butane utilization.",
+    "After growth on n-hexane, it was able to deplete chloroform (13 microM) with a degradation rate higher than that obtained, at the same chloroform concentration, after growth on butane."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0
+    ]
+  ]
+}

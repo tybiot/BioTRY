@@ -1,0 +1,234 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Defatted skin powder suspended in <span id=\"titer\">0.5 M</span> <span id=\"chem\">NaCl</span> was homogenized, and total <span id=\"chem\">glycosaminoglycans</span> were precipitated from this <span id=\"titer\">0.5 M</span> <span id=\"chem\">NaCl</span> extract with <span id=\"chem\">cetylpyridinium chloride</span>, then redissolved successively with increasing concentrations of <span id=\"chem\">NaCl</span> and finally 0.5 N <span id=\"chem\">NaOH</span> .</div>",
+    "Sentence 1: <div id_class=\"result-body\"><span id=\"chem\">Hyaluronic acid</span>, the major acid <span id=\"chem\">glycosaminoglycan</span> in the <span id=\"titer\">0.5 M</span> <span id=\"chem\">NaCl</span> extract, was purified and fractionated by <span id=\"chem\">DEAE-Sephadex</span> chromatography.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "glycosaminoglycans",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "glycosaminoglycans",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "cetylpyridinium chloride",
+        "chempos": [
+          "23",
+          "25"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "cetylpyridinium chloride",
+        "chempos": [
+          "23",
+          "25"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "NaOH",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "chem": "NaOH",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Hyaluronic acid",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "glycosaminoglycan",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "DEAE-Sephadex",
+        "chempos": [
+          "19",
+          "22"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Defatted skin powder suspended in 0.5 M NaCl was homogenized, and total glycosaminoglycans were precipitated from this 0.5 M NaCl extract with cetylpyridinium chloride, then redissolved successively with increasing concentrations of NaCl and finally 0.5 N NaOH .",
+    "Hyaluronic acid, the major acid glycosaminoglycan in the 0.5 M NaCl extract, was purified and fractionated by DEAE-Sephadex chromatography."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

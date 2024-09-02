@@ -1,0 +1,198 @@
+{
+  "sentence0": {
+    "sentece_text": "The Km value and substrate inhibition constant of the enzyme were found to be 11.36 mmol dm-3 and 680 mmol dm-3 penicillin G respectively.",
+    "PRO": [
+      {
+        "chem": "dm-3",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "680 mmol",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dm-3 penicillin G",
+        "chempos": [
+          "20",
+          "23"
+        ],
+        "prod": "11.36 mmol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "dm-3",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "11.36 mmol",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "dm-3 penicillin G",
+        "chempos": [
+          "20",
+          "23"
+        ],
+        "prod": "680 mmol",
+        "prodpos": [
+          "18",
+          "20"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Phenylacetic acid and 6-aminopenicillanic acid were estimated as the competitive and non-competitive inhibitors of the enzyme and their inhibition constants were found to be 90 mmol dm-3 phenylacetic acid and 76.1 mmol dm-3 for 6-aminopenicillanic acid.",
+    "PRO": [
+      {
+        "chem": "Phenylacetic acid",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "90 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Phenylacetic acid",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "76.1 mmol",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "6-aminopenicillanic acid",
+        "chempos": [
+          "3",
+          "5"
+        ],
+        "prod": "90 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "6-aminopenicillanic acid",
+        "chempos": [
+          "3",
+          "5"
+        ],
+        "prod": "76.1 mmol",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dm-3 phenylacetic acid",
+        "chempos": [
+          "28",
+          "31"
+        ],
+        "prod": "76.1 mmol",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dm-3",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "90 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "6-aminopenicillanic acid",
+        "chempos": [
+          "36",
+          "38"
+        ],
+        "prod": "90 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "6-aminopenicillanic acid",
+        "chempos": [
+          "36",
+          "38"
+        ],
+        "prod": "76.1 mmol",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "dm-3 phenylacetic acid",
+        "chempos": [
+          "28",
+          "31"
+        ],
+        "prod": "90 mmol",
+        "prodpos": [
+          "26",
+          "28"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "dm-3",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "76.1 mmol",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

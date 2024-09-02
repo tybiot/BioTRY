@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Continuous <span id=\"chem\">sucrose</span> feeding (<span id=\"titer\">5 g/L</span> h) to the immobilized-cell culture in the airlift bioreactor increased production of enzymatic activity by about 107% compared with ordinary batch operation of this reactor.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "5 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Continuous sucrose feeding (5 g/L h) to the immobilized-cell culture in the airlift bioreactor increased production of enzymatic activity by about 107% compared with ordinary batch operation of this reactor."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

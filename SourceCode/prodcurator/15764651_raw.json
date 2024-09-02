@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The studied system, composed of approximately 300,000 atoms, included one copy of the protein, a patch of a <span id=\"chem\">DPPC lipid bilayer</span>, and a <span id=\"titer\">1 M</span> <span id=\"chem\">water</span> solution of <span id=\"chem\">KCl</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "DPPC lipid bilayer",
+        "chempos": [
+          "21",
+          "24"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "water",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "KCl",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The studied system, composed of approximately 300,000 atoms, included one copy of the protein, a patch of a DPPC lipid bilayer, and a 1 M water solution of KCl."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1,
+      0
+    ]
+  ]
+}

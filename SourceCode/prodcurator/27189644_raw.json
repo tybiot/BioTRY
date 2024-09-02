@@ -1,0 +1,125 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The results showed that the feed conversion ratio (FCR) was significantly improved in broilers fed a diet containing <span id=\"yields\">24 mg/kg</span> <span id=\"chem\">octacosanol</span> compared with those fed the control diet in the overall phase (day 1 to 42, p = 0.042).</div>",
+    "Sentence 1: <div id_class=\"result-body\">Broilers fed with 24 or <span id=\"yields\">36 mg/kg</span> <span id=\"chem\">octacosanol</span> diet showed a higher eviscerated yield, which increased by 5.88% and 4.26% respectively, than those fed the control diet (p = 0.030).</div>",
+    "Sentence 2: <div id_class=\"result-body\">The breast muscle yield of broilers fed with <span id=\"yields\">24 mg/kg</span> <span id=\"chem\">octacosanol</span> diet increased significantly by 12.15% compared with those fed the control diet (p = 0.047).</div>",
+    "Sentence 3: <div id_class=\"result-body\">Broilers fed with 24 or <span id=\"yields\">36 mg/kg</span> <span id=\"chem\">octacosanol</span> diet had a greater (p = 0.021) pH45min value in the breast muscle, which was maintained linearly in response to dietary <span id=\"chem\">octacosanol</span> supplementation (p = 0.003).</div>",
+    "Sentence 4: <div id_class=\"result-body\">Dietary supplementation of <span id=\"chem\">octacosanol</span> at <span id=\"yields\">24 mg/kg</span> diet is regarded as the recommended dosage in the broilers' diet.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "octacosanol",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "20",
+          "24"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "octacosanol",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "36 mg/kg",
+        "prodpos": [
+          "5",
+          "9"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "octacosanol",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "octacosanol",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "36 mg/kg",
+        "prodpos": [
+          "5",
+          "9"
+        ]
+      },
+      {
+        "chem": "octacosanol",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "36 mg/kg",
+        "prodpos": [
+          "5",
+          "9"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "octacosanol",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "5",
+          "9"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The results showed that the feed conversion ratio (FCR) was significantly improved in broilers fed a diet containing 24 mg/kg octacosanol compared with those fed the control diet in the overall phase (day 1 to 42, p = 0.042).",
+    "Broilers fed with 24 or 36 mg/kg octacosanol diet showed a higher eviscerated yield, which increased by 5.88% and 4.26% respectively, than those fed the control diet (p = 0.030).",
+    "The breast muscle yield of broilers fed with 24 mg/kg octacosanol diet increased significantly by 12.15% compared with those fed the control diet (p = 0.047).",
+    "Broilers fed with 24 or 36 mg/kg octacosanol diet had a greater (p = 0.021) pH45min value in the breast muscle, which was maintained linearly in response to dietary octacosanol supplementation (p = 0.003).",
+    "Dietary supplementation of octacosanol at 24 mg/kg diet is regarded as the recommended dosage in the broilers' diet."
+  ],
+  "prod_predict": [
+    [
+      0
+    ],
+    [
+      1
+    ],
+    [
+      1
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "sentence0": {
+    "sentece_text": "Although the S. lavendulae DDL was competitively inhibited by DCS, the K(i) value (920 microM) was obviously higher (40 approximately 100-fold) than those for E. coli DdlA (9 microM) or DdlB (27 microM).",
+    "PRO": [
+      {
+        "chem": "DCS",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "920 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DCS",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "9 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DCS",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "27 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DdlB",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "920 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DdlB",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "9 microM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "DdlB",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "27 microM",
+        "prodpos": [
+          "40",
+          "42"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

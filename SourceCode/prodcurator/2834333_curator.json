@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "The enzyme possessed a Km for urea of 9.3 mM and hydrolyzed urea at a Vmax of 7,100 mumol/min per mg.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "urea",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "9.3 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "urea",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "9.3 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

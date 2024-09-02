@@ -1,0 +1,149 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Healthy callus cultures were obtained in the slightly modified Murashige and <span id=\"chem\">Skoog's medium</span> +<span id=\"chem\">NAA</span> and <span id=\"chem\">BAP</span> (<span id=\"titer\">0.03 mg/L</span> and <span id=\"titer\">0.2 mg/L</span> respectively) + <span id=\"chem\">Sucrose</span> 20 gm/L +<span id=\"chem\">Agar</span> 8 gm/L within 28 days of inoculation.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Skoog's medium",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ]
+      },
+      {
+        "chem": "Skoog's medium",
+        "chempos": [
+          "11",
+          "14"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ]
+      },
+      {
+        "chem": "NAA",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ]
+      },
+      {
+        "chem": "NAA",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ]
+      },
+      {
+        "chem": "BAP",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ]
+      },
+      {
+        "chem": "BAP",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ]
+      },
+      {
+        "chem": "Sucrose",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ]
+      },
+      {
+        "chem": "Sucrose",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ]
+      },
+      {
+        "chem": "Agar",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "0.03 mg/L",
+        "prodpos": [
+          "19",
+          "23"
+        ]
+      },
+      {
+        "chem": "Agar",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "0.2 mg/L",
+        "prodpos": [
+          "24",
+          "28"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Healthy callus cultures were obtained in the slightly modified Murashige and Skoog's medium +NAA and BAP (0.03 and 0.2 mg/L respectively) + Sucrose 20 gm/L +Agar 8 gm/L within 28 days of inoculation."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

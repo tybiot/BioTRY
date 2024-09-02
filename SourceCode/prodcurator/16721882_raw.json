@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Therefore, efforts have been made to screen five dominant diazotrophic cyanobacterial forms e.g. filamentous heterocystous Nostoc punctiforme , Nostoc calcicola , Anabaena variabilis and unicellular Gloeocapsa sp. and Aphanocapsa sp. along with standard laboratory strain Nostoc muscorum ISU against increasing concentrations (<span id=\"titer\">0-100 mg/L</span> of four commercial grade common rice-field herbicides i.e. <span id=\"chem\">Arozin</span>, <span id=\"chem\">Butachlor</span>, <span id=\"chem\">Alachlor</span> and <span id=\"chem\">2,4-D</span> under diazotrophic growth conditions.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Arozin",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "0-100 mg/L",
+        "prodpos": [
+          "45",
+          "51"
+        ]
+      },
+      {
+        "chem": "Butachlor",
+        "chempos": [
+          "63",
+          "64"
+        ],
+        "prod": "0-100 mg/L",
+        "prodpos": [
+          "45",
+          "51"
+        ]
+      },
+      {
+        "chem": "Alachlor",
+        "chempos": [
+          "65",
+          "66"
+        ],
+        "prod": "0-100 mg/L",
+        "prodpos": [
+          "45",
+          "51"
+        ]
+      },
+      {
+        "chem": "2,4-D",
+        "chempos": [
+          "67",
+          "68"
+        ],
+        "prod": "0-100 mg/L",
+        "prodpos": [
+          "45",
+          "51"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Therefore, efforts have been made to screen five dominant diazotrophic cyanobacterial forms e.g. filamentous heterocystous Nostoc punctiforme , Nostoc calcicola , Anabaena variabilis and unicellular Gloeocapsa sp. and Aphanocapsa sp. along with standard laboratory strain Nostoc muscorum ISU against increasing concentrations (0-100 mg/L of four commercial grade common rice-field herbicides i.e. Arozin, Butachlor, Alachlor and 2,4-D under diazotrophic growth conditions."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

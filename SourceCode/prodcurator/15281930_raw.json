@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">For example, 9C can be cultured over a wide range of temperature, pH and <span id=\"chem\">salt</span> concentration, and showed high <span id=\"chem\">H2</span> production (up to <span id=\"titer\">67.7 nmol</span> <span id=\"chem\">H2</span>/h 10(10) cell(-1)).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "salt",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "67.7 nmol",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "67.7 nmol",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "H2",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "67.7 nmol",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "For example, 9C can be cultured over a wide range of temperature, pH and salt concentration, and showed high H2 production (up to 67.7 nmol H2/h 10(10) cell(-1))."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      1
+    ]
+  ]
+}

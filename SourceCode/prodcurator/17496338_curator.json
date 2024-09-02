@@ -1,0 +1,646 @@
+{
+  "sentence0": {
+    "sentece_text": "For this purpose, we used media containing glucose (4.3-6.5 g/L), xylose (60.1-92.1 g/L), or arabinose (5.9-9.2 g/L), or binary or ternary mixtures of them in either the presence or absence of typical inhibitors of acidic hydrolysates, such as furfural (1.0-5.0 g/L), hydroxymethylfurfural (0.01- 0.30 g/L), acetic acid (0.5-3.0 g/L), and vanillin (0.5-3.0 g/L).",
+    "PRO": [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "4.3-6.5 g/L",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "60.1-92.1 g/L",
+        "prodpos": [
+          "20",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "5.9-9.2 g/L",
+        "prodpos": [
+          "31",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "1.0-5.0 g/L",
+        "prodpos": [
+          "63",
+          "69"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "0.30 g/L",
+        "prodpos": [
+          "74",
+          "78"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "83",
+          "89"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "94",
+          "100"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "4.3-6.5 g/L",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "60.1-92.1 g/L",
+        "prodpos": [
+          "20",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "5.9-9.2 g/L",
+        "prodpos": [
+          "31",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "1.0-5.0 g/L",
+        "prodpos": [
+          "63",
+          "69"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "0.30 g/L",
+        "prodpos": [
+          "74",
+          "78"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "83",
+          "89"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "94",
+          "100"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "arabinose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "4.3-6.5 g/L",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "arabinose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "60.1-92.1 g/L",
+        "prodpos": [
+          "20",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "arabinose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1.0-5.0 g/L",
+        "prodpos": [
+          "63",
+          "69"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "arabinose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.30 g/L",
+        "prodpos": [
+          "74",
+          "78"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "arabinose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "83",
+          "89"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "arabinose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "94",
+          "100"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "furfural",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "4.3-6.5 g/L",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "furfural",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "60.1-92.1 g/L",
+        "prodpos": [
+          "20",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "furfural",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "5.9-9.2 g/L",
+        "prodpos": [
+          "31",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "furfural",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "1.0-5.0 g/L",
+        "prodpos": [
+          "63",
+          "69"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "furfural",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "0.30 g/L",
+        "prodpos": [
+          "74",
+          "78"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "furfural",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "83",
+          "89"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "furfural",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "94",
+          "100"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydroxymethylfurfural",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "4.3-6.5 g/L",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydroxymethylfurfural",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "60.1-92.1 g/L",
+        "prodpos": [
+          "20",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydroxymethylfurfural",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "5.9-9.2 g/L",
+        "prodpos": [
+          "31",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydroxymethylfurfural",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "1.0-5.0 g/L",
+        "prodpos": [
+          "63",
+          "69"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydroxymethylfurfural",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "83",
+          "89"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydroxymethylfurfural",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "94",
+          "100"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "80",
+          "82"
+        ],
+        "prod": "4.3-6.5 g/L",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "80",
+          "82"
+        ],
+        "prod": "60.1-92.1 g/L",
+        "prodpos": [
+          "20",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "80",
+          "82"
+        ],
+        "prod": "5.9-9.2 g/L",
+        "prodpos": [
+          "31",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "80",
+          "82"
+        ],
+        "prod": "1.0-5.0 g/L",
+        "prodpos": [
+          "63",
+          "69"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "80",
+          "82"
+        ],
+        "prod": "0.30 g/L",
+        "prodpos": [
+          "74",
+          "78"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "80",
+          "82"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "94",
+          "100"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "vanillin",
+        "chempos": [
+          "92",
+          "93"
+        ],
+        "prod": "4.3-6.5 g/L",
+        "prodpos": [
+          "10",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "vanillin",
+        "chempos": [
+          "92",
+          "93"
+        ],
+        "prod": "60.1-92.1 g/L",
+        "prodpos": [
+          "20",
+          "26"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "vanillin",
+        "chempos": [
+          "92",
+          "93"
+        ],
+        "prod": "5.9-9.2 g/L",
+        "prodpos": [
+          "31",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "vanillin",
+        "chempos": [
+          "92",
+          "93"
+        ],
+        "prod": "1.0-5.0 g/L",
+        "prodpos": [
+          "63",
+          "69"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "vanillin",
+        "chempos": [
+          "92",
+          "93"
+        ],
+        "prod": "0.30 g/L",
+        "prodpos": [
+          "74",
+          "78"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "vanillin",
+        "chempos": [
+          "92",
+          "93"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "83",
+          "89"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "arabinose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "5.9-9.2 g/L",
+        "prodpos": [
+          "31",
+          "37"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "hydroxymethylfurfural",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "0.30 g/L",
+        "prodpos": [
+          "74",
+          "78"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "80",
+          "82"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "83",
+          "89"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "vanillin",
+        "chempos": [
+          "92",
+          "93"
+        ],
+        "prod": "0.5-3.0 g/L",
+        "prodpos": [
+          "94",
+          "100"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

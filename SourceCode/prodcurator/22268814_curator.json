@@ -1,0 +1,164 @@
+{
+  "sentence0": {
+    "sentece_text": "A quadratic response model was constructed through RSM designs, leading to a 57 5% increase of the growth-associated biosurfactant production by Acinetobacter sp. YC-X 2 with an optimized medium: beef extract 3 12 g/L ; peptone 20 87 g/L ; NaCl 1 04 g/L; and n-hexadecane 1 86 g/L .",
+    "PRO": [
+      {
+        "chem": "beef extract",
+        "chempos": [
+          "37",
+          "39"
+        ],
+        "prod": "3 12 g/L",
+        "prodpos": [
+          "39",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "beef extract",
+        "chempos": [
+          "37",
+          "39"
+        ],
+        "prod": "20 87 g/L",
+        "prodpos": [
+          "46",
+          "51"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "beef extract",
+        "chempos": [
+          "37",
+          "39"
+        ],
+        "prod": "1 04 g/L",
+        "prodpos": [
+          "53",
+          "58"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "beef extract",
+        "chempos": [
+          "37",
+          "39"
+        ],
+        "prod": "1 86 g/L",
+        "prodpos": [
+          "63",
+          "68"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "3 12 g/L",
+        "prodpos": [
+          "39",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "20 87 g/L",
+        "prodpos": [
+          "46",
+          "51"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1 04 g/L",
+        "prodpos": [
+          "53",
+          "58"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1 86 g/L",
+        "prodpos": [
+          "63",
+          "68"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "60",
+          "63"
+        ],
+        "prod": "3 12 g/L",
+        "prodpos": [
+          "39",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "60",
+          "63"
+        ],
+        "prod": "20 87 g/L",
+        "prodpos": [
+          "46",
+          "51"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "60",
+          "63"
+        ],
+        "prod": "1 04 g/L",
+        "prodpos": [
+          "53",
+          "58"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "n-hexadecane",
+        "chempos": [
+          "60",
+          "63"
+        ],
+        "prod": "1 86 g/L",
+        "prodpos": [
+          "63",
+          "68"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

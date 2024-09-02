@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">When the cultivation temperature of recombinant E. coli strains was lowered to 25 degrees C and the <span id=\"chem\">isopropyl-beta-d-thiogalactopyranoside</span> (<span id=\"chem\">IPTG</span>) concentration used for induction was decreased to as low as <span id=\"titer\">0.02 mM</span>, a total of about 33 mg of recombinant GDE can be isolated from a liter culture as estimated by amylo-1,6-glucosidase activity.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "isopropyl-beta-d-thiogalactopyranoside",
+        "chempos": [
+          "17",
+          "24"
+        ],
+        "prod": "0.02 mM",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      },
+      {
+        "chem": "IPTG",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.02 mM",
+        "prodpos": [
+          "37",
+          "39"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "When the cultivation temperature of recombinant E. coli strains was lowered to 25 degrees C and the isopropyl-beta-d-thiogalactopyranoside (IPTG) concentration used for induction was decreased to as low as 0.02 mM, a total of about 33 mg of recombinant GDE can be isolated from a liter culture as estimated by amylo-1,6-glucosidase activity."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1
+    ]
+  ]
+}

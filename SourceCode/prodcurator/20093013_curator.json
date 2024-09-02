@@ -1,0 +1,61 @@
+{
+  "sentence0": {
+    "sentece_text": "Inocula from diverse locations were tested for their ability to reduce nitrate and perchlorate in synthetic ion exchange spent brine (45 g/l NaCl) using H(2)-based MBfRs.",
+    "PRO": [
+      {
+        "chem": "nitrate",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "45 g/l",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "perchlorate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "45 g/l",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "brine",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "45 g/l",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "45 g/l",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

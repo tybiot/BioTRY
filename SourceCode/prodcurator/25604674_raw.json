@@ -1,0 +1,157 @@
+{
+  "sentences": [
+    "Sentence 1: <div id_class=\"result-body\">Under the above conditions, the extraction yields of <span id=\"chem\">echinacoside</span> and <span id=\"chem\">acteoside</span> (the main components of <span id=\"chem\">phenylethanoid glycosides</span>) reached <span id=\"yields\">5.35 mg/g</span> and <span id=\"yields\">6.22 mg/g</span> dry material weight, respectively.</div>",
+    "Sentence 2: <div id_class=\"result-body\">The contents of <span id=\"chem\">echinacoside</span> and <span id=\"chem\">acteoside</span> in the extracts reached <span id=\"yields\">27.56 mg/g</span> and <span id=\"yields\">30.23 mg/g</span>, respectively, which were 2.46- and 2.58-fold higher than the amounts obtained in ultrasound-assisted extraction.</div>"
+  ],
+  "id": [
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "echinacoside",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "5.35 mg/g",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "echinacoside",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "6.22 mg/g",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      },
+      {
+        "chem": "acteoside",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "5.35 mg/g",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "acteoside",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "6.22 mg/g",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      },
+      {
+        "chem": "phenylethanoid glycosides",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "5.35 mg/g",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "phenylethanoid glycosides",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "6.22 mg/g",
+        "prodpos": [
+          "26",
+          "30"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "echinacoside",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "27.56 mg/g",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "echinacoside",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "30.23 mg/g",
+        "prodpos": [
+          "15",
+          "19"
+        ]
+      },
+      {
+        "chem": "acteoside",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "27.56 mg/g",
+        "prodpos": [
+          "10",
+          "14"
+        ]
+      },
+      {
+        "chem": "acteoside",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "30.23 mg/g",
+        "prodpos": [
+          "15",
+          "19"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The optimal conditions were as follows: a salt concentration of 23.5%, an ethanol concentration of 20%, an extraction time of 37 min, an extraction temperature of 30 C, a liquid/solid ratio of 30:1 w/w, and an ultrasound power of 300 W .",
+    "Under the above conditions, the extraction yields of echinacoside and acteoside (the main components of phenylethanoid glycosides) reached 5.35 and 6.22 mg/g dry material weight, respectively.",
+    "The contents of echinacoside and acteoside in the extracts reached 27.56 and 30.23 mg/g, respectively, which were 2.46- and 2.58-fold higher than the amounts obtained in ultrasound-assisted extraction."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0
+    ]
+  ]
+}

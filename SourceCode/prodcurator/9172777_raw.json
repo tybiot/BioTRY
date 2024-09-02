@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Selective solubilization of the protein using <span id=\"titer\">5 M</span> <span id=\"chem\">urea</span> followed by dialysis, MonoQ FPLC, and Superdex-75 FPLC yielded electrophoretically pure Ubc7 protein.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "urea",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "5 M",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Selective solubilization of the protein using 5 M urea followed by dialysis, MonoQ FPLC, and Superdex-75 FPLC yielded electrophoretically pure Ubc7 protein."
+  ],
+  "prod_predict": [
+    [
+      0
+    ]
+  ]
+}

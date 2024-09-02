@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">At pH 7.4, the apparent K(M) for <span id=\"chem\">O-acetyl-L-serine</span> (<span id=\"chem\">OAS</span>) and <span id=\"chem\">sulfide</span> were <span id=\"titer\">0.6 mM</span> and <span id=\"titer\">6.7 mM</span>, respectively.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "O-acetyl-L-serine",
+        "chempos": [
+          "9",
+          "16"
+        ],
+        "prod": "0.6 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "O-acetyl-L-serine",
+        "chempos": [
+          "9",
+          "16"
+        ],
+        "prod": "6.7 mM",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "OAS",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0.6 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "OAS",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "6.7 mM",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      },
+      {
+        "chem": "sulfide",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.6 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "sulfide",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "6.7 mM",
+        "prodpos": [
+          "25",
+          "27"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "At pH 7.4, the apparent K(M) for O-acetyl-L-serine (OAS) and sulfide were 0.6 and 6.7 mM, respectively."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

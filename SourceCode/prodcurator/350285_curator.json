@@ -1,0 +1,35 @@
+{
+  "sentence0": {
+    "sentece_text": "The enzyme had a pH optimum of 6.3, Km 50 micron with p-nitrophenyl-alpha-D-mannopyranoside, and was competitively inhibited by D-mannose (Ki 20 mM).",
+    "PRO": [
+      {
+        "chem": "p-nitrophenyl-alpha-D-mannopyranoside",
+        "chempos": [
+          "13",
+          "22"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "D-mannose",
+        "chempos": [
+          "28",
+          "31"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "33",
+          "35"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "sentence0": {
+    "sentece_text": "A culture of Saccharomyces cerevisiae M30 entrapped in loofa-reinforced alginate was used for continuous ethanol fermentation in a packed-bed reactor with initial sugar concentrations of 200-248 g/L .",
+    "PRO": [
+      {
+        "chem": "alginate",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "200-248 g/L",
+        "prodpos": [
+          "29",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "200-248 g/L",
+        "prodpos": [
+          "29",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "200-248 g/L",
+        "prodpos": [
+          "29",
+          "35"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Maximum ethanol productivity of 11.5 g/L/h was obtained at an ethanol concentration of 57.4 g/L, an initial sugar concentration of 220 g/L and a dilution rate (D) of 0.2/h.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "11.5 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "57.4 g/L",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "11.5 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "57.4 g/L",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "11.5 g/L",
+        "prodpos": [
+          "4",
+          "8"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "57.4 g/L",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "220 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "220 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "220 g/L",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "However, a maximum ethanol concentration of 82.1 g/L (productivity of 9.0 g/L/h) was obtained at a D of 0.11/h.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "82.1 g/L",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "9.0 g/L",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

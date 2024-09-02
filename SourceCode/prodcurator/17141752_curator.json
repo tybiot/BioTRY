@@ -1,0 +1,828 @@
+{
+  "sentence0": {
+    "sentece_text": "The following CPA mixtures were evaluated: (1) 0.45M trehalose and 0, 0.64, 1.02 and 1.53 M dimethyl sulfoxide (Me(2)SO); (2) 0.2M glucose and 2M Me(2)SO and (3) 1.31 M propylene glycol (PG).",
+    "PRO": [
+      {
+        "chem": "CPA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "trehalose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "trehalose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "trehalose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "trehalose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dimethyl sulfoxide",
+        "chempos": [
+          "22",
+          "24"
+        ],
+        "prod": "0.45M",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dimethyl sulfoxide",
+        "chempos": [
+          "22",
+          "24"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dimethyl sulfoxide",
+        "chempos": [
+          "22",
+          "24"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "dimethyl sulfoxide",
+        "chempos": [
+          "22",
+          "24"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.45M",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "0.45M",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "33",
+          "34"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "0.45M",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propylene glycol",
+        "chempos": [
+          "44",
+          "46"
+        ],
+        "prod": "0.45M",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propylene glycol",
+        "chempos": [
+          "44",
+          "46"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propylene glycol",
+        "chempos": [
+          "44",
+          "46"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "propylene glycol",
+        "chempos": [
+          "44",
+          "46"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PG",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "0.45M",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PG",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PG",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PG",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PG",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "CPA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.45M",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "trehalose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.45M",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "dimethyl sulfoxide",
+        "chempos": [
+          "22",
+          "24"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "20",
+          "22"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "31",
+          "33"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "propylene glycol",
+        "chempos": [
+          "44",
+          "46"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "42",
+          "44"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "This study showed that total motility was best retained when spermatozoa were cryopreserved in 0.45 M trehalose and 0, 0.64, 1.02 or 1.53 M Me(2)SO and frozen using slow to medium-rapid cooling rates (2.1-5.2 degrees Cmin(-1)).",
+    "PRO": [
+      {
+        "chem": "trehalose",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "0.45 M",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "trehalose",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "0.45 M",
+        "prodpos": [
+          "14",
+          "16"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "1.53 M",
+        "prodpos": [
+          "24",
+          "26"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Rapid freezing through direct plunging of spermatozoa into liquid nitrogen resulted in the lowest overall retention of motility regardless of the CPA additive; however, CPA mixture also influenced retention of motility, with 0.2M glucose in 2M Me(2)SO and 1.31 M PG retaining the lowest levels of motility for the CPAs evaluated.",
+    "PRO": [
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrogen",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "CPA",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "37",
+          "38"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Me(2)SO",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PG",
+        "chempos": [
+          "45",
+          "46"
+        ],
+        "prod": "0.2M",
+        "prodpos": [
+          "35",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PG",
+        "chempos": [
+          "45",
+          "46"
+        ],
+        "prod": "2M",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "PG",
+        "chempos": [
+          "45",
+          "46"
+        ],
+        "prod": "1.31 M",
+        "prodpos": [
+          "43",
+          "45"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

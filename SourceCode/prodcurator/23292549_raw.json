@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">When cultivated in the presence of <span id=\"titer\">50 mM</span> <span id=\"chem\">aspartate</span>, the <span id=\"chem\">biomass</span> of cells increased 65.8 % compared with the control (without <span id=\"chem\">aspartate</span> addition).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "aspartate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "chem": "biomass",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      },
+      {
+        "chem": "aspartate",
+        "chempos": [
+          "23",
+          "24"
+        ],
+        "prod": "50 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "When cultivated in the presence of 50 mM aspartate, the biomass of cells increased 65.8 % compared with the control (without aspartate addition)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0
+    ]
+  ]
+}

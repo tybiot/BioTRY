@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Net tubular excretion of <span id=\"chem\">phenol red</span> reached a maximal value of 8 mumole/min at a plasma concentration of ultrafiltrable <span id=\"chem\">dye</span> of about <span id=\"titer\">0.1 mM</span> and was decreased at higher plasma concentrations.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "phenol red",
+        "chempos": [
+          "4",
+          "6"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      },
+      {
+        "chem": "dye",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "0.1 mM",
+        "prodpos": [
+          "24",
+          "26"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Net tubular excretion of phenol red reached a maximal value of 8 mumole/min at a plasma concentration of ultrafiltrable dye of about 0.1 mM and was decreased at higher plasma concentrations."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ]
+  ]
+}

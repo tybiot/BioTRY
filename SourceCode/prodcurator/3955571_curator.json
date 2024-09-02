@@ -1,0 +1,165 @@
+{
+  "sentence0": {
+    "sentece_text": "As little as 0.2mM added alpha-D-glucose (0.4mM alpha-D-xylose) substantially increased the rate of enzymically catalyzed release of fluoride from 25mM beta-D-glucosyl fluoride at 0 degrees.",
+    "PRO": [
+      {
+        "chem": "alpha-D-glucose",
+        "chempos": [
+          "5",
+          "10"
+        ],
+        "prod": "0.2mM",
+        "prodpos": [
+          "3",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "alpha-D-glucose",
+        "chempos": [
+          "5",
+          "10"
+        ],
+        "prod": "25mM",
+        "prodpos": [
+          "29",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "alpha-D-xylose",
+        "chempos": [
+          "12",
+          "17"
+        ],
+        "prod": "0.2mM",
+        "prodpos": [
+          "3",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "alpha-D-xylose",
+        "chempos": [
+          "12",
+          "17"
+        ],
+        "prod": "25mM",
+        "prodpos": [
+          "29",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fluoride",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.2mM",
+        "prodpos": [
+          "3",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fluoride",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "0.4mM",
+        "prodpos": [
+          "11",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fluoride",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "25mM",
+        "prodpos": [
+          "29",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "beta-D-glucosyl fluoride",
+        "chempos": [
+          "30",
+          "36"
+        ],
+        "prod": "0.2mM",
+        "prodpos": [
+          "3",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "beta-D-glucosyl fluoride",
+        "chempos": [
+          "30",
+          "36"
+        ],
+        "prod": "0.4mM",
+        "prodpos": [
+          "11",
+          "12"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "alpha-D-glucose",
+        "chempos": [
+          "5",
+          "10"
+        ],
+        "prod": "0.4mM",
+        "prodpos": [
+          "11",
+          "12"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "alpha-D-xylose",
+        "chempos": [
+          "12",
+          "17"
+        ],
+        "prod": "0.4mM",
+        "prodpos": [
+          "11",
+          "12"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "beta-D-glucosyl fluoride",
+        "chempos": [
+          "30",
+          "36"
+        ],
+        "prod": "25mM",
+        "prodpos": [
+          "29",
+          "30"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

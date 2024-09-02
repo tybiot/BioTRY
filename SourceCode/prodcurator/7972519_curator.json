@@ -1,0 +1,204 @@
+{
+  "sentence0": {
+    "sentece_text": "The Vmax (45 nmol min-1mg-1), the apparent K(M) for chorismate (180 microM), and the feedback inhibition by Trp (complete inhibition by 10 microM Trp) of the purified fusion product (GST-ASA1) were comparable to anthranilate synthase purified from plants.",
+    "PRO": [
+      {
+        "chem": "chorismate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "chorismate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "GST",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "GST",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "GST",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "anthranilate",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "45 nmol",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "anthranilate",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "anthranilate",
+        "chempos": [
+          "46",
+          "47"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "chorismate",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "180 microM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Trp",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "29",
+          "31"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

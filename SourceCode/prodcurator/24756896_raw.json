@@ -1,0 +1,104 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">A two-liquid phase fed-batch fermentation with <span id=\"chem\">glucose</span> as the sole <span id=\"chem\">carbon</span> and energy source resulted in the formation of <span id=\"titer\">700 mg /L</span> <span id=\"chem\">(S)-limonene</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">The use of <span id=\"chem\">glycerol</span> as a <span id=\"chem\">carbon</span> source resulted in a prolonged growth and production phase (specific activities of &gt;=50 mU g(cdw) (-1) ) leading to a final <span id=\"chem\">(S)-limonene</span> concentration of <span id=\"titer\">2,700 mg /L</span> .</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "700 mg /L",
+        "prodpos": [
+          "23",
+          "26"
+        ]
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "700 mg /L",
+        "prodpos": [
+          "23",
+          "26"
+        ]
+      },
+      {
+        "chem": "(S)-limonene",
+        "chempos": [
+          "26",
+          "28"
+        ],
+        "prod": "700 mg /L",
+        "prodpos": [
+          "23",
+          "26"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "2,700 mg /L",
+        "prodpos": [
+          "38",
+          "41"
+        ]
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "2,700 mg /L",
+        "prodpos": [
+          "38",
+          "41"
+        ]
+      },
+      {
+        "chem": "(S)-limonene",
+        "chempos": [
+          "34",
+          "36"
+        ],
+        "prod": "2,700 mg /L",
+        "prodpos": [
+          "38",
+          "41"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "A two-liquid phase fed-batch fermentation with glucose as the sole carbon and energy source resulted in the formation of 700 mg /L (S)-limonene.",
+    "The use of glycerol as a carbon source resulted in a prolonged growth and production phase (specific activities of >=50 mU g(cdw) (-1) ) leading to a final (S)-limonene concentration of 2,700 mg /L ."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ]
+}

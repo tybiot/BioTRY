@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "This improved labeling scheme increases the sensitivity of the relaxation experiments by approximately fivefold when compared to randomly fractionally 13C-labeled protein, allowing high-quality measurements on relatively dilute (&lt; 1 mM) protein samples at a relatively low cost.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "13C",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "36",
+          "38"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

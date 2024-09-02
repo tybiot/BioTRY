@@ -1,0 +1,225 @@
+{
+  "sentence0": {
+    "sentece_text": "Amiloride (0.5 mM) inhibited the rate of entry of Na+ into corneal endothelial cells by more than half ((0.76 +/- 0.10) to (0.21 +/- 0.10) microEq cm(-2)h(-1)).",
+    "PRO": [
+      {
+        "chem": "Na+",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Amiloride",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Amiloride (0.5 mM) and acetazolamide (1 mM) reversibly inhibited trans-endothelial short circuit current by about a half.",
+    "PRO": [
+      {
+        "chem": "Amiloride",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetazolamide",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Amiloride",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "acetazolamide",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Acetazolamide (1 mM) reduced net HCO3- flux across the short-circuited endothelium by about the same amount ((0.50 +/- 0.11) microEq cm(-2)h(-1)) that amiloride (0.5 mM) reduced Na+ entry into the cells ((0.55 +/- 0.14) microEq cm(-2)h(-1)).",
+    "PRO": [
+      {
+        "chem": "Acetazolamide",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "amiloride",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Na+",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Na+",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Acetazolamide",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "amiloride",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.5 mM",
+        "prodpos": [
+          "34",
+          "36"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence3": {
+    "sentece_text": "Low concentrations of amiloride (10 microM) had little effect on the transport characteristics of the endothelium, indicating that Na+ entry into the endothelial cells under physiological conditions is not primarily through Na+ channels.",
+    "PRO": [
+      {
+        "chem": "Na+",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Na+",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "amiloride",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "5",
+          "7"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

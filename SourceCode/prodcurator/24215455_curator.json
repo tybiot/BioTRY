@@ -1,0 +1,34 @@
+{
+  "sentence0": {
+    "sentece_text": "The ligand-bound aptamer structure is essentially the same in cells and in buffer at 1 mM Mg(2+), the approximate Mg(2+) concentration we measured in cells.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Mg(2+)",
+        "chempos": [
+          "18",
+          "21"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Mg(2+)",
+        "chempos": [
+          "24",
+          "27"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

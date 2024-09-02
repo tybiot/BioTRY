@@ -1,0 +1,67 @@
+{
+  "sentence0": {
+    "sentece_text": "The corresponding maximal stimulation (% of basal value) observed after 20 min incubation in the presence of 100 microM CCh was 160 +/- 15%.",
+    "PRO": [
+      {
+        "chem": "CCh",
+        "chempos": [
+          "21",
+          "22"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "19",
+          "21"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "CCh-induced IP accumulation was abolished by atropine (Ki = 0.32 +/- 0.18 nM (n = 3)).",
+    "PRO": [
+      {
+        "chem": "CCh",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.18 nM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "IP",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "0.18 nM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "atropine",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "0.18 nM",
+        "prodpos": [
+          "15",
+          "17"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

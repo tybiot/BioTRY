@@ -1,0 +1,496 @@
+{
+  "sentence0": {
+    "sentece_text": "Fed-batch fermentations of PALFK with low- and medium-density (OD600 of 0.4 and 9.0, respectively) inocula produced 69.2 and 78.4 g/L of homo-SA with yields of 1.56 and 1.64 mol/mol glucose equivalent and overall volumetric SA productivities of 2.50 and 6.02 g/L/h, respectively, using sucrose and glycerol as dual carbon sources.",
+    "PRO": [
+      {
+        "chem": "homo-SA",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "69.2 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "homo-SA",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "78.4 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "homo-SA",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "1.56 mol/mol",
+        "prodpos": [
+          "39",
+          "43"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "homo-SA",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "1.64 mol/mol",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "69.2 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "78.4 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "1.56 mol/mol",
+        "prodpos": [
+          "39",
+          "43"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "1.64 mol/mol",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "2.50 g/L",
+        "prodpos": [
+          "56",
+          "60"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "6.02 g/L",
+        "prodpos": [
+          "61",
+          "65"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SA",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "69.2 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SA",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "78.4 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SA",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "1.56 mol/mol",
+        "prodpos": [
+          "39",
+          "43"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SA",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "1.64 mol/mol",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "69.2 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "78.4 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "1.56 mol/mol",
+        "prodpos": [
+          "39",
+          "43"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "1.64 mol/mol",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "2.50 g/L",
+        "prodpos": [
+          "56",
+          "60"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "71",
+          "72"
+        ],
+        "prod": "6.02 g/L",
+        "prodpos": [
+          "61",
+          "65"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "69.2 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "78.4 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "1.56 mol/mol",
+        "prodpos": [
+          "39",
+          "43"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "1.64 mol/mol",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "2.50 g/L",
+        "prodpos": [
+          "56",
+          "60"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "73",
+          "74"
+        ],
+        "prod": "6.02 g/L",
+        "prodpos": [
+          "61",
+          "65"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "76",
+          "77"
+        ],
+        "prod": "69.2 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "76",
+          "77"
+        ],
+        "prod": "78.4 g/L",
+        "prodpos": [
+          "28",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "76",
+          "77"
+        ],
+        "prod": "1.56 mol/mol",
+        "prodpos": [
+          "39",
+          "43"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "76",
+          "77"
+        ],
+        "prod": "1.64 mol/mol",
+        "prodpos": [
+          "44",
+          "48"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "76",
+          "77"
+        ],
+        "prod": "2.50 g/L",
+        "prodpos": [
+          "56",
+          "60"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbon",
+        "chempos": [
+          "76",
+          "77"
+        ],
+        "prod": "6.02 g/L",
+        "prodpos": [
+          "61",
+          "65"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "homo-SA",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "2.50 g/L",
+        "prodpos": [
+          "56",
+          "60"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "homo-SA",
+        "chempos": [
+          "33",
+          "36"
+        ],
+        "prod": "6.02 g/L",
+        "prodpos": [
+          "61",
+          "65"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "SA",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "2.50 g/L",
+        "prodpos": [
+          "56",
+          "60"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SA",
+        "chempos": [
+          "53",
+          "54"
+        ],
+        "prod": "6.02 g/L",
+        "prodpos": [
+          "61",
+          "65"
+        ],
+        "prod_lable": 0
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The SA productivity could be further increased to 38.6 g/L/h by employing a membrane cell recycle bioreactor system.",
+    "PRO": [
+      {
+        "chem": "SA",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "38.6 g/L",
+        "prodpos": [
+          "8",
+          "12"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "sentence0": {
+    "sentece_text": "In planta, 82% of group 1 strains and 25% of group 2 strains produced high levels (100-1500 microg/g) of moniliformin.",
+    "PRO": [
+      {
+        "chem": "moniliformin",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "100-1500 microg/g",
+        "prodpos": [
+          "20",
+          "26"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "All group 2 strains from more northern states produced little or no moniliformin (0-5 microg/g).",
+    "PRO": [
+      {
+        "chem": "moniliformin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0-5 microg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

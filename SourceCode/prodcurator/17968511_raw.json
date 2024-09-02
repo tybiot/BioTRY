@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">When exposed to <span id=\"titer\">200 mM</span> <span id=\"chem\">NaCl</span>, the dual gene-transformed plants displayed greater accumulation of <span id=\"chem\">betaine</span> and <span id=\"chem\">Na(+)</span> than their wild-type counterparts.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "200 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "betaine",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "200 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "chem": "Na(+)",
+        "chempos": [
+          "19",
+          "21"
+        ],
+        "prod": "200 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "When exposed to 200 mM NaCl, the dual gene-transformed plants displayed greater accumulation of betaine and Na(+) than their wild-type counterparts."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0
+    ]
+  ]
+}

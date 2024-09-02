@@ -1,0 +1,146 @@
+{
+  "sentence0": {
+    "sentece_text": "Although less than 2 mM ALA increased porphyrin synthesis, ALA levels above 3 mM inhibited the synthesis.",
+    "PRO": [
+      {
+        "chem": "ALA",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "3 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "porphyrin",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ALA",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ALA",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "3 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "ALA",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "2 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "porphyrin",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "3 mM",
+        "prodpos": [
+          "13",
+          "15"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The porphyrin lesion produced in low intensity light (300 lx) was considerably reduced by 100 microM M874 glycolipid, although the reduction in intense light (3,000 lx) was restricted to a lower level.",
+    "PRO": [
+      {
+        "chem": "lx",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "lx",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "porphyrin",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "M874 glycolipid",
+        "chempos": [
+          "18",
+          "20"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

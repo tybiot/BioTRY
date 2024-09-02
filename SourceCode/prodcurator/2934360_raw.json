@@ -1,0 +1,65 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Each diet was supplemented with 0 or <span id=\"yields\">100 mg/kg</span> <span id=\"chem\">niacin</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">In Exp. 2, diets were supplemented with 0 or <span id=\"yields\">100 mg/kg</span> of <span id=\"chem\">niacin</span> or <span id=\"chem\">niacinamide</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "niacin",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "100 mg/kg",
+        "prodpos": [
+          "7",
+          "11"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "niacin",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "100 mg/kg",
+        "prodpos": [
+          "11",
+          "15"
+        ]
+      },
+      {
+        "chem": "niacinamide",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "100 mg/kg",
+        "prodpos": [
+          "11",
+          "15"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Each diet was supplemented with 0 or 100 mg/kg niacin.",
+    "In Exp. 2, diets were supplemented with 0 or 100 mg/kg of niacin or niacinamide."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}

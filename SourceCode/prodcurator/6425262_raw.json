@@ -1,0 +1,78 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Carbon monoxide</span> dehydrogenase activity was inhibited 85% by <span id=\"titer\">10 microM</span> <span id=\"chem\">KCN</span> and was rapidly inactivated by <span id=\"chem\">O2</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Analysis of enzyme kinetic properties revealed an apparent Km of <span id=\"titer\">5 mM</span> for <span id=\"chem\">CO</span> and a Vmax of 1,300 U/mg of protein.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Carbon monoxide",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "KCN",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "chem": "O2",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "10 microM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "CO",
+        "chempos": [
+          "13",
+          "14"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Carbon monoxide dehydrogenase activity was inhibited 85% by 10 microM KCN and was rapidly inactivated by O2.",
+    "Analysis of enzyme kinetic properties revealed an apparent Km of 5 mM for CO and a Vmax of 1,300 U/mg of protein."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      1
+    ]
+  ]
+}

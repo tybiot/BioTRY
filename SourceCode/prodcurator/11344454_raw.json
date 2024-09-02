@@ -1,0 +1,254 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The optimum temperature was around 30 degrees C, while the most suitable substrate concentrations were <span id=\"titer\">100 mM</span> each for <span id=\"chem\">glycerol</span> and <span id=\"chem\">benzoic anhydride</span>, respectively.</div>",
+    "Sentence 1: <div id_class=\"result-body\">However, when excessive <span id=\"chem\">anhydride</span> (e.g., <span id=\"titer\">200 mM</span>) was used, the produced <span id=\"chem\">MBG</span> could be further transformed into <span id=\"chem\">1,3-dibenzoyl glycerol</span> (<span id=\"chem\">DBG</span>) by the same enzyme with a priority to <span id=\"chem\">(S)-MBG</span>, resulting in a significant improvement of the product optical purity from ca. 50-70% e.e.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Under optimal conditions (<span id=\"titer\">100 mM</span> <span id=\"chem\">glycerol</span>, <span id=\"titer\">100-200 mM</span> <span id=\"chem\">benzoic anhydride</span>, <span id=\"chem\">dioxane</span>, 25-30 degrees C), the enzymatic synthesis of (R)-MBG was successfully operated in a packed-bed reactor for about 1 week, with an average productivity of 0.79 g <span id=\"chem\">MBG</span>/day/g biocatalyst in the case of continuous operation and 0.94 g <span id=\"chem\">MBG</span>/day/g biocatalyst in the case of semicontinuous operation.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "benzoic anhydride",
+        "chempos": [
+          "22",
+          "24"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "anhydride",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "200 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "MBG",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "200 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "1,3-dibenzoyl glycerol",
+        "chempos": [
+          "22",
+          "24"
+        ],
+        "prod": "200 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "DBG",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "200 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "(S)-MBG",
+        "chempos": [
+          "35",
+          "37"
+        ],
+        "prod": "200 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "glycerol",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "100-200 mM",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "benzoic anhydride",
+        "chempos": [
+          "12",
+          "14"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "benzoic anhydride",
+        "chempos": [
+          "12",
+          "14"
+        ],
+        "prod": "100-200 mM",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "dioxane",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "dioxane",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "100-200 mM",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "MBG",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "MBG",
+        "chempos": [
+          "51",
+          "52"
+        ],
+        "prod": "100-200 mM",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      },
+      {
+        "chem": "MBG",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "100 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "MBG",
+        "chempos": [
+          "66",
+          "67"
+        ],
+        "prod": "100-200 mM",
+        "prodpos": [
+          "8",
+          "12"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The optimum temperature was around 30 degrees C, while the most suitable substrate concentrations were 100 mM each for glycerol and benzoic anhydride, respectively.",
+    "However, when excessive anhydride (e.g., 200 mM) was used, the produced MBG could be further transformed into 1,3-dibenzoyl glycerol (DBG) by the same enzyme with a priority to (S)-MBG, resulting in a significant improvement of the product optical purity from ca. 50-70% e.e.",
+    "Under optimal conditions (100 mM glycerol, 100-200 mM benzoic anhydride, dioxane, 25-30 degrees C), the enzymatic synthesis of (R)-MBG was successfully operated in a packed-bed reactor for about 1 week, with an average productivity of 0.79 g MBG/day/g biocatalyst in the case of continuous operation and 0.94 g MBG/day/g biocatalyst in the case of semicontinuous operation."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

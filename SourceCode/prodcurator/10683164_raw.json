@@ -1,0 +1,118 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In both animals, the <span id=\"chem\">SHb</span> fraction increased with increasing Hb and <span id=\"chem\">sulphide</span> concentrations up to <span id=\"titer\">100 micromol/L</span> and <span id=\"titer\">1 mmol/L</span>, respectively, and was favoured by a low pH .</div>",
+    "Sentence 2: <div id_class=\"result-body\">Within trout red blood cells, approximately 7 % of total haemoglobin was converted to <span id=\"chem\">SHb</span> during 60 min of incubation (with <span id=\"titer\">2.5 mmol/L</span> <span id=\"chem\">sulphide</span>), inducing a 20 % loss of haemoglobin <span id=\"chem\">oxygen-saturation</span>.</div>"
+  ],
+  "id": [
+    0,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "SHb",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "100 micromol/L",
+        "prodpos": [
+          "16",
+          "20"
+        ]
+      },
+      {
+        "chem": "SHb",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "1 mmol/L",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "chem": "sulphide",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "100 micromol/L",
+        "prodpos": [
+          "16",
+          "20"
+        ]
+      },
+      {
+        "chem": "sulphide",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "1 mmol/L",
+        "prodpos": [
+          "21",
+          "25"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "SHb",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "2.5 mmol/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      },
+      {
+        "chem": "sulphide",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "2.5 mmol/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      },
+      {
+        "chem": "oxygen-saturation",
+        "chempos": [
+          "37",
+          "40"
+        ],
+        "prod": "2.5 mmol/L",
+        "prodpos": [
+          "23",
+          "27"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In both animals, the SHb fraction increased with increasing Hb and sulphide concentrations up to 100 micromol/L and 1 mmol/L, respectively, and was favoured by a low pH .",
+    "An increase of temperature between 5 and 25 degrees C strongly increased SHb formation in trout haemolysate.",
+    "Within trout red blood cells, approximately 7 % of total haemoglobin was converted to SHb during 60 min of incubation (with 2.5 mmol/L sulphide), inducing a 20 % loss of haemoglobin oxygen-saturation."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      0
+    ]
+  ]
+}

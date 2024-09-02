@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "The present study investigated the effect of hyperosmotic stress, due to exposure to hypertonic environment (300 mM mannitol) for 14 days, on gluconeogenesis in this catfish.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "300 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

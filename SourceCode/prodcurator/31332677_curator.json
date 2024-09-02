@@ -1,0 +1,316 @@
+{
+  "sentence0": {
+    "sentece_text": "This mixed consortium was used as inoculum for biogas production using different concentrations of sugarcane bagasse (SCB) (from 1.58 to 4.42 g/L) and yeast extract (YE) (from 0.58 to 3.42 g/L) according to a composite central design.",
+    "PRO": [
+      {
+        "chem": "SCB",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "3.42 g/L",
+        "prodpos": [
+          "38",
+          "42"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "yeast extract",
+        "chempos": [
+          "29",
+          "31"
+        ],
+        "prod": "4.42 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "SCB",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "4.42 g/L",
+        "prodpos": [
+          "23",
+          "27"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "yeast extract",
+        "chempos": [
+          "29",
+          "31"
+        ],
+        "prod": "3.42 g/L",
+        "prodpos": [
+          "38",
+          "42"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The maximum ethanol production (20.11 mg/L) was observed using 2.0 and 3.0 g/L  of YE and SCB, respectively (C6).",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "20.11 mg/L",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "20.11 mg/L",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "2.0 g/L",
+        "prodpos": [
+          "13",
+          "17"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "3.0 g/L",
+        "prodpos": [
+          "18",
+          "22"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "2.0 g/L",
+        "prodpos": [
+          "13",
+          "17"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "3.0 g/L",
+        "prodpos": [
+          "18",
+          "22"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "Likewise, the highest hydrogen production (0.60 mmol/L) was observed using 3.0 and 4.0 g/L  of YE and SCB, respectively (C1).",
+    "PRO": [
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.60 mmol/L",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "0.60 mmol/L",
+        "prodpos": [
+          "7",
+          "11"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "3.0 g/L",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "4.0 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "3.0 g/L",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "4.0 g/L",
+        "prodpos": [
+          "20",
+          "24"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence3": {
+    "sentece_text": "Methane was also observed, reaching the maximum production (1.44 mmol/L) using 1.0 and 4.0 g/L  of YE and SCB, respectively (C2).",
+    "PRO": [
+      {
+        "chem": "Methane",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "1.44 mmol/L",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1.44 mmol/L",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "16",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "SCB",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "4.0 g/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "Methane",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "16",
+          "20"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "Methane",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "4.0 g/L",
+        "prodpos": [
+          "21",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

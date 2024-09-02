@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Rice seedlings grown under <span id=\"titer\">50 muM</span> <span id=\"chem\">cadmium</span> alone or in combination with <span id=\"titer\">5 muM</span> <span id=\"chem\">methyl jasmonate</span> were investigated for <span id=\"chem\">Cd</span>-induced oxidative injury at 3, 7 and 10 days of treatment.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "cadmium",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "50 muM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "cadmium",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "5 muM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "methyl jasmonate",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "50 muM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "methyl jasmonate",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "5 muM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "Cd",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "50 muM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "Cd",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "5 muM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Rice seedlings grown under 50 muM cadmium alone or in combination with 5 muM methyl jasmonate were investigated for Cd-induced oxidative injury at 3, 7 and 10 days of treatment."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ]
+}

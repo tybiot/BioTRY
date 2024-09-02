@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">TrwD is probably a peripheral outer membrane protein because it could be solubilized by increasing <span id=\"chem\">salt</span> concentration to <span id=\"titer\">0.5 M</span> <span id=\"chem\">NaCl</span> in the lysis buffer.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "salt",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0.5 M",
+        "prodpos": [
+          "18",
+          "20"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "TrwD is probably a peripheral outer membrane protein because it could be solubilized by increasing salt concentration to 0.5 M NaCl in the lysis buffer."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1
+    ]
+  ]
+}

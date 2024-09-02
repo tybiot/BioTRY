@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The inactivation of these genes in SBS550MG increased the <span id=\"chem\">succinate</span> yield from <span id=\"chem\">glucose</span> to about <span id=\"yields\">1.6 mol/mol</span> with an average anaerobic productivity rate of <span id=\"titer\">10 mM</span>/h (approximately <span id=\"titer\">0.64 mM</span>/h-OD600).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "succinate",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "1.6 mol/mol",
+        "prodpos": [
+          "15",
+          "19"
+        ]
+      },
+      {
+        "chem": "succinate",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "succinate",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "0.64 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "1.6 mol/mol",
+        "prodpos": [
+          "15",
+          "19"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "26",
+          "28"
+        ]
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.64 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The inactivation of these genes in SBS550MG increased the succinate yield from glucose to about 1.6 mol/mol with an average anaerobic productivity rate of 10 mM/h (approximately 0.64 mM/h-OD600)."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ]
+}

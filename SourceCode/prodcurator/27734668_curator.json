@@ -1,0 +1,93 @@
+{
+  "sentence0": {
+    "sentece_text": "The d-tagatose production at 500 g/L d-galactose by the host was 1.4-fold higher than that by Escherichia coli expressing d-GaI .",
+    "PRO": [
+      {
+        "chem": "d-galactose",
+        "chempos": [
+          "10",
+          "13"
+        ],
+        "prod": "500 g/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "d-tagatose",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "500 g/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "PICG cells, which produced 165 g/L d-tagatose after 3 h, with a conversion of 55% (w/w) and a productivity of 55 g/L/h, showed significantly higher d-tagatose productivity than that reported for other cells.",
+    "PRO": [
+      {
+        "chem": "d-tagatose",
+        "chempos": [
+          "9",
+          "12"
+        ],
+        "prod": "165 g/L",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "d-tagatose",
+        "chempos": [
+          "9",
+          "12"
+        ],
+        "prod": "55 g/L",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "d-tagatose",
+        "chempos": [
+          "41",
+          "44"
+        ],
+        "prod": "165 g/L",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "d-tagatose",
+        "chempos": [
+          "41",
+          "44"
+        ],
+        "prod": "55 g/L",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

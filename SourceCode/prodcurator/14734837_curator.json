@@ -1,0 +1,340 @@
+{
+  "sentence0": {
+    "sentece_text": "In the stirred-tank fermentor, the highest concentration of the carotenoid pigment (92.0 mg/L) was obtained at an aeration rate of 1.5 vvm and agitation speed of 60 rpm.",
+    "PRO": [
+      {
+        "chem": "carotenoid",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "92.0 mg/L",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Maximum beta-carotene concentration (360.2 mg/L) was obtained in culture grown in molasses solution containing 5% (w/v) sugar supplemented with linoleic acid (37.59 g/L), kerosene (39.11 g/L), and antioxidant (1.0 g/L).",
+    "PRO": [
+      {
+        "chem": "beta-carotene",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "molasses solution",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "molasses solution",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "molasses solution",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "molasses solution",
+        "chempos": [
+          "17",
+          "19"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "linoleic acid",
+        "chempos": [
+          "30",
+          "32"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "linoleic acid",
+        "chempos": [
+          "30",
+          "32"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "linoleic acid",
+        "chempos": [
+          "30",
+          "32"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "linoleic acid",
+        "chempos": [
+          "30",
+          "32"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "kerosene",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "antioxidant",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "360.2 mg/L",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "antioxidant",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "antioxidant",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "antioxidant",
+        "chempos": [
+          "48",
+          "49"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "beta-carotene",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "37.59 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "beta-carotene",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "39.11 g/L",
+        "prodpos": [
+          "41",
+          "45"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "beta-carotene",
+        "chempos": [
+          "1",
+          "4"
+        ],
+        "prod": "1.0 g/L",
+        "prodpos": [
+          "50",
+          "54"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

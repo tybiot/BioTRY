@@ -1,0 +1,67 @@
+{
+  "sentence0": {
+    "sentece_text": "Groups of 6 conscious rabbits were exposed to air (control) or to a high CO2 and/or low O2 atmosphere for 570 minutes, or received 47 ml/kg of 0.3N HCl by gavage.",
+    "PRO": [
+      {
+        "chem": "CO2",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "47 ml/kg",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "O2",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "47 ml/kg",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "0.3N HCl",
+        "chempos": [
+          "32",
+          "34"
+        ],
+        "prod": "47 ml/kg",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Once blood gases or pH were stabilized, they received 2.5 mg/kg theophylline intravenously.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "theophylline",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "2.5 mg/kg",
+        "prodpos": [
+          "10",
+          "14"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "sentence0": {
+    "sentece_text": "Using synthetic growth medium we were able to express in L. tarentolae and purify to homogeneity (15)N-valine labeled Enchanced Green Fluorescent Protein (EGFP) with the final yield of 5.7 mg/L of suspension culture.",
+    "PRO": [
+      {
+        "chem": "(15)N",
+        "chempos": [
+          "16",
+          "18"
+        ],
+        "prod": "5.7 mg/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "valine",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "5.7 mg/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Enchanced Green Fluorescent Protein",
+        "chempos": [
+          "21",
+          "25"
+        ],
+        "prod": "5.7 mg/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

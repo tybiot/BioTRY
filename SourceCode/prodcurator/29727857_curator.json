@@ -1,0 +1,171 @@
+{
+  "sentence0": {
+    "sentece_text": "Residual sugar levels were less than 2.6 mg/g while the shell contents and ethanol were in the range of 11-13.4% and 4.8-7 mg/g, respectively.",
+    "PRO": [
+      {
+        "chem": "sugar",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "2.6 mg/g",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "4.8-7 mg/g",
+        "prodpos": [
+          "26",
+          "32"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "4.8-7 mg/g",
+        "prodpos": [
+          "26",
+          "32"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "2.6 mg/g",
+        "prodpos": [
+          "6",
+          "10"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Beans fermented in the presence of LAB contained higher levels of lactic acid (0.6-1.2 mg/g) whereas higher concentrations of acetic acid (1.8-2.2 mg/g) were detected in beans inoculated with AAB.",
+    "PRO": [
+      {
+        "chem": "LAB",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.6-1.2 mg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "LAB",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "1.8-2.2 mg/g",
+        "prodpos": [
+          "28",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "lactic acid",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "0.6-1.2 mg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "lactic acid",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "1.8-2.2 mg/g",
+        "prodpos": [
+          "28",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "25",
+          "27"
+        ],
+        "prod": "0.6-1.2 mg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "25",
+          "27"
+        ],
+        "prod": "1.8-2.2 mg/g",
+        "prodpos": [
+          "28",
+          "34"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "AAB",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "0.6-1.2 mg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "AAB",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "1.8-2.2 mg/g",
+        "prodpos": [
+          "28",
+          "34"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

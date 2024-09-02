@@ -1,0 +1,190 @@
+{
+  "sentence0": {
+    "sentece_text": "The aza analogues inhibited recombinant ent-kaurene synthase from Arabidopsis thaliana (GST-rAtKS) with inhibition constants (IC50 = 1 x 10-7 and 1 x 10-6 M) similar in magnitude to the pseudo-binding constant of the bicyclic ent-copalyl diphosphate substrate (Km = 3 x 10-7 M).",
+    "PRO": [
+      {
+        "chem": "aza",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "aza",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "10-7 M",
+        "prodpos": [
+          "58",
+          "62"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ent-kaurene",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "ent-kaurene",
+        "chempos": [
+          "5",
+          "8"
+        ],
+        "prod": "10-7 M",
+        "prodpos": [
+          "58",
+          "62"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "bicyclic ent-copalyl diphosphate",
+        "chempos": [
+          "47",
+          "52"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "31",
+          "35"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "bicyclic ent-copalyl diphosphate",
+        "chempos": [
+          "47",
+          "52"
+        ],
+        "prod": "10-7 M",
+        "prodpos": [
+          "58",
+          "62"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Large enhancements of binding affinities (IC50 = 4 x 10-9 and 2 x 10-8 M) were observed in the presence of 1 mM pyrophosphate, which is consistent with a tightly bound ent-beyeranyl+/pyrophosphate- ion pair intermediate in the cyclization-rearrangement catalyzed by this diterpene synthase.",
+    "PRO": [
+      {
+        "chem": "pyrophosphate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "10-8 M",
+        "prodpos": [
+          "16",
+          "20"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "pyrophosphate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "diterpene",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "10-8 M",
+        "prodpos": [
+          "16",
+          "20"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "diterpene",
+        "chempos": [
+          "52",
+          "53"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "The weak inhibition (IC50 = 1 x 10-5 M) exhibited by ent-beyeran-16-exo-yl diphosphate (11) and its failure to undergo bridge rearrangement to kaurene appear to rule out the covalent diphosphate as a free intermediate.",
+    "PRO": [
+      {
+        "chem": "ent-beyeran-16-exo-yl diphosphate",
+        "chempos": [
+          "15",
+          "21"
+        ],
+        "prod": "10-5 M",
+        "prodpos": [
+          "8",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "kaurene",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "10-5 M",
+        "prodpos": [
+          "8",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "diphosphate",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "10-5 M",
+        "prodpos": [
+          "8",
+          "12"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

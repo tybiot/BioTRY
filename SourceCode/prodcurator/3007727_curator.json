@@ -1,0 +1,139 @@
+{
+  "sentence0": {
+    "sentece_text": "Neither a wide range of dosages of isoproterenol (0.5 mg/kg to 24 mg/kg), nor prolonged treatment with norepinephrine, the natural neurotransmitter, increased N-acetyltransferase (NAT) activity or melatonin production.",
+    "PRO": [
+      {
+        "chem": "norepinephrine",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "norepinephrine",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "N",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NAT",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NAT",
+        "chempos": [
+          "35",
+          "36"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "melatonin",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "melatonin",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "isoproterenol",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "0.5 mg/kg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "isoproterenol",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "24 mg/kg",
+        "prodpos": [
+          "14",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

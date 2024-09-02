@@ -1,0 +1,47 @@
+{
+  "sentence0": {
+    "sentece_text": "We performed a study which indicates that, as opposed to what happens in bacteria, the activity of NADP-GDH is fivefold higher when the halotolerant yeast Debaryomyces hansenii is grown in the presence of 1 M NaCl, compared with growth in media with no added salt.",
+    "PRO": [
+      {
+        "chem": "NADP",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "37",
+          "39"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "37",
+          "39"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "salt",
+        "chempos": [
+          "49",
+          "50"
+        ],
+        "prod": "1 M",
+        "prodpos": [
+          "37",
+          "39"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The substrate activity relationship was hyperbolic for both <span id=\"chem\">L-malate</span> and <span id=\"chem\">NADP+</span>, and Km values were calculated as <span id=\"titer\">0.18 mM</span> and <span id=\"titer\">0.12 mM</span>, respectively.</div>",
+    "Sentence 1: <div id_class=\"result-body\"><span id=\"chem\">Pyruvate</span>, <span id=\"chem\">NADPH</span> and <span id=\"chem\">OA</span> inhibited the reaction in a competitive manner with apparent Ki values of <span id=\"titer\">0.2 mM</span> , <span id=\"titer\">0.04 mM</span> and <span id=\"titer\">0.04 mM</span>, respectively, while <span id=\"chem\">oxalate</span> inhibition was of the mixed type.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "L-malate",
+        "chempos": [
+          "8",
+          "11"
+        ],
+        "prod": "0.18 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "L-malate",
+        "chempos": [
+          "8",
+          "11"
+        ],
+        "prod": "0.12 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "NADP+",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.18 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "NADP+",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0.12 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Pyruvate",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.2 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "Pyruvate",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "Pyruvate",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.2 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "NADPH",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "OA",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.2 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "OA",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "OA",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "oxalate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.2 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "oxalate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "20",
+          "22"
+        ]
+      },
+      {
+        "chem": "oxalate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.04 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The substrate activity relationship was hyperbolic for both L-malate and NADP+, and Km values were calculated as 0.18 and 0.12 mM, respectively.",
+    "Pyruvate, NADPH and OA inhibited the reaction in a competitive manner with apparent Ki values of 0.2, 0.04 and 0.04 mM, respectively, while oxalate inhibition was of the mixed type."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

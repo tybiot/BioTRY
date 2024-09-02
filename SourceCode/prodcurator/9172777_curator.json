@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "Selective solubilization of the protein using 5 M urea followed by dialysis, MonoQ FPLC, and Superdex-75 FPLC yielded electrophoretically pure Ubc7 protein.",
+    "PRO": [
+      {
+        "chem": "urea",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "5 M",
+        "prodpos": [
+          "6",
+          "8"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The performance of a bench-scale submerged membrane bioreactor (MBR) equipped with ultrafiltration membranes (ZENON) was investigated at different <span id=\"chem\">mixed liquor suspended solid</span> (<span id=\"chem\">MLSS</span>) concentrations (3069, 4314 and <span id=\"titer\">6204 mg/L</span>).</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "mixed liquor suspended solid",
+        "chempos": [
+          "24",
+          "28"
+        ],
+        "prod": "6204 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ]
+      },
+      {
+        "chem": "MLSS",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "6204 mg/L",
+        "prodpos": [
+          "37",
+          "41"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The performance of a bench-scale submerged membrane bioreactor (MBR) equipped with ultrafiltration membranes (ZENON) was investigated at different mixed liquor suspended solid (MLSS) concentrations (3069, 4314 and 6204 mg/L)."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ]
+  ]
+}

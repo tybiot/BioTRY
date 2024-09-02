@@ -1,0 +1,73 @@
+{
+  "sentence0": {
+    "sentece_text": "Using Saccharomyces cerevisiae as an experimental model, the potential toxicological effects of oxidized multi-walled carbon nanotubes (MWCNTs) were investigated following exposure to 0-600mg/L for 24h.",
+    "PRO": [
+      {
+        "chem": "carbon",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "0-600mg/L",
+        "prodpos": [
+          "27",
+          "32"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "MWCNTs",
+        "chempos": [
+          "20",
+          "21"
+        ],
+        "prod": "0-600mg/L",
+        "prodpos": [
+          "27",
+          "32"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Results indicated that MWCNTs (>100mg/L) had adverse effects on the cell proliferation.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "MWCNTs",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "100mg/L",
+        "prodpos": [
+          "6",
+          "9"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence2": {
+    "sentece_text": "The uptake kinetics data demonstrated that the maximum MWCNTs content (209.61mg/g) was reached at 3h, and a steady state was reached after 18h.",
+    "PRO": [
+      {
+        "chem": "MWCNTs",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "209.61mg/g",
+        "prodpos": [
+          "11",
+          "14"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

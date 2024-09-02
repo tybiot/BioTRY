@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The present study investigated the effect of hyperosmotic stress, due to exposure to hypertonic environment (<span id=\"titer\">300 mM</span> <span id=\"chem\">mannitol</span>) for 14 days, on gluconeogenesis in this catfish.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "mannitol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "300 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The present study investigated the effect of hyperosmotic stress, due to exposure to hypertonic environment (300 mM mannitol) for 14 days, on gluconeogenesis in this catfish."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

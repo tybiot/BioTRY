@@ -1,0 +1,80 @@
+{
+  "sentence0": {
+    "sentece_text": "IBMX (100 microM), an inhibitor of PDE, whose effects mimic those of low Ca(2+) on phototransduction, increased responses of both rod-ON-BCs and cone-ON-BCs, suggesting that the distinct effects of low Ca(2+) described above are attributable to differential modulation of signal transfer from different types of photoreceptors to BCs.",
+    "PRO": [
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "17",
+          "20"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "46",
+          "49"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "IBMX",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Moreover, scotopic ERG P III responses, reflecting the rod activity, were potentiated both in low Ca(2+) and in the presence of IBMX (100 microM).",
+    "PRO": [
+      {
+        "chem": "Ca(2+)",
+        "chempos": [
+          "18",
+          "21"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "28",
+          "30"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "IBMX",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "28",
+          "30"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

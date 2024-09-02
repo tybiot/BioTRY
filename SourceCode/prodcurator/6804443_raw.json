@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">When cells were allowed to become inactive by suspending them in the dark in <span id=\"chem\">Mg2+</span>-free buffer, full activity could be restored with a few minutes by adding <span id=\"titer\">20 mM</span> <span id=\"chem\">Mg2+</span> and illuminating the cells.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Mg2+",
+        "chempos": [
+          "14",
+          "16"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "30",
+          "32"
+        ]
+      },
+      {
+        "chem": "Mg2+",
+        "chempos": [
+          "32",
+          "34"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "30",
+          "32"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "When cells were allowed to become inactive by suspending them in the dark in Mg2+-free buffer, full activity could be restored with a few minutes by adding 20 mM Mg2+ and illuminating the cells."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ]
+  ]
+}

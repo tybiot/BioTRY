@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "It is, however, markedly labilized by an increase in the ionic strength of the medium brought about by the addition of 0.2 M potassium chloride or in pH above 9.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "potassium chloride",
+        "chempos": [
+          "25",
+          "27"
+        ],
+        "prod": "0.2 M",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

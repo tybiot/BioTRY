@@ -1,0 +1,182 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Residual <span id=\"chem\">sugar</span> levels were less than <span id=\"yields\">2.6 mg/g</span> while the shell contents and <span id=\"chem\">ethanol</span> were in the range of 11-13.4% and <span id=\"yields\">4.8-7 mg/g</span>, respectively.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Beans fermented in the presence of <span id=\"chem\">LAB</span> contained higher levels of <span id=\"chem\">lactic acid</span> (<span id=\"yields\">0.6-1.2 mg/g</span>) whereas higher concentrations of <span id=\"chem\">acetic acid</span> (<span id=\"yields\">1.8-2.2 mg/g</span>) were detected in beans inoculated with <span id=\"chem\">AAB</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "sugar",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "2.6 mg/g",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "1",
+          "2"
+        ],
+        "prod": "4.8-7 mg/g",
+        "prodpos": [
+          "26",
+          "32"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "2.6 mg/g",
+        "prodpos": [
+          "6",
+          "10"
+        ]
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "4.8-7 mg/g",
+        "prodpos": [
+          "26",
+          "32"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "LAB",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "0.6-1.2 mg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ]
+      },
+      {
+        "chem": "LAB",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "1.8-2.2 mg/g",
+        "prodpos": [
+          "28",
+          "34"
+        ]
+      },
+      {
+        "chem": "lactic acid",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "0.6-1.2 mg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ]
+      },
+      {
+        "chem": "lactic acid",
+        "chempos": [
+          "11",
+          "13"
+        ],
+        "prod": "1.8-2.2 mg/g",
+        "prodpos": [
+          "28",
+          "34"
+        ]
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "25",
+          "27"
+        ],
+        "prod": "0.6-1.2 mg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ]
+      },
+      {
+        "chem": "acetic acid",
+        "chempos": [
+          "25",
+          "27"
+        ],
+        "prod": "1.8-2.2 mg/g",
+        "prodpos": [
+          "28",
+          "34"
+        ]
+      },
+      {
+        "chem": "AAB",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "0.6-1.2 mg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ]
+      },
+      {
+        "chem": "AAB",
+        "chempos": [
+          "41",
+          "42"
+        ],
+        "prod": "1.8-2.2 mg/g",
+        "prodpos": [
+          "28",
+          "34"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Residual sugar levels were less than 2.6 mg/g while the shell contents and ethanol were in the range of 11-13.4% and 4.8-7 mg/g, respectively.",
+    "Beans fermented in the presence of LAB contained higher levels of lactic acid (0.6-1.2 mg/g) whereas higher concentrations of acetic acid (1.8-2.2 mg/g) were detected in beans inoculated with AAB."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The high levels of <span id=\"chem\">aflatoxin B1</span> produced byA. parasiticus (21 and <span id=\"yields\">30 mg/kg</span>) were obtained with 10(2) and 10(3) spores/ml after 35 and 20 days incubation.</div>",
+    "Sentence 1: <div id_class=\"result-body\">At 28 C and 0.97 <span id=\"chem\">water</span> activity (aw), the mean levels of <span id=\"chem\">zearalenone</span> production were 382, 267 and <span id=\"yields\">520 microg/kg</span> and the mean levels on <span id=\"chem\">deoxynivalenol</span> production were 697,465 and <span id=\"yields\">782 microg/kg</span>.</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "aflatoxin B1",
+        "chempos": [
+          "4",
+          "6"
+        ],
+        "prod": "30 mg/kg",
+        "prodpos": [
+          "12",
+          "16"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "water",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "520 microg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "water",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "782 microg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      },
+      {
+        "chem": "zearalenone",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "520 microg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "zearalenone",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "782 microg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      },
+      {
+        "chem": "deoxynivalenol",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "520 microg/kg",
+        "prodpos": [
+          "22",
+          "26"
+        ]
+      },
+      {
+        "chem": "deoxynivalenol",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "782 microg/kg",
+        "prodpos": [
+          "36",
+          "40"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The high levels of aflatoxin B1 produced byA. parasiticus (21 and 30 mg/kg) were obtained with 10(2) and 10(3) spores/ml after 35 and 20 days incubation.",
+    "At 28 C and 0.97 water activity (aw), the mean levels of zearalenone production were 382, 267 and 520 microg/kg and the mean levels on deoxynivalenol production were 697,465 and 782 microg/kg."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      0,
+      0,
+      1,
+      1,
+      0,
+      1
+    ]
+  ]
+}

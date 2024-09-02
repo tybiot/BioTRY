@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "We combined a number of strategies to create a base strain producing 11.4 mg/L of the precursor geraniol.",
+    "PRO": [
+      {
+        "chem": "geraniol",
+        "chempos": [
+          "19",
+          "20"
+        ],
+        "prod": "11.4 mg/L",
+        "prodpos": [
+          "12",
+          "16"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

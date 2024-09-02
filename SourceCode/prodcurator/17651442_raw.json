@@ -1,0 +1,97 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The reaction was stimulated by <span id=\"chem\">fumarate</span> (&gt; <span id=\"titer\">500 microM</span>), implicating the <span id=\"chem\">urea</span> cycle enzyme <span id=\"chem\">argininosuccinate</span> lyase (EC 4.3.2.1), which reversibly converts <span id=\"chem\">arginine</span> and <span id=\"chem\">fumarate</span> to <span id=\"chem\">argininosuccinate</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "fumarate",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "urea",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "argininosuccinate",
+        "chempos": [
+          "17",
+          "18"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "arginine",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "fumarate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "argininosuccinate",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "500 microM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The reaction was stimulated by fumarate (> 500 microM), implicating the urea cycle enzyme argininosuccinate lyase (EC 4.3.2.1), which reversibly converts arginine and fumarate to argininosuccinate."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ]
+}

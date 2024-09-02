@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Cells of Escherichia coli strain B develop large intracellular vacuoles and exhibit an abnormally long lag phase when inoculated into a defined medium to <span id=\"chem\">glucose</span> and salts containing 3 times <span id=\"titer\">10-6 M</span> <span id=\"chem\">Cd2+</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      },
+      {
+        "chem": "Cd2+",
+        "chempos": [
+          "34",
+          "36"
+        ],
+        "prod": "10-6 M",
+        "prodpos": [
+          "30",
+          "34"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Cells of Escherichia coli strain B develop large intracellular vacuoles and exhibit an abnormally long lag phase when inoculated into a defined medium to glucose and salts containing 3 times 10-6 M Cd2+."
+  ],
+  "prod_predict": [
+    [
+      0,
+      1
+    ]
+  ]
+}

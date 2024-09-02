@@ -1,0 +1,105 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Buffers and <span id=\"chem\">water</span> containing <span id=\"titer\">10 mM</span> <span id=\"chem\">NaCl</span> became bactericidal against all three bacteria upon PEF treatment, and the bactericidal effect could be neutralized by <span id=\"chem\">thiosulfate</span>, suggesting that <span id=\"chem\">chlorine</span> and/or <span id=\"chem\">hypochlorite</span> had been formed.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Typhimurium mutant strains, PEF treated <span id=\"chem\">Tris</span> buffers containing <span id=\"titer\">10 mM</span> Cl- ions, as well as PEF treated grape juice showed a mutagenic effect.</div>"
+  ],
+  "id": [
+    0,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "water",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "NaCl",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "thiosulfate",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "chlorine",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "hypochlorite",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "Tris",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "9",
+          "11"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Buffers and water containing 10 mM NaCl became bactericidal against all three bacteria upon PEF treatment, and the bactericidal effect could be neutralized by thiosulfate, suggesting that chlorine and/or hypochlorite had been formed.",
+    "In the Ames mutagenicity test using His- S .",
+    "Typhimurium mutant strains, PEF treated Tris buffers containing 10 mM Cl- ions, as well as PEF treated grape juice showed a mutagenic effect."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1
+    ]
+  ]
+}

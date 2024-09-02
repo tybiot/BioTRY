@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Already three weeks after inoculation <span id=\"yields\">4.9 mg/kg</span> of <span id=\"chem\">DON</span> were measured in the infected ears.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "DON",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "4.9 mg/kg",
+        "prodpos": [
+          "5",
+          "9"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Already three weeks after inoculation 4.9 mg/kg of DON were measured in the infected ears."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

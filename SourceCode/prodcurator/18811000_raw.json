@@ -1,0 +1,236 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Application of <span id=\"titer\">100 microM</span> <span id=\"chem\">aspterric acid</span> (AA), a pollen growth inhibitor, with different concentrations of <span id=\"chem\">indole-3-acetic acid</span> (<span id=\"chem\">IAA</span>) results in the recovery of normal pollen development of Arabidopsis thaliana.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Treatment with <span id=\"titer\">100 microM</span> AA plus <span id=\"titer\">5 mM</span> <span id=\"chem\">IAA</span> significantly induced the normal seed production.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Treatment with <span id=\"titer\">100 microM</span> <span id=\"chem\">N-1-naphthylphthalamic acid</span> (<span id=\"chem\">NPA</span>), a polar auxin transport inhibitor, did not reduce the pollen growth but inhibited seed production.</div>",
+    "Sentence 3: <div id_class=\"result-body\"><span id=\"titer\">100 microM</span> <span id=\"chem\">NPA</span> plus <span id=\"titer\">5 mM</span> <span id=\"chem\">IAA</span> did not induce any seed production.</div>",
+    "Sentence 4: <div id_class=\"result-body\">The endogenous level of <span id=\"chem\">IAA</span> in stems and leaves of A. thaliana treated with <span id=\"titer\">100 microM</span> AA was similar to that of the untreated control.</div>",
+    "Sentence 5: <div id_class=\"result-body\">In contrast to AA treatment, the <span id=\"chem\">IAA</span> level by the treatment with <span id=\"titer\">100 microM</span> <span id=\"chem\">NPA</span> was about twice as much as that of the untreated control.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "aspterric acid",
+        "chempos": [
+          "4",
+          "6"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "chem": "indole-3-acetic acid",
+        "chempos": [
+          "19",
+          "21"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "chem": "IAA",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "IAA",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "chem": "IAA",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "6",
+          "8"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "N-1-naphthylphthalamic acid",
+        "chempos": [
+          "4",
+          "6"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "chem": "NPA",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "NPA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "chem": "NPA",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "IAA",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "0",
+          "2"
+        ]
+      },
+      {
+        "chem": "IAA",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "5 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "IAA",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "14",
+          "16"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "IAA",
+        "chempos": [
+          "7",
+          "8"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "chem": "NPA",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "100 microM",
+        "prodpos": [
+          "13",
+          "15"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Application of 100 microM aspterric acid (AA), a pollen growth inhibitor, with different concentrations of indole-3-acetic acid (IAA) results in the recovery of normal pollen development of Arabidopsis thaliana.",
+    "Treatment with 100 microM AA plus 5 mM IAA significantly induced the normal seed production.",
+    "Treatment with 100 microM N-1-naphthylphthalamic acid (NPA), a polar auxin transport inhibitor, did not reduce the pollen growth but inhibited seed production.",
+    "100 microM NPA plus 5 mM IAA did not induce any seed production.",
+    "The endogenous level of IAA in stems and leaves of A. thaliana treated with 100 microM AA was similar to that of the untreated control.",
+    "In contrast to AA treatment, the IAA level by the treatment with 100 microM NPA was about twice as much as that of the untreated control."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      1
+    ],
+    [
+      0,
+      1
+    ]
+  ]
+}

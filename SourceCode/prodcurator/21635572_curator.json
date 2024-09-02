@@ -1,0 +1,40 @@
+{
+  "sentence0": {
+    "sentece_text": "Ca 0.04-0.09%DM; Group B:",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Ca",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.04-0.09%DM",
+        "prodpos": [
+          "1",
+          "4"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "Ca 0.47-0.84%DM).",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "Ca",
+        "chempos": [
+          "0",
+          "1"
+        ],
+        "prod": "0.47-0.84%DM",
+        "prodpos": [
+          "1",
+          "4"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

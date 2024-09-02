@@ -1,0 +1,45 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The oligonucleosomes assembled from 12-repeat DNA and saturating amounts of core histone octamer plus histone <span id=\"chem\">H5</span> are compacted, in the presence of <span id=\"titer\">1 mM</span> free <span id=\"chem\">magnesium</span> ions, to the level of the 30-nm fiber.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "H5",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      },
+      {
+        "chem": "magnesium",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The oligonucleosomes assembled from 12-repeat DNA and saturating amounts of core histone octamer plus histone H5 are compacted, in the presence of 1 mM free magnesium ions, to the level of the 30-nm fiber."
+  ],
+  "prod_predict": [
+    [
+      0,
+      0
+    ]
+  ]
+}

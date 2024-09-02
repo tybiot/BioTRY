@@ -1,0 +1,48 @@
+{
+  "sentence0": {
+    "sentece_text": "The TrpD2 proteins show high structural homology to anthranilate phosphoribosyltransferase (TrpD) and nucleoside phosphorylase class II enzymes but bind with high affinity (KD = 10-100 nM) to nucleic acids without detectable sequence specificity.",
+    "PRO": [
+      {
+        "chem": "anthranilate",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "10-100 nM",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nucleic acids",
+        "chempos": [
+          "33",
+          "35"
+        ],
+        "prod": "10-100 nM",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "nucleoside",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10-100 nM",
+        "prodpos": [
+          "27",
+          "31"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

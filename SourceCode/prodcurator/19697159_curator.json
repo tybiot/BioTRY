@@ -1,0 +1,373 @@
+{
+  "sentence0": {
+    "sentece_text": "The highest hydrogen-production rate (i.e., 0.18 mL/mg day or 7.3 micromol/mg day) was observed in cultures with an initial medium nitrate concentration of 1 mM at a light intensity of 100 micromol/m(2) s. The addition of photosystem II (PSII) inhibitor 3-(3,4-dichlorophenyl)-1,1-dimethylurea (DCMU) did not reduce hydrogen-production rates relative to unchallenged controls for 50 to 150 h, and intracellular glycogen concentrations decreased significantly during the hydrogen generation period.",
+    "PRO": [
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.18 mL/mg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "7.3 micromol/mg",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "nitrate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "0.18 mL/mg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "nitrate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "7.3 micromol/mg",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "3-(3,4-dichlorophenyl)-1,1-dimethylurea",
+        "chempos": [
+          "54",
+          "55"
+        ],
+        "prod": "0.18 mL/mg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "3-(3,4-dichlorophenyl)-1,1-dimethylurea",
+        "chempos": [
+          "54",
+          "55"
+        ],
+        "prod": "7.3 micromol/mg",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "3-(3,4-dichlorophenyl)-1,1-dimethylurea",
+        "chempos": [
+          "54",
+          "55"
+        ],
+        "prod": "100 micromol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DCMU",
+        "chempos": [
+          "56",
+          "57"
+        ],
+        "prod": "0.18 mL/mg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DCMU",
+        "chempos": [
+          "56",
+          "57"
+        ],
+        "prod": "7.3 micromol/mg",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DCMU",
+        "chempos": [
+          "56",
+          "57"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "DCMU",
+        "chempos": [
+          "56",
+          "57"
+        ],
+        "prod": "100 micromol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "0.18 mL/mg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "7.3 micromol/mg",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "61",
+          "62"
+        ],
+        "prod": "100 micromol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycogen",
+        "chempos": [
+          "77",
+          "78"
+        ],
+        "prod": "0.18 mL/mg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycogen",
+        "chempos": [
+          "77",
+          "78"
+        ],
+        "prod": "7.3 micromol/mg",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycogen",
+        "chempos": [
+          "77",
+          "78"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glycogen",
+        "chempos": [
+          "77",
+          "78"
+        ],
+        "prod": "100 micromol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "0.18 mL/mg",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "7.3 micromol/mg",
+        "prodpos": [
+          "15",
+          "19"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "100 micromol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "hydrogen",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "100 micromol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "nitrate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "nitrate",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "100 micromol",
+        "prodpos": [
+          "39",
+          "41"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "3-(3,4-dichlorophenyl)-1,1-dimethylurea",
+        "chempos": [
+          "54",
+          "55"
+        ],
+        "prod": "1 mM",
+        "prodpos": [
+          "32",
+          "34"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

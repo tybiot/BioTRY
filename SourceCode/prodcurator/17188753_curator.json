@@ -1,0 +1,463 @@
+{
+  "sentence0": {
+    "sentece_text": "The biosensor-like device we are presenting allows us to calculate Michaelis-Menten parameters related to the kinetics of transport and degradation of several carbohydrates (i.e., glucose, fructose, galactose, sucrose and xylose, with K(m(app)) of 6.0, 5.8, 0.9, 2.0, and 147 mM, respectively), and the study of the kinetics of expression of non-constitutive proteins related to the transport and degradation of galactose.",
+    "PRO": [
+      {
+        "chem": "carbohydrates",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "6.0 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbohydrates",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "5.8 mM",
+        "prodpos": [
+          "48",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbohydrates",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "0.9 mM",
+        "prodpos": [
+          "51",
+          "53"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbohydrates",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "2.0 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "carbohydrates",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "57",
+          "59"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "6.0 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "5.8 mM",
+        "prodpos": [
+          "48",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "0.9 mM",
+        "prodpos": [
+          "51",
+          "53"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "2.0 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "30",
+          "31"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "57",
+          "59"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "6.0 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "5.8 mM",
+        "prodpos": [
+          "48",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "0.9 mM",
+        "prodpos": [
+          "51",
+          "53"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "2.0 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "fructose",
+        "chempos": [
+          "32",
+          "33"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "57",
+          "59"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "6.0 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "5.8 mM",
+        "prodpos": [
+          "48",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "0.9 mM",
+        "prodpos": [
+          "51",
+          "53"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "2.0 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "57",
+          "59"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "6.0 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "5.8 mM",
+        "prodpos": [
+          "48",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "0.9 mM",
+        "prodpos": [
+          "51",
+          "53"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "2.0 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "36",
+          "37"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "57",
+          "59"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "6.0 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "5.8 mM",
+        "prodpos": [
+          "48",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "0.9 mM",
+        "prodpos": [
+          "51",
+          "53"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "2.0 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "xylose",
+        "chempos": [
+          "38",
+          "39"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "57",
+          "59"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "6.0 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "5.8 mM",
+        "prodpos": [
+          "48",
+          "50"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "0.9 mM",
+        "prodpos": [
+          "51",
+          "53"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "2.0 mM",
+        "prodpos": [
+          "54",
+          "56"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "galactose",
+        "chempos": [
+          "83",
+          "84"
+        ],
+        "prod": "147 mM",
+        "prodpos": [
+          "57",
+          "59"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  }
+}

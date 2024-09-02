@@ -1,0 +1,32 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The strain synthesized the compound in culture media containing less than <span id=\"titer\">2 microM</span> added <span id=\"chem\">FeCl3</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "FeCl3",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "2 microM",
+        "prodpos": [
+          "11",
+          "13"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The strain synthesized the compound in culture media containing less than 2 microM added FeCl3."
+  ],
+  "prod_predict": [
+    [
+      1
+    ]
+  ]
+}

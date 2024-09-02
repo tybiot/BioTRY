@@ -1,0 +1,98 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">Standard doses of 0, 8 and <span id=\"titer\">16 mM</span> <span id=\"chem\">U75412E</span> were aerosolized and ventilated into the lungs for 3 min.</div>",
+    "Sentence 1: <div id_class=\"result-body\">Pretreatment with <span id=\"titer\">16 mM</span> <span id=\"chem\">U75412E</span> significantly increased blood <span id=\"chem\">PaO2</span> and pH values, and decreased blood <span id=\"chem\">PaCO2</span> as compared to smoke only exposures.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Histopathology indicated that <span id=\"titer\">16 mM</span> <span id=\"chem\">U75412E</span> pretreatment attenuated increases in wet lung/body weight ratios, inflammatory focus, and interstitial oedema associated with smoke insult.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "U75412E",
+        "chempos": [
+          "9",
+          "10"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "7",
+          "9"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "U75412E",
+        "chempos": [
+          "4",
+          "5"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "chem": "PaO2",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "chem": "PaCO2",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "2",
+          "4"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "U75412E",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "16 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Standard doses of 0, 8 and 16 mM U75412E were aerosolized and ventilated into the lungs for 3 min.",
+    "Pretreatment with 16 mM U75412E significantly increased blood PaO2 and pH values, and decreased blood PaCO2 as compared to smoke only exposures.",
+    "Histopathology indicated that 16 mM U75412E pretreatment attenuated increases in wet lung/body weight ratios, inflammatory focus, and interstitial oedema associated with smoke insult."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      1
+    ]
+  ]
+}

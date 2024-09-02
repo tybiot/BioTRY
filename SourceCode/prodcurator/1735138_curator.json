@@ -1,0 +1,60 @@
+{
+  "sentence0": {
+    "sentece_text": "After 10 minutes of ischemia, K+ accumulation was approximately 2.5 mM in muscles with a radius of 0.35 mm and approximately 14 mM in muscles with a radius of 0.9 mm, indicating that a large fraction of K+ accumulation was dependent on diffusion of a volatile metabolite.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "K+",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "2.5 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "K+",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "14 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "K+",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "2.5 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "K+",
+        "chempos": [
+          "39",
+          "40"
+        ],
+        "prod": "14 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

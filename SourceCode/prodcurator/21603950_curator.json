@@ -1,0 +1,157 @@
+{
+  "sentence0": {
+    "sentece_text": "A maximum ethanol concentration of 29.7 g/L was achieved after 120 h of fermentation; however, after 90 h of fermentation, the ethanol concentration was only slightly lower at 29.1 g/L with a yield of 0.39 g ethanol per gram of sugar consumed.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "29.7 g/L",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "29.1 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "0.39 g ethanol per gram",
+        "prodpos": [
+          "41",
+          "46"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "29.7 g/L",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "29.1 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "26",
+          "27"
+        ],
+        "prod": "0.39 g ethanol per gram",
+        "prodpos": [
+          "41",
+          "46"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "29.7 g/L",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "29.1 g/L",
+        "prodpos": [
+          "33",
+          "37"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sugar",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "0.39 g ethanol per gram",
+        "prodpos": [
+          "41",
+          "46"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": []
+  },
+  "sentence1": {
+    "sentece_text": "Using the same air flow rate and adjusting the agitation rate resulted in lower ethanol yields of 0.25 g/g at 50 rpm and 0.30 g/g at 300 rpm.",
+    "PRO": [
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "0.25 g/g",
+        "prodpos": [
+          "17",
+          "21"
+        ],
+        "prod_lable": 1
+      },
+      {
+        "chem": "ethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "0.30 g/g",
+        "prodpos": [
+          "25",
+          "29"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

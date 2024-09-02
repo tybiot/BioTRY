@@ -1,0 +1,424 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In serum chelated by <span id=\"titer\">10 mM</span> <span id=\"chem\">EGTA</span> and <span id=\"titer\">10 mM</span> <span id=\"chem\">MgCl-2</span> (<span id=\"titer\">10 mM</span> <span id=\"chem\">MgEGTA</span>) activation by the classical pathway was blocked, but activation of <span id=\"chem\">C3PA</span> and C3 occurred normally.</div>",
+    "Sentence 1: <div id_class=\"result-body\">By immunoelectrophoresis, <span id=\"chem\">C3PA</span> and C3 were shown to be activated by <span id=\"chem\">CoF</span> in serum chelated with <span id=\"titer\">6 mM</span> but not with <span id=\"titer\">10 mM</span> <span id=\"chem\">EGTA</span> without added <span id=\"chem\">Mg++</span>.</div>",
+    "Sentence 2: <div id_class=\"result-body\">Inulin and endotoxin did not result in activation of either <span id=\"chem\">C3PA</span> or C3, while <span id=\"chem\">C3PA</span> but not C3 was activated by <span id=\"chem\">zymosan</span> in the presence of <span id=\"titer\">10 mM</span> <span id=\"chem\">EGTA</span> without <span id=\"chem\">Mg++</span> added.</div>",
+    "Sentence 3: <div id_class=\"result-body\">Consumption of <span id=\"chem\">properdin</span> and C3, measured by radial immunodiffusion, was inhibited by 6 to <span id=\"titer\">10 mM</span> <span id=\"chem\">EGTA</span> following activation by inulin, but not following activation by <span id=\"chem\">zymosan</span>.</div>",
+    "Sentence 4: <div id_class=\"result-body\">The usefulness of <span id=\"titer\">10 mM</span> <span id=\"chem\">MgEGTA</span>-chelated serum for the selective investigation of the alternate pathway in chemotaxis was demonstrated.</div>"
+  ],
+  "id": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "6",
+          "7"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "MgCl-2",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "MgCl-2",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "MgCl-2",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "MgEGTA",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "MgEGTA",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "MgEGTA",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      },
+      {
+        "chem": "C3PA",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "chem": "C3PA",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "8",
+          "10"
+        ]
+      },
+      {
+        "chem": "C3PA",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "12",
+          "14"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "C3PA",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "6 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "C3PA",
+        "chempos": [
+          "3",
+          "4"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "CoF",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "6 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "CoF",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "6 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "24",
+          "25"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "chem": "Mg++",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "6 mM",
+        "prodpos": [
+          "17",
+          "19"
+        ]
+      },
+      {
+        "chem": "Mg++",
+        "chempos": [
+          "27",
+          "28"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "22",
+          "24"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "C3PA",
+        "chempos": [
+          "10",
+          "11"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "C3PA",
+        "chempos": [
+          "15",
+          "16"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "zymosan",
+        "chempos": [
+          "22",
+          "23"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "chem": "Mg++",
+        "chempos": [
+          "31",
+          "32"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "27",
+          "29"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "properdin",
+        "chempos": [
+          "2",
+          "3"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "EGTA",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      },
+      {
+        "chem": "zymosan",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "16",
+          "18"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "MgEGTA",
+        "chempos": [
+          "5",
+          "6"
+        ],
+        "prod": "10 mM",
+        "prodpos": [
+          "3",
+          "5"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In serum chelated by 10 mM EGTA and 10 mM MgCl-2 (10 mM MgEGTA) activation by the classical pathway was blocked, but activation of C3PA and C3 occurred normally.",
+    "By immunoelectrophoresis, C3PA and C3 were shown to be activated by CoF in serum chelated with 6 mM but not with 10 mM EGTA without added Mg++.",
+    "Inulin and endotoxin did not result in activation of either C3PA or C3, while C3PA but not C3 was activated by zymosan in the presence of 10 mM EGTA without Mg++ added.",
+    "Consumption of properdin and C3, measured by radial immunodiffusion, was inhibited by 6 to 10 mM EGTA following activation by inulin, but not following activation by zymosan.",
+    "The usefulness of 10 mM MgEGTA-chelated serum for the selective investigation of the alternate pathway in chemotaxis was demonstrated."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      1
+    ]
+  ]
+}

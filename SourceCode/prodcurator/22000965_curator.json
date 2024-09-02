@@ -1,0 +1,54 @@
+{
+  "sentence0": {
+    "sentece_text": "Under optimum hydrolysis conditions, 0.685 g/g of reducing sugar was produced per gram of pretreated biomass.",
+    "PRO": [
+      {
+        "chem": "sugar",
+        "chempos": [
+          "11",
+          "12"
+        ],
+        "prod": "0.685 g/g",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "biomass",
+        "chempos": [
+          "18",
+          "19"
+        ],
+        "prod": "0.685 g/g",
+        "prodpos": [
+          "5",
+          "9"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  },
+  "sentence1": {
+    "sentece_text": "The fermentation of the hydrolyzate using Saccharomyces cerevisae produced 11.365 g/L of bioethanol with an efficiency of about 50%.",
+    "PRO": [
+      {
+        "chem": "bioethanol",
+        "chempos": [
+          "14",
+          "15"
+        ],
+        "prod": "11.365 g/L",
+        "prodpos": [
+          "9",
+          "13"
+        ],
+        "prod_lable": 1
+      }
+    ],
+    "CON": []
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">The method consisted of a two-step gradient (0% B for 2 min and from 0 to 50% B in 10 min) being mobile phase A a <span id=\"titer\">2 0mM</span> <span id=\"chem\">borate</span> buffer (pH 9) and mobile phase B a <span id=\"titer\">20 mM</span> <span id=\"chem\">borate</span> buffer (pH 9) containing <span id=\"titer\">1M</span> <span id=\"chem\">sodium chloride</span>.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "borate",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "2 0mM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "borate",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ]
+      },
+      {
+        "chem": "borate",
+        "chempos": [
+          "34",
+          "35"
+        ],
+        "prod": "1M",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "borate",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "2 0mM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "borate",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ]
+      },
+      {
+        "chem": "borate",
+        "chempos": [
+          "47",
+          "48"
+        ],
+        "prod": "1M",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      },
+      {
+        "chem": "sodium chloride",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "2 0mM",
+        "prodpos": [
+          "32",
+          "34"
+        ]
+      },
+      {
+        "chem": "sodium chloride",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "20 mM",
+        "prodpos": [
+          "45",
+          "47"
+        ]
+      },
+      {
+        "chem": "sodium chloride",
+        "chempos": [
+          "56",
+          "58"
+        ],
+        "prod": "1M",
+        "prodpos": [
+          "54",
+          "56"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "The method consisted of a two-step gradient (0% B for 2 min and from 0 to 50% B in 10 min) being mobile phase A a 2 0mM borate buffer (pH 9) and mobile phase B a 20 mM borate buffer (pH 9) containing 1M sodium chloride."
+  ],
+  "prod_predict": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ]
+}

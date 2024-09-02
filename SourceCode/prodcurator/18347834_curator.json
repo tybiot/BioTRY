@@ -1,0 +1,21 @@
+{
+  "sentence0": {
+    "sentece_text": "The third group was also preconditioned, but the free radical scavenger N-2-mercaptopropionyl glycine (MPG 300 microM) was infused during the 10-min reperfusion and therefore was present in the myocardium in the distribution of the snared coronary artery during the entire reperfusion phase and also during the subsequent 30-min ischemia.",
+    "PRO": [],
+    "CON": [
+      {
+        "chem": "N-2-mercaptopropionyl glycine",
+        "chempos": [
+          "12",
+          "14"
+        ],
+        "prod": "300 microM",
+        "prodpos": [
+          "16",
+          "18"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\">In planta, 82% of group 1 strains and 25% of group 2 strains produced high levels (<span id=\"yields\">100-1500 microg/g</span>) of <span id=\"chem\">moniliformin</span>.</div>",
+    "Sentence 1: <div id_class=\"result-body\">All group 2 strains from more northern states produced little or no <span id=\"chem\">moniliformin</span> (<span id=\"yields\">0-5 microg/g</span>).</div>"
+  ],
+  "id": [
+    0,
+    1
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "moniliformin",
+        "chempos": [
+          "28",
+          "29"
+        ],
+        "prod": "100-1500 microg/g",
+        "prodpos": [
+          "20",
+          "26"
+        ]
+      }
+    ],
+    [
+      {
+        "chem": "moniliformin",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "0-5 microg/g",
+        "prodpos": [
+          "14",
+          "20"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "In planta, 82% of group 1 strains and 25% of group 2 strains produced high levels (100-1500 microg/g) of moniliformin.",
+    "All group 2 strains from more northern states produced little or no moniliformin (0-5 microg/g)."
+  ],
+  "prod_predict": [
+    [
+      1
+    ],
+    [
+      1
+    ]
+  ]
+}

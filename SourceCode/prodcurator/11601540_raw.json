@@ -1,0 +1,71 @@
+{
+  "sentences": [
+    "Sentence 0: <div id_class=\"result-body\"><span id=\"chem\">Acetic acid</span> production was <span id=\"yields\">0.67 g/g</span> <span id=\"chem\">cellulose</span> substrate utilized in <span id=\"chem\">cellulose mineral salt</span> (<span id=\"chem\">CMS</span>) medium.</div>"
+  ],
+  "id": [
+    0
+  ],
+  "prod_extractor": [
+    [
+      {
+        "chem": "Acetic acid",
+        "chempos": [
+          "0",
+          "2"
+        ],
+        "prod": "0.67 g/g",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "cellulose",
+        "chempos": [
+          "8",
+          "9"
+        ],
+        "prod": "0.67 g/g",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "cellulose mineral salt",
+        "chempos": [
+          "12",
+          "15"
+        ],
+        "prod": "0.67 g/g",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "chem": "CMS",
+        "chempos": [
+          "16",
+          "17"
+        ],
+        "prod": "0.67 g/g",
+        "prodpos": [
+          "4",
+          "8"
+        ]
+      }
+    ]
+  ],
+  "sentence_raw": [
+    "Acetic acid production was 0.67 g/g cellulose substrate utilized in cellulose mineral salt (CMS) medium."
+  ],
+  "prod_predict": [
+    [
+      1,
+      0,
+      0,
+      0
+    ]
+  ]
+}

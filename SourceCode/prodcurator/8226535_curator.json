@@ -1,0 +1,191 @@
+{
+  "sentence0": {
+    "sentece_text": "The vasculature was flushed with physiological salt solution containing either 15 mM glucose (hyperoxia-glucose, anoxia-glucose), 15 mM sucrose (hyperoxia-sucrose, anoxia-sucrose), or no substrate (hyperoxia-no substrate, anoxia-no substrate) (n = 6 for each condition).",
+    "PRO": [
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "glucose",
+        "chempos": [
+          "12",
+          "13"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hyperoxia-glucose",
+        "chempos": [
+          "14",
+          "17"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hyperoxia-glucose",
+        "chempos": [
+          "14",
+          "17"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "anoxia-glucose",
+        "chempos": [
+          "18",
+          "21"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "anoxia-glucose",
+        "chempos": [
+          "18",
+          "21"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "29",
+          "30"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "anoxia-sucrose",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "anoxia-sucrose",
+        "chempos": [
+          "31",
+          "34"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hyperoxia-no",
+        "chempos": [
+          "40",
+          "43"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "10",
+          "12"
+        ],
+        "prod_lable": 0
+      },
+      {
+        "chem": "hyperoxia-no",
+        "chempos": [
+          "40",
+          "43"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 0
+      }
+    ],
+    "CON": [
+      {
+        "chem": "sucrose",
+        "chempos": [
+          "25",
+          "26"
+        ],
+        "prod": "15 mM",
+        "prodpos": [
+          "23",
+          "25"
+        ],
+        "prod_lable": 1
+      }
+    ]
+  }
+}
